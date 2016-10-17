@@ -1,0 +1,226 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  
+  <text>
+    <!--
+      <div>
+        <head>Datos bibliográficos</head>
+        <table>
+          <row>
+            <cell>Editor científico</cell>
+            <cell>Muriel ELVIRA</cell>
+          </row>
+          <row>
+            <cell>Autor</cell>
+            <cell>Francisco Fernández de Córdoba, abad de Rute</cell>
+          </row>
+          <row>
+            <cell>Destinatario / dedicatario</cell>
+            <cell>Luis de Góngora y Argote</cell>
+          </row>
+          <row>
+            <cell>Título</cell>
+            <cell><hi rend="i">Parecer de don Francisco de Córdoba acerca de las</hi> Soledades, <hi rend="i">a instancia de su autor</hi></cell>
+          </row>
+          <row>
+            <cell>Fecha</cell>
+            <cell>1614</cell>
+          </row>
+          <row>
+            <cell>Fuentes</cell>
+            <cell>BFBM, B106-V1-36, f. 131r-145v [antigua referencia cuando el manuscrito estaba en Madrid: Registro 6454, signatura: 18/10/11]</cell>
+          </row>
+          <row>
+            <cell>Ediciones modernas</cell>
+            <cell>
+              <p rend="noindent">Orozco (1969c: 130-145)</p>
+              <p rend="noindent">Carreira (2008: II, 493-513)</p>
+              <p rend="noindent">Martínez Arancón (1978: 13-28)</p>
+              <p rend="noindent">Sliwa (2004: 572-587).</p>
+            </cell>
+          </row>
+          <row>
+            <cell>Responde a otro texto</cell>
+            <cell>[Alguna carta perdida de Góngora de 1613]  1614_parecer</cell>
+          </row>
+          <row>
+            <cell>Referencias a la polémica</cell>
+            <cell>1613_carta-valencia</cell>
+          </row>
+        </table>
+      </div>
+      -->
+    
+    <body>
+
+      <div>
+        <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131r.png" n="f. 131r"/>
+        
+        <p>Vino a mis manos, por las del señor Francisco de Gálvez, la primera parte de sus <title>Soledades</title> de vuestra merced y lo que tiene hecho de la segunda, con que me intimó un mandato de vuestra merced preciso: que las viese y le dijese mi sentimiento. Acudí a lo primero con mucho gusto, por ser en favor mío, que no le tengo por pequeño el comunicarme vuestra merced sus obras tan para estimar de todo el mundo, y en particular de mí, o por la antigua amistad, o porque, como he visto algún tanto en poetas y poemas antiguos y modernos, me corre obligación de saber la excelencia de los de vuestra merced, la ventaja que hacen a los demás, sus agudezas peregrinas, la eminencia de su ingenio ya mejor aplicado que hasta aquí a cosa que participa de lo serio y continuado. Ojalá fuera la materia más grave, heroica, como algunas veces lo he procurado, si bien no he podido persuadir a vuestra merced, y no quedara nuestra España (como está hoy) sin alabanza alguna en este género. Ello, al fin, es tal que puede dar cuidado o quitarles de él a cuantos tratan de componer, pues con razón lo que de las de <name type="author">Virgilio</name> diremos de sus composiciones de vuestra merced:<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131v.png" n="f. 131v"/></p>
+        
+        <p rend="noindent">y cierto que, si dijo <name type="author">Estacio Papinio</name> en el <title>Genethliaco</title> de nuestro cordobés <name type="author">Lucano</name>:</p>
+        
+        <p rend="noindent">que sin escrúpulo de consciencia lo podremos aplicar a vuestra merced.</p>
+        <p>Y de mí confieso que, cuando por otros fines y ocupaciones no hubiera dado de mano a la poesía, lo hubiera hecho por conocerme incapaz de arribar a la alteza que posee vuestra merced en esta arte que no admite medianía, conforme al juicio de <name type="author">Horacio</name> tan experimentado a costa de muchos. Dé vuestra merced gracias a Dios que ha pasado muy arriba de este grado y que, confesándolo así todos, sin que sobre esto pueda movérsele guerra de consideración,</p>
+        
+        <p rend="noindent">Y, si ya no es profanar la sagrada escritura
+(<foreign xml:lang="lat">quod absit a nobis</foreign>), está hecho vuestra merced 
+          . Pues como dijo ese otro:</p>
+        
+        <p rend="noindent">y</p>
+        
+        <p rend="noindent"><pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f132r.png" n="f. 132r"/> Respecto de lo cual son casi convertibles poeta y profeta, según la autoridad irrefragable de <name type="author">San Pablo</name>: 
+ , hablando de <name type="author">Epiménides cretense</name>; y el nombre de vates comprehende a ambos.</p>
+        <p>Digo, pues, volviendo (como dicen los juristas <hi rend="i">post liminio</hi>, por no decir ) al recaudo que se me dio en nombre de vuestra merced: a lo primero obedecí con muy buen gusto, pero no a lo segundo, porque tengo, y no sin fundamento, por tan sospechosas y mal acreditadas para con vuestra merced mis advertencias como mi silencio. De éste hice prueba en la <title>Canción al Larache</title>, donde se juzgó por culpable en mí lo que otros advirtieron del «si, no» demasiadamente frecuentado. De aquéllas en lo que, por mandado de vuestra merced, advertí acerca del <title>Polifemo</title>, en que, diciendo (Dios me es testigo) sinceramente mi sentimiento, con notar lo que pudiera a mi parecer (por ventura mal fundado) reformarse, vuestra merced, por algunas razones que debe tener, 
+ siguió su dictamen:</p>
+        
+        <p>antes el efecto que hicieron:</p>
+        
+        <p>Y así me pareció que era impertinente cualquier <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f132v.png" n="f. 132v"/>aviso en materia de las <title>Soledades</title>, pues no había de obrar más que los pasados y, por dicha o desdicha mía, caería crudo sobre indigesto, principalmente no pudiéndole yo dar de palabra por las ocupaciones de la Iglesia, aspereza del tiempo y otros impedimentos precisos de lo que fuera tan de mi gusto. Pero rendime, al fin, a los ruegos del que trajo el papel y a la amistad que debo a vuestra merced y deseo que tengo de servirle y que parezcan todas sus obras dignos partos (y no abortos) de su ingenio. Y prometo a vuestra merced, como cristiano, que en esta parte soy tan tímido y me reduzco tan fácilmente que mi libro de la <title>Didascalia</title> le vieron muchos padres de la Compañía y otras personas doctas y, conforme a su censura, reformé muchas cosas, y últimamente conforme a la del padre <name type="author">Juan Luis de la Cerda</name>, cosa que constará por la carta que yo tengo suya y que él tiene mía, en que le concedí y quité por su parecer algunas, y di razón en defensa mía de otras; y no reparé en que dijese nadie que habían enmendado en mi libro algunas menudencias, pues al fin el todo era trabajos míos, y con este nombre los había de ver el mundo, y no con el de los reformadores; y que los haya en obras grandes y pequeñas, y con razón, no es maravilla, <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f133r.png" n="f. 133r"/> pues 
+. Y la <hi rend="i">philautia</hi> o amor proprio ciega los hombres y hace parecer 
+; y más ven cuatro ojos que dos; y más que el que juega el que mira. Y como refiere por proverbio griego <name type="author">Agelio</name>:</p>
+        
+        <p rend="noindent">que Apeles, pintor sumo (según de otros refiere <name type="author">Conrado Licóstenes</name>
+          ), no se desdeñó de enmendar en un cuadro suyo lo que advirtió el zapatero conforme a las reglas de su arte. Y así de ordinario todo cuanto he escrito de poca o de mucha consideración lo he comunicado con personas inteligentes y, conforme a su censura, enmendádolo, acordándome de lo que dice el sabio: 
+  y, más adelante:  . Y al menos en esta parte he procurado no serlo.</p>
+        <p>Viniendo, pues, en particular a lo que juzgo de las <title>Soledades</title>, hálloles tanto bueno que no sé por dónde comience a loarlas, ni por dónde acabe, porque, habiendo sujeto capaz de ponderación inmensa, me sucede lo que a <name type="author">Teócrito</name> cuando en el <title>Eydilio 17</title> a Ptolomeo Filadelfo dijo:</p>
+        
+        <p rend="noindent">que después imitó <name type="author">Policiano</name> en la <title>Manto</title>:</p>
+        
+        <p rend="noindent">y yo imité de ambos en mi silva <title>Prometeo</title>. Y así, dejando como cosa 
+ y debida a más facundia que a la mía sus alabanzas, pues cualesquiera serán inferiores a las que merecen la descripción de la vida rústica en aquellos amebeos:</p>
+        
+        <p rend="noindent">la de la navegación del océano, la de los juegos de carrera y lucha, y el epitalamio (superior, a mi juicio, a los de <name type="author">Catulo</name>) y lo que en esta segunda parte con buen acuerdo mejoró vuestra merced, dándole habla al peregrino que, en la primera, no sé si justamente, calló siempre entre tantas ocasiones de romper el silencio, que no quiero descender a los particulares de versos y pensamientos divinos.</p>
+        <p>Juzgo, mi señor, que lo que a la hermosura de estas <title>Soledades</title> y vago lienzo de Flandes ofusca y hace sombra (efecto suyo proprio) es la oscuridad: cuanto más afectada y puesta en práctica, tanto más viciosa, pero seguida <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f134r.png" n="f. 134r"/>de vuestra merced; a quien yo no quiero persuadir con autoridad mía (que no me atribuyo tanta), sino con la de los más graves autores del mundo, que procuran desterrarla de los escritos bien formados.</p>
+        <p><name type="author">Aristóteles</name>, maestro mayor de esta obra, en su <title>Poética</title>, hablando de la virtud de la dicción: 
+ . 
+<name type="author">Quintiliano</name>: 
+ . Y en el capítulo segundo del libro cuatro: 
+, y más abajo: 
+. 
+<name type="author">Diomedes</name>: 
+. Pero si de mi juicio, siguiendo a los antiguos, cual otro</p>
+        
+        <p><pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f134v.png" n="f. 134v"/> se apelare para los modernos, oigamos a <name type="author">Antonio Minturno</name>, hombre judiciosísimo en los libros que hizo. <title>De poeta</title>: 
+ . 
+<name type="author">Julio César Escalígero</name>, regla para muchos, en la <title>Poética</title> en el libro cuarto de ella: 
+
+
+
+            . <name type="author">Francisco Luisio</name>, intérprete del <title>Arte poética</title> de <name type="author">Horacio</name>: 
+
+            . <name type="author">Torcuato Tasso</name>, cuya autoridad equivale a la de todos los modernos, en su
+            <title>Discurso del poema heroico</title>: 
+
+            .
+            Y después, conforme a lo cual, cuan loable y para ser procurada en las narraciones es la perspicuidad, tan culpable y para ser huida es su contraria, la oscuridad; y si ésta naciera en las <title>Soledades</title> de brevedad fuera menos mal, pues por buscar una virtud se diera en un vicio <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f135r.png" n="f. 135r"/>cercano a ella; quien en vez de liberal da en pródigo, pase; y quien buscando la fortaleza da en temerario:</p>
+        
+        <p>Pero nace en esta composición la oscuridad de la demasía de tropos y esquemas, paréntesis, aposiciones, contraposiciones, interposiciones, sinécdoques, metáforas y otras figuras artificiosas y bizarras cada una de por sí, y a trechos y lugares convenientes, mas no para amontonadas. Porque ¿quién duda que para aumentar la hermosura de las damas se inventasen para la cabeza apretadores, rosas de diamantes, rubíes, esmeraldas, plumas de la misma materia; para las orejas, zarcillos, arracadas de oro y pedrería; para el cuello y pecho, cadenas, cabestrillos, bandas, sartas de perlas y brincos? Pero si alguna fuese más amiga de joyas que considerada , y se cargase la cabeza de apretadores, rosas, plumas; las orejas, de arracadas; el cuello y los pechos, de cadenas, cabestrillos, bandas, sartas y brincos, granjearía opinión de rica, pero no de cuerda ni de hermosa, pues serviría de ofuscar y encubrir su hermosura, antes que de acrecentarla, tal concurso y muchedumbre de joyas con que ni ella luciría, ni <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f135v.png" n="f. 135v"/> lucirían ellas, por preciosa que fuese cada una. Así sucede en la poesía y en cualquiera elocución: no han de ser áridas, ni desnudas, no, ni por imaginación, pero ni tan llenas de adorno que con él se desadornen, ahoguen y confundan; que igualmente sin duda está expuesto a injurias del tiempo y de los hombres el que en todos tiempos anduviese desnudo, como el que descomunalmente cargado de ropa:</p>
+        
+        <p rend="noindent">porque según, tratando de lo mismo, afirma <name type="author">Jerónimo Vida</name>:</p>
+        
+        <p rend="noindent">Oigamos a <name type="author">Aristóteles</name>, en el tercero de la <title>Retórica</title>: 
+            , y el mismo en la <title>Poética</title>: 
+
+              . Y más abajo: 
+. <name type="author">Quintiliano</name> en el proemio del libro octavo y en el capítulo segundo del mismo dice así: 
+.</p>
+        <p>El <name type="author">Tasso</name>, perpetuo discípulo de <name type="author">Aristóteles</name>, en el libro cuarto de sus ya referidos <title>Discursos</title>: 
+. Cierto que, cuando faltaran autoridades de tan doctos hombres, me parece que la razón sola bastara a persuadimos el huir la oscuridad. ¿El fin de la poesía no es deleitar o aprovechar o ambas cosas juntas, como dijo <name type="author">Horacio</name>?<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f136v.png" n="f. 136v"/></p>
+        
+        <p rend="noindent">que es lo más cierto, siendo el fin ultimado y arquitectónico el aprovechar, y el deleitar el subordinado (según lo probé en mi <title>Didascalia</title>). Si esto es así, ¿a quién ha de aprovechar y a quién deleitar lo que no es entendido? Dirá vuestra merced que solo escribe para los doctos. Ya será eso conseguir solo el fin menos principal, porque los doctos podrán bien deleitarse con este género y estilo de poesía, pero aprovecharse no, siendo de cosas que no deben ignorarlas. Demás de que, si a pocos se comunica, pierde la razón de bueno por dos razones: la primera, porque lo bueno de su naturaleza es comunicable a todos, según los filósofos; luego lo que no lo es no participa enteramente la razón de bueno. La segunda, porque para que una cosa sea perfectamente buena ha de serlo en todas sus partes. Fáltale a esta obra, para ser digna del ingenio de vuestra merced (esto es, perfectísima), la perspicuidad, que es bondad y requisito necesario en género de narración: luego no tiene la suma bondad que debiera por de tal dueño, y es lástima que no sea tal obra de vuestra merced y en quien se hallan tales y tantos pedazos de belleza, solo por querer su dueño que sea poco inteligible y dar con esto en qué entender a tantos. No se la perdonó, pues, otro tanto <name type="author">Luciano</name> a Apolo: 
+ . Pues no es este poema misterios de religión ni profecía, de que no deben hacerse participantes muchos, conforme a la doctrina de 
+<name type="author">san Jerónimo</name> <title>in Ezechielem</title>: 
+          
+            . Y el mismo santo sobre 
+<title>Nahum</title>:  . Pero esta razón no corre aquí; que todos querrían (y yo lo deseo no poco) y deberían (si pudiesen) de sus obras de vuestra merced, como solían, sacar gusto y provecho:</p>
+        
+        <p rend="noindent"><name type="author">Terencio</name>, en el prólogo de su <title>Andria</title>, profesa solamente querer dar gusto al pueblo:</p>
+        
+        <p rend="noindent"><name type="author">Máximo Tirio</name> dijo del poeta: 
+  . Así que no debe vuestra merced procurar escribir para solos los doctos porque, de esta suerte, le entenderán y gustarán de sus obras muy pocos, parte por no serlo en esta facultad, parte porque no querrán gastar el tiempo y sus juicios en adivinar qué quiso decir vuestra merced (que no profesó escribir enigmas, como en <name type="author">Simposio</name>), reduciendo a trabajo lo que había de ser meramente gusto, y matándose por entenderlo o no entenderlo:</p>
+        
+        <p rend="noindent">y dirán lo que de <name type="author">Heráclito</name>, escritor oscurísimo, dijo <name type="author">Cicerón</name>: 
+. Hase de decir de sus versos y pensamientos de vuestra merced lo que el Pséudolo de <name type="author">Plauto</name> dijo de las letras de una carta:</p>
+        
+        <p rend="noindent">No, por amor de Dios, que a la verdad es terrible cosa que en mi lengua materna haya yo de andar como en un <name type="author">Aristóteles</name> o en un <name type="author">Persio</name>, o en otro autor difícil griego o latino, juntando partes, construyendo y adivinando qué quiso decir en aquello o en eso otro. Bien habló a este propósito <name type="author">Cicerón</name> en lo <title>De finibus</title>: 
+. Culpa es y culpa antigua de algunos escritores afectar oscuridad. <name type="author">Quintiliano</name>: 
+ . El artificio del poeta en lo que debe emplearse es en hacer y trabajar los versos de suerte que, de fáciles, cualquiera piense que podrá hacer otros tales, sin descubrir en ellos el arte y cuidado, cuales los hizo <name type="author">Tibulo</name>, que, con ser tan culto y limado, es tan suave y fácil en el decir que parece se estaba dicho lo que él dijo. <name type="author">Horacio</name>:</p>
+        
+        <p rend="noindent">y <name type="author">Jerónimo Vida</name> ; porque el demasiado cuidado descubierto hace parecer después las cosas con menos gracia y venustidad, como hechas a fuerza, según dijo Apeles a Protógenes viendo aquella excelente pintura de Yáliso, en que había gastado siete años; refiérelo <name type="author">Eliano</name>, libro 12, capítulo <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f138v.png" n="f. 138v"/> 12
+          <title>De varia historia</title>. De que remito el ejemplo a las <title>Gerusalemmes</title> del <name type="author">Tasso</name>, <title>liberata</title> y
+          <title>conquistata</title>, la primera mejor, con menor cuidado, la segunda con mayor y menos buena. Refiriose arriba la misma doctrina de <name type="author">Quintiliano</name>. Y con bonísimo acuerdo dijo <name type="author">Cicerón</name> en sus <title>Académicas</title>: 
+.</p>
+        <p>Dirame vuestra merced a esto dos cosas: la primera, que la oscuridad causada de locuciones extraordinarias, palabras peregrinas y muchedumbre de figuras hace y engendra el hablar grande y estilo sublime; la segunda, que hay otros muchos poetas de los de más nombre oscuros y, con dificultad, inteligibles. Respondo a lo primero que es así que el hablar figurado demasiadamente y con palabras peregrinas (como no dé en enigma, ni barbarismo) engendra el estilo sublime; testigos: <name type="author">Aristóteles</name>, <name type="author">Escalígero</name>, <name type="author">Torcuato</name> y otros que en varios lugares varias veces lo afirman. Pero eso se entiende, según ellos, en poema grave, trágico, heroico u otro semejante; que, siendo de su naturaleza ilustres, piden estilo y modo de decir fuera del vulgar, como lo hiciera vuestra merced si aplicara su ingenio<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f139r.png" n="f. 139r"/> y genio a lo épico, de que diera mejor que otro ninguno. Pero un poema, cuando no lírico, de materia humilde, bucólico en lo que descubre hasta ahora, no ha de correr parejas con lo heroico, desdiciendo mucho del decoro que se debe a las personas.<name type="author"> Virgilio</name> en el Sileno:</p>
+        
+        <p rend="noindent">enseñanza no poco repetida de <name type="author">Horacio</name> en su <title>Arte</title>, ni olvidada de <name type="author">Jerónimo Vida</name> en la suya
+          . Divinamente enseña esto <name type="author">Fracastoro</name> en el diálogo <title>Naugerio, sive de Poetica</title>: 
+          . Mírense los que han escrito semejantes materias, antiguos y modernos, griegos, latinos, toscanos, españoles: <name type="author">Teócrito</name>, <name type="author">Bión</name> , <name type="author">Virgilio</name>, <name type="author">Calpurnio</name>, <name type="author">Severo</name>, <name type="author">Petrarca</name>, <name type="author">Sannazaro</name>, <name type="author">Pontano</name>, <name type="author">Marco Rosiglia</name>, <name type="author">Gerónimo Benivieni</name>, <name type="author">Bernardo Tasso</name>, <name type="author">Luis Alemanni</name>, y el divino <name type="author">Garcilaso</name> y otros, y <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f139v.png" n="f. 139v"/> echarase de ver cuán claro estilo han seguido y cuán acomodado al sujeto de que trataron.</p>
+        <p>A lo segundo respondo que, aunque haya habido poetas oscuros, no es bueno imitarlos en esa parte, siendo viciosa, sino seguir antes la majestad con la venustidad y perspicuidad virgiliana; demás de que (como he dicho) los más tomaron diferente asunto, y en quien es la oscuridad menos culpable, naciendo de afectar grandeza, como los heroicos <name type="author">Valerio Flaco</name>, <name type="author">Estacio Papinio</name>, aunque también en el primero es notado de duro el estilo. <name type="author">Escalígero</name> el padre: 
+ . Opondranme a <name type="author">Persio</name> satíro los que buscaren patrocinio a la oscuridad, pero miren cuál le pone el mismo <name type="author">Escalígero</name>: 
+
+          .</p>
+        <p>Bien sé, mi señor, que a vuestra merced le han advertido de esto antes de ahora y avisádole que sienten lo mismo en Córdoba, en Granada, en Sevilla, en Madrid; pues de allí un hombre de tanta erudición, cuanto cualquiera otro de este siglo, y de juicio igual a la erudición, que es <persName>Pedro de Valencia,</persName> lo escribió y advirtió a vuestra merced. Vi la carta original en Granada el verano pasado en poder de Juan de Villegas,<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f140r.png" n="f. 140r"/> el gobernador de Luque, y, aunque no creo que tengo mayor facundia ni más viveza de razones que él para persuadir a vuestra merced, por lo que debo a nuestra amistad y desear que sus obras de vuestra merced no desdigan de suyas en cosa alguna, sino sean en todo y en parte perfectísimas, le he dicho tan por extenso mi sentimiento acerca de la oscuridad de las <title>Soledades</title>. Podrá ser que, <hi rend="i">multiplicatis intercessoribus</hi>, restituya vuestra merced a su casa la claridad y venustidad antigua con que han salido y sido tan justamente celebradas por el mundo sus obras. Crea vuestra merced que muchos ven esto, aunque se lo digan pocos, parte de los cuales lo dejan por no confesarse menos agudos en el entender, parte por no atreverse, parte por mostrarse eruditos defendiendo la oscuridad y otras cosillas (si las hay) en que se pudiera reparar, anteponiendo con esto la adulación y estimación de sus ingenios a la verdadera amistad:</p>
+        
+        <p rend="noindent">Vuestra merced, por amor de Dios, se temple en esta parte, que como su servidor y amigo se lo suplico.</p>
+        <p>Lo mismo deseo haga en el uso de palabras peregrinas, digo derivadas de latín y <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f140v.png" n="f. 140v"/> toscano; y no tanto en la muchedumbre de ellas, pues todas son muy buenas, y a la verdad eso es enriquecer nuestra lengua y muy conforme a los preceptos del arte (según <name type="author">Aristóteles</name>, <name type="author">Horacio</name>, <name type="author">Vida</name>, <name type="author">Tasso</name> y otros); pero en el frecuentarlas y repetirlas muy a menudo, pues, como a forasteras, se ha de ir poco a poco y con recato, dándoles entrada y lugar señalado si queremos que sean bien recibidas y estimadas en algo, que así nos lo encarga el lírico latino:</p>
+        
+        <p rend="noindent">pues, de otra suerte, viene a ser lenguaje pedantesco fidentiano, de que le culpa a <name type="author">Torcuato Tasso</name>, como a usurpador y frecuentador de palabras peregrinas, la Academia de la Crusca en la defensa del <title>Furioso</title>, diciendo que <name type="author">Aristóteles</name> concedió que cayese en los poemas agua de palabras forasteras, pero no que tempestase. Una sola fuera de parecer que desterrara vuestra merced de todo punto y es «conculcado» y «conculcar», porque tiene mucha parte de «æschrología», figura viciosa, que es uso de verbo u oración de sucia significación en el sonido y, así, no siendo necesario el usarlo, yo no lo usara.</p>
+        <p>Pero no solo en la repetición de las extranjeras<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f141r.png" n="f. 141r"/> querría se fuese vuestra merced a la mano, mas aun de las propias y comunes nuestras, no frecuentando el «ya», ni el «si, no»; pues, aunque con este modo se formen gallardas contraposiciones, no ha de ser a cada paso, que el almíbar empalaga; y lo mismo digo de otras algunas palabras, pues sabe vuestra merced mejor cuánto gusto da el que reitera muchas veces unas mismas, ora sea por escrito, ora de palabra, en púlpitos o en conversaciones. Y si esto no es loable, menos lo será repetir los pensamientos, las comparaciones y aposiciones. En la primera y segunda parte dice vuestra merced no sé qué veces ; en ésta del novillo: ; del toro en la primera:</p>
+        
+        <p rend="noindent">En la primera hace vuestra merced navíos y en ésta barcos de  muchas veces, demás de que, como advertí en el <title>Polifemo</title>, no la usa la navegación, si no es en remos; y, para certificarme más, busqué con Francisco de Gálvez lo que dicen de ese árbol <name type="author">Teofrasto</name>, <title>De plantis</title>, <name type="author">Plinio</name> y otros; y, ni en ellos, ni en poetas algunos hallamos que la aplicasen a la navegación. Aquí dice vuestra merced 
+; allá 
+; 
+ tantas veces por navíos;  de esto y de lo otro. Si <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f141v.png" n="f. 141v"/> reprehende <name type="author">César Escalígero</name> en los <title>Endecasílabos</title> del <name type="author">Bembo</name> la repetición de , y en los <title>Epitafios</title>
+          , y en los <title>Túmulos</title> de <name type="author">Pontano</name> la de  y otros; si en <name type="author">Tibulo</name> la de , no le perdonara a vuestra merced, sin duda, la de palabras, cuanto más de conceptos, que suele argüir escasez de ellos, como dijo <name type="author">Horacio</name>:</p>
+        
+        <p rend="noindent">siendo vuestra merced tan rico y abundante de esta mercancía como todo el mundo sabe y, cual lo estuviéramos ambos, de hacienda.</p>
+        <p>El hipérbaton con todas sus especies (sea tropo o figura, que en duda lo pone <name type="author">Quintiliano</name> e importa poco ) sirve sin duda grandemente al ornato, turbando el orden de las palabras con anteposiciones, interposiciones y postposiciones que realzan el hablar y le hacen numeroso y nada vulgar, respecto de lo cual le alaba mucho el referido autor
+          . Pero no ha de ser todo hipérbaton, que será menester traer en la manga un intérprete que a los oyentes o lectores declare el sentido de lo que queremos decir, <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f142r.png" n="f. 142r"/> que, de otra suerte, parecerán bernardinas y así, a mi juicio, debe vuestra merced moderarse en él.</p>
+        <p>De la hipérbole juzgo lo mismo; porque si la hipérbole es 
+, como dicen <name type="author">Diomedes</name> y <name type="author">Donato</name> , o, como <name type="author">Quintiliano</name>, 
+ , cierto es que se ha de usar raras veces y cum modis et formis, si queremos que no pierda lo verosímil el poema, y se quede a buenas noches. Aconséjalo así el mismo <name type="author">Quintiliano</name>: 
+
+          . La «cacocelia» ya sabe vuestra merced que es vicio por afectación de ornato demasiado. ¿Todo ha de ser sumo, ir por esos cielos o por los abismos?</p>
+        
+        <p rend="noindent">¿Cómo se ha de ver lo grande sin oposición de lo pequeño? Si todo es en grado superlativo, ¿qué harán del positivo y comparativo los pobres gramáticos?</p>
+        <p>Esto es, en común, lo que siento de las <title>Soledades</title> y en particular de la primera. Confesaré algunos pecadillos, o al menos que yo <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f142v.png" n="f. 142v"/> los he juzgado por tales. El primero, más grave, y en que (si hubiese lugar de penitencia) sería bien usar de enmienda, es el encontrarse la dedicación de esta obra con la del <title>Polifemo</title>, pues, aunque cada una de por sí es excelente, no es bien que a todos los príncipes los ocupemos en esta misma acción de caza, habiendo otras en que.</p>
+        <p>Reparo después en aquellos versos:</p>
+        
+        <p rend="noindent">porque en este lugar cosa cierta es que quiere decir vuestra merced que el hombro desarmado de aljaba mostraba no ser ninfas las zagalas. Supuesto lo cual (aunque no era impedimento para ser o parecer ninfas el dejar de traer aljaba, pues, de ellas, solas las dedicadas al servicio y ejercicio de Diana andaban cargadas de semejante pesadumbre), digo que tampoco podían parecer bacantes, pues no traían tirsos en las manos (tirso era, como vuestra merced mejor sabe, una lanza cubierta de pámpanos o yedra, que era lo más ordinario; y así lo afirma <name type="author">Eurípides</name>: 
+
+          ); <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f143r.png" n="f. 143r"/> y que no lo trujese confiésalo vuestra merced, llamándolas cuatro versos después: 
+. Que los y las bacantes, o bacos, trajesen tirsos en las manos pruébase con muchos lugares de autores; referiré algunos: <name type="author">Ovidio</name> en sus <title>Metamorfosis</title> introduce a Penteo que, reprehendiendo a los que seguían a Baco, dice:</p>
+        
+        <p rend="noindent">y después:</p>
+        
+        <p rend="noindent"><name type="author">Cornelio Tácito</name>, tratando de la buena emperatriz Mesalina, cuando a vuelta de cabeza de su marido Claudio, que se había llegado a Ostia, casó con Silio su amigo: 
+ . Pero, mejor que todos, <name type="author">Diodoro Sículo</name>: 
+ . Dejo aparte que las bacantes hacían, dondequiera que estaban, confuso ruido de alarido y voces descompasadas, con visajes y meneos descompuestos, como llenas de vino al fin, y a éstas las pinta vuestra merced que venían, aunque bailando algunas, con 
+ y ; en lo que reparo es cómo las pueda llamar bacantes, excluyéndolas de ninfas por no armadas.</p>
+        <p>Dice luego vuestra merced de los muchos conejos que uno traía a cuestas:</p>
+        
+        <p rend="noindent">Que sean trofeo y carga a un hombro muchos conejos está bien dicho, pero que le sean asombro no sé cómo pueda decirse, porque el asombro se causa en el corazón o la imaginativa; el pie, la mano y el hombro no son capaces de él en modo alguno, de carga sí; y vuestra merced lo junta todo. Si fuera ése poema latino, salváramos el tal atributo con nombre de hipálage, que así llaman los retóricos (según <name type="author">Cicerón</name>, alegado por <name type="author">Quintiliano</name> ) al tropo que los gramáticos metonimia:  ; y se comete cuando la calidad <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f144r.png" n="f. 144r"/> y propiedad de una cosa se atribuye a otra, como:</p>
+        
+        <p rend="noindent">en vez de <hi rend="i">dare classes austris, locum tepidum recenti caede, socii iussi cesserunt aequori</hi>. Del <name type="author">Petrarca</name> trae un ejemplo el mismo <name type="author">Juan Andrea Gilio</name>:</p>
+        
+        <p rend="noindent">en que dio el epíteto de magnánimo al cerco, debiéndosele a Popilio que le hizo. En nuestro vulgar no sé si puede usarse; creo que, a poder, no fuera tan ridículo:</p>
+        
+        <p>En este fragmento de la segunda <title>Soledad</title> dudo por cuál razón llame vuestra merced  a la ría o arroyo, porque si por ser de dos naturalezas, también lo eran los Panes o Faunos, también el Minotauro, y lo son otros animales; cuanto más que la agua de la mar y la de los ríos no son de diferentes especies, como el hombre y el caballo de que era compuesto el centauro, sino esencial y substancialmente una: difieren en el sabor y grosedad, que son diferentes.<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f144v.png" n="f. 144v"/></p>
+        <p>Al  no le hallo sujeto capaz de epíteto tan honrado; «de bien o mal crecido», sí.</p>
+        
+        <p rend="noindent">es anfibológico y, aunque todos lo entiendan, será bien aclararlo más.</p>
+        <p> llama vuestra merced a las hijas del pescador, y creyera yo que daba ese epíteto a su bondad, pero luego se declara que no, sino a la blancura, diciendo:</p>
+        
+        <p rend="noindent">También en la primera parte dijo vuestra merced lo mismo de las serranas y vaqueras, y extraño esto, porque no sé que se halle blancura en serranas y gente de playa curtidas al sol y al agua. <name type="author">Virgilio</name> al menos no da tal atributo a pastora alguna, sacando a Galatea, a quien todos le dan, porque su nombre significa eso mismo (pues quiere decir láctea o de leche) y a la esposa en los <title>Cantares</title> que excusa halla a su color moreno: 
+ . La experiencia lo muestra y la imitación poética debe seguir lo verosímil.</p>
+        <p>Yo he dicho lo que he sentido sinceramente, a ley de cristiano y amigo, como lo he protestado<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f145r.png" n="f. 145r"/> y profesado en cuanto alcanza mi juicio. Vuestra merced con el suyo, pues es tan bueno, lo pondere y vea lo que se debe hacer; y consúltelo (si le pareciere) con hombres de letras, y echará de ver que le aconsejo como hombre de bien y servidor suyo, según <name type="author">Horacio</name> en el <title>Arte</title>:</p>
+        
+        <p rend="noindent">A mí me ha tocado esto, y a vuestra merced el hacer lo que aconseja en su <title>Arte</title> monseñor <name type="author">Vida</name> en el libro 3, y no traigo el lugar por ser largo, aunque excelente y loado por tal de <name type="author">Escalígero</name>. Yo he andado no corto, ni mi ánimo lo es, ni será en deseos de servir a vuestra merced. Si este papel no le pareciere tal como él, dele la pena que mereciere con manos o fuego, que el que le ha hecho quedará gustoso, servidor y amigo de vuestra merced como siempre, y tan su amigo y servidor que, resolviéndose vuestra merced a proseguir ese poema con el estilo hasta aquí, sin mudar de frasis ni modos, si hubiere (que no habrá) tan atrevido presuntuoso que le impugne,<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f145v.png" n="f. 145v"/> estando tan bien defendido con solo el nombre de su autor, 
+:</p>
+        
+        <p rend="noindent">dende luego me ofrezco (gustando vuestra merced) a ser su campeón y salir en defensa suya a cualquiera estacada, armado de pluma y libros; y de mi gentil ánimo de servir a vuestra merced, a quien guarde Dios largos años. De casa…</p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

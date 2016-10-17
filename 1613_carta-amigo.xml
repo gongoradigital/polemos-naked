@@ -1,0 +1,115 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  
+  <text>
+    <!--
+      <div>
+        <head>Datos bibliográficos</head>
+        <table>
+          <row>
+            <cell>Editor científico</cell>
+            <cell>Daria Castaldo</cell>
+          </row>
+          <row>
+            <cell>Autor</cell>
+            <cell>Anónimo</cell>
+          </row>
+          <row>
+            <cell>Destinatario / dedicatario</cell>
+            <cell>Luis de Góngora y Argote</cell>
+          </row>
+          <row>
+            <cell>Título</cell>
+            <cell>Carta de un amigo de don Luis de Góngora en que da su parecer acerca de las <hi rend="i">Soledades</hi> que le había remitido para que las viese</cell>
+          </row>
+          <row>
+            <cell>Fecha</cell>
+            <cell>1613 (otoño)</cell>
+          </row>
+          <row>
+            <cell>Fuentes</cell>
+            <cell>Biblioteca Pública Municipal de Oporto, ms. 626, f. 99r-102r</cell>
+          </row>
+          <row>
+            <cell>Ediciones modernas</cell>
+            <cell>
+              <p xml:lang="it">Carreira (1994: vol. I, 151-171)</p>
+              <p xml:lang="it">Carreira (1998: 241-245)</p>
+              <p xml:lang="it">Góngora (2000: vol. II, 513-518)</p>
+              <p xml:lang="it">Sliwa (2004: 587-591)</p>
+            </cell>
+          </row>
+          <row>
+            <cell>Responde a otro texto</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Referencias a la polémica</cell>
+            <cell/>
+          </row>
+         </table>
+      </div>
+      -->
+     
+    <body>
+      <div>
+        
+          <pb n="f. 99r"/>
+        <div>
+          
+          <p>Para que entienda vuestra merced le he servido pasando los ojos como me mandó por esta <title>Soledad</title> con todo cuidado y afición, quise de propósito (no proponerle, pues no son propriamente objeciones) apuntar algunos escrúpulos que <hi rend="i">inter legendum</hi>, o ya por no entenderlos o ya por razonablemente dudarlos, he reparado. Y es porque no arguya vuestra merced que dejar de hacerlo era indicio en mí de ignorarlo.</p>
+          <p>Primeramente, en la cuestión acerca del nombre que este poema merece [que] se comenzó a ventilar la otra mañana, no quedé muy satisfecho; y para mi entender será menester suponer algunas condiciones que <name type="authority">el Filósofo</name> en sus <title>Poéticas</title> enseña necesarias a la épica y heroica.</p>
+          <p>Es, pues, la primera que sea una imitación común en la cual ya el poeta, ya la persona ajena que introduce, hablen a veces; tal <name type="authority">el poeta latino</name> comienza su <title>Eneida</title>:</p>
+          
+          <p>y en el segundo libro introduce a Eneas, que describe la destrucción de Troya:</p>
+          
+          <p>y la reina de Cartago en el cuarto libro:</p>
+               
+          <p>
+            <pb n="f. 99v"/>
+          </p>
+          <p>No hay en esta que calumniar la <title>Soledad</title>, pues, después de la dedicatoria, así vuestra merced gallardamente se introduce:</p>
+          
+          <p>y adelante el pastor guía del peregrino es la ajena:</p>
+          
+          <p>y el viejo serrano en su discurso:</p>
+          
+          <p>Sea la segunda condición que la heroica imita solo en el lenguaje, a diferencia de los poemas activos, en que juntos con el lenguaje tienen su lugar la música y la danza; contra esta se puede argüir procedió vuestra merced en su poema, en el cual los pastores danzan y bailan a los novios, siendo ajeno de la dignidad épica. Y aunque se puede responder que es permitido por modo narrativo, como al fin del libro primero de la <title>Eneida</title> observamos que el músico Iopas cantó a los amantes mientras se brindaban, no satisface, pues allí el poeta solo dice cantó el músico, no empero trae la canción ni coros, por ser acción perteneciente a la cómica.</p>
+          <p>La tercera condición es que se guarde una misma forma de metro en la épica, según ya hicieron los heroicos griegos, latinos y vulgares, y no reparo tanto en esta por ser según <name type="authority">el Filósofo</name> condición accidental, la cual podía vuestra merced, con su autoridad dejar de seguir. Y sea la última condición en la cual <pb n="f. 100r"/> se deba esencial y necesariamente guardar en cuanto a la persona imitada; la cual, como vuestra merced en esto y lo demás perteneciente al arte mejor sabe, ha de ser un varón o heroico príncipe digno por sus hazañas y virtudes de ser imitado y querido. Tal describe <name type="authority">Homero</name> un valeroso Aquiles; <name type="authority">Virgilio</name> un piedoso Eneas; <name type="authority">Lucano</name> un César invencible; de lo cual infiero no convenir a la <title>Soledad</title> nombre de heroica, por haber sido el intento principal de vuestra merced describirnos la vida pastoral de suerte que el peregrino y su viaje es un camino o medio que vuestra merced elige para alcanzar el principal fin, que fue imitar en la <title>Primera Soledad</title> [la] del ganadero, la del pescador en la <title>Segunda</title>; y así las demás. Bien entiendo está la respuesta cerca diciendo que los rotos y mojados paños del peregrino joven visten un noble y valeroso príncipe, que en progreso de la obra se dará a conocer; a lo cual respondo que no basta para bautizarse con tal nombre, pues vemos que también la trágica imita héroes, así que el énfasis no en esto, mas en seguir por asunto principal las alabanzas, hechos y valor de un príncipe y adornarlo de virtudes morales para aficionar los ánimos. De esta, pues, demos nombre a la <title>Soledad</title>, ya que la excluimos de la épica y, según a mi ver, ninguno otro le cuadra como el de bucólica, égloga o <pb n="f. 100v"/> pastoral, por la razón arriba dicha de lo imitado. Verdad es que siendo especies comprendidas debajo de los géneros de poética, las habemos de reducir a uno de ellos. Para lo cual se supone que siendo la bucólica poema extravagante, tal vez se reduce a la activa, como la primera égloga de <name type="authority">Virgilio:</name></p>
+          
+          <p>y en la tercera:</p>
+          
+          <p>Tal reduce a la narrativa, donde solo el poeta canta, como la cuarta del mismo varón:</p>
+          
+          <p>y tal a la común, cual la segunda, en que se introduce el poeta, que cuenta los amores de Coridón [y] Alexis:</p>
+          
+          <p>y el mismo Coridón después, que habla:</p>
+          
+          <p>Este mismo estilo común sigue vuestra merced, como digo en la primera condición, por la cual la dicha <title>Soledad</title> debe reducirse al poema común y épico, no, empero, llamarse con el nombre de su género, mas de égloga o bucólica, pues aquel debe ser una imitación de personas graves.</p>
+          <p>Descendamos, pues, a lo particular.</p> <pb n="f. 101r"/>
+          <p>Paréceme se podría reparar en algunas locuciones (a no usarlas vuestra merced) más festivas y agudas de lo que parece convenga a la majestuosa y grave de esta obra, tales son algunos juegos de dicciones cual este de la fénix:</p>
+          
+          <p>Y más del <name type="authority">Marcial,</name> aquel de la aroma:</p>
+          
+          <p>y de lo satírico más, aquello del corzo:</p>
+          
+          <p>Elegantes, por cierto, en su género, mas parece es confundir los estilos, a cuyo propósito me acuerdo de un precepto de <name type="authority">Horacio</name> en su <title>Arte poética</title>:</p>
+          
+          <p>y luego:</p>
+          
+          <p>Del mismo modo se podrían notar algunos símiles y translaciones, como llamar «bisagra» al estrecho del mar, y aquella de la «Coya peruana» de la <title>Segunda Soledad</title>, reprehendidas de <name type="authority">Quintiliano</name>,<pb n="f. 101v"/> –si menos al poeta que al orador– que se atreve al decir de <name type="authority">Horacio</name>, padre del <title>Arte</title>, que llama <hi rend="i">capitis nubes</hi> a las canas y en otro verso que dice:</p>
+          
+          <p>Dejo el interpuesto orden de decir, en griego onomatopeya, introducido por vuestra merced en nuestro vulgar, y solo hasta aquí permitido al latino y griego, pues al fin su intento de vuestra merced ha sido perfeccionar nuestra habla, a quien como en otras muchas cosas debe estar agradecida, y rendir el lauro de nuevo conquistador, pues pasando el limitado término del decir ha puesto el <hi rend="i">plus ultra</hi> mucho más adelante que nuestros poetas españoles.</p>
+          <p>Dejo también la oscuridad de estilo, por ser, a lo que ya entiendo, en alguna manera esencial al poema grave. Verdad sea que <name type="authority">Escalígero</name> en su <title>Poética</title> quiere sea de los efectos a todo poema común la perspicuidad, y <name type="authority">Horacio</name>, <title>Ad Pisones</title>, amonestando al prudente poeta la enmienda de los versos viciosos, dice:</p>
+          
+          <p>Mas, con todo, me parece no convenir al poema ni ser tan oscuro que sea necesario adivinarlo, ni tan trasparente que se haga a todos vulgar. Yo <pb n="f. 102r"/> confieso que tengo necesidad de dar muchas vueltas a algunos períodos de la <title>Soledad</title>, pero ¿qué poeta de importancia no necesitó de comento?</p>
+          <p>Dejo asimismo la introducción de dicciones extranjeras y peregrinas, pues cuando no queramos admitir cortedad en nuestra habla es precepto del <name type="authority">poeta</name>, y lugar alegado:</p>
+          
+          <p>Allí, en <hi rend="i">parce detorta</hi>, dejadas otras interpretaciones, parece no admitir la mucha frecuencia; y si vuestra merced no raras veces las usa, puede como rey del arte introducir nuevas leyes.</p>
+          <p>Parece disuena algo al oído el poco rebozo de aquel epíteto:</p>
+          
+          <p>Dejo al fin, por no cansar a vuestra merced, de replicar en este lugar algo que en razón de escolios a este propósito tengo visto, por entender son infinitos los que en toda Europa con aventajados méritos hayan doctamente elegido trabajo tan honroso, y así suplico a vuestra merced me perdone si anduve atrevido, que el deseo de servirle y pasión que casi desde la cuna tuve a sus obras me obligaron a dedicarle estos borrones, cuyas manos, etc.</p>
+      </div>
+     </div>
+    </body>
+  </text>
+</TEI>

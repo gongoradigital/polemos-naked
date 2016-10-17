@@ -1,0 +1,79 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  
+  <text>
+    <!--    
+    <div>
+      <head>
+        Datos bibliográficos
+      </head>
+      <table>
+        <row>
+          <cell>Editor científico</cell>
+          <cell>Jonathan BRADBURY</cell>
+        </row>
+        <row>
+          <cell>Revisores</cell>
+          <cell>Mercedes Blanco y Jaime Galbarro</cell>
+        </row>
+        <row>
+          <cell>Autor</cell>
+          <cell>Cristóbal SUÁREZ DE FIGUEROA</cell>
+        </row>
+        <row>
+          <cell>Destinatario / dedicatario</cell>
+          <cell>Fernando Afán de Ribera, Duque de Alcalá de los Gazules</cell>
+        </row>
+        <row>
+          <cell>Título</cell>
+          <cell><hi rend="i">Pusílipo. Ratos de conversación en los que dura el paseo</hi> (Nápoles: Lazzaro Scoriggio, 1629). Inicio (p. 260-263) de la “Sexta Junta”.</cell>
+        </row>
+        <row>
+          <cell>Fecha</cell>
+          <cell>1629</cell>
+        </row>
+        <row>
+          <cell>Fuentes</cell>
+          <cell>
+            <p rend="noindent"><hi rend="i">Pusílipo. Ratos de conversación en los que dura el passeo</hi> (Nápoles: Lazaro Scoriggio, 1629).</p>
+            <p> &lt;<ref
+              target="http://ustc.ac.uk/index.php/record/5022667/"
+              >http://http://ustc.ac.uk/index.php/record/5022667/</ref>&gt; </p>
+          </cell>
+        </row>
+        <row>
+          <cell>Ediciones modernas</cell>
+          <cell>Suárez de Figueroa, 1996.</cell>
+        </row>
+        <row>
+          <cell>Responde a otro texto</cell>
+          <cell/>
+        </row>
+        <row>
+          <cell>Referencias a la polémica</cell>
+          <cell/>
+        </row>
+      </table>
+    </div>
+    -->
+    
+      <body>
+        <div>
+          
+            <p>
+              <pb n="260"/>
+            </p>
+            <p rend="noindent">LAUREANO. ¿Qué trata ese cuaderno  , que, al venir, os vi abrirle dos veces?</p>
+            <p rend="noindent">ROSARDO. Hallele entre otros papeles esta mañana, y holgueme mucho con él, por tener de su autor mucha noticia.</p>
+            <p rend="noindent">FLORINDO. ¿Vive?</p>
+            <p rend="noindent">ROSARDO. No, ya es muerto, mas dije mal, que no puede morir quien tan ilustre ha de vivir en las memorias de tantos siglos. Este es aquel monstruo de los ingenios, aquel fénix de las agudezas , don <name type="polemista">Luis de Góngora</name>: el solo Poeta español , el moderno <name type="authority">Marcial</name> , más que él agudo en las burlas, y, en las veras , otro <name type="authority">Papinio Estacio</name> .</p>
+            <p rend="noindent">SILVERIO. Todas sus obras consisten en variedad de fragmentos, que, aunque son pedazos de oro, es lástima no se haya aplicado ingenio tan superior a una larga y proseguida, que, sin duda, fuera un cielo todo grabado de joyas .</p>
+            <p rend="noindent">LAUREANO. Cuanto tiene escrito admira, sirviendo de generoso estímulo a los de su profesión, pues desean con ligeras alas (sin ser posible) llegar a la alteza donde él mismo tan felizmente se levanta.</p>
+            <p rend="noindent">FLORINDO. A otros sirve su elevación de tristeza, por no atinar con las galas que en él eran tan naturales.</p>
+            <p rend="noindent">ROSARDO. Ese es género de envidia , prohibida a generosos ánimos. Solo la emulación es lícita; términos que entre sí difieren mucho, siendo la última permitida, por fundarse en virtuosa competencia. Esta conviene para imitarle en lo exquisito, llenándose de aquel ardor que puede sutilizar la mente . Las frutas del jardín ajeno son buenas y las del propio no malas. Ni desmaye alguno, por ser dueño de estilo blando y corriente, pues vuela este antes a deleitar el oído que el intricado y penoso. Débese distinguir, no confundir la lengua; ilustrarla, no oscurecerla. Nada de esto tuvo don <name type="polemista">Luis</name> en sus poesías, y engáñase quien juzga lo contrarion. Sino cierta novedad, que, como hasta allí poco usada, se extrañó en los principios, siguiéndola y admirándola después toda España. Escribe <name type="authority">Tácito</name> de los germanos, escogían, haciéndoles donativos de vasos de tierra y plata, antes los humildes de tierra, por no tener noticia de los otros . Dos romances se hallan aquí dentro, el uno de <title>Píramo y Tisbe</title> , el otro de <title>Leandro y Hero</title>, que composiciones de donaires tan deleitosos puedo decir no las he leído en mi vida. ¡Con qué primor, con que <hi rend="i">legiadria</hi> (bella parola italiana, como <hi rend="i">saudades</hi> portuguesa; ambas con plenitud de significación y propiedad para explicarse de un golpe) procede en cuanto sus ideas forman! Lo que más debe admirar es la novedad y gala con que imagina las veras, como, en particular, pintando hermosuras; oíd cómo dibuja la de Tisbe:</p>
+          
+          <p rend="noindent">Yo, en ninguno de cuantos librillos revolví de este género, he descubierto elocuencia tan dichosa, y modos de figurar tan valientes y desusados, aun en las menudencias de sales y argucias, en que hasta ahora ninguno le igualó, como ni en las veras, no obstante entren en este número las dos supremas lumbres de las frases, <name type="authority">Claudiano</name> en su <title>Robo</title>, y <name type="authority">Estacio</name> en sus <title>Silvas</title>  y <title>Tebaida</title> .</p>
+            <p rend="noindent">LAUREANO. ¡Oh cuánto en este género le viene a deber nuestro idioma, a quien deja enriquecido de tan curiosas novedades, de tan extravagantes lindezas! Eternos habían de ser en cierto modo tales ingenios, pues apenas en siglos enteros nacen sus iguales.</p>
+        </div>
+      </body>
+  </text>
+</TEI>
