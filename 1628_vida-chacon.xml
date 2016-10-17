@@ -1,11 +1,61 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
-  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vida y escritos de don Luis de Góngora</title>
+        <author key="Paravicino, Fray Hortensio Félix">Fray Hortensio Félix Paravicino</author>
+        <editor>Adrián Izquierdo</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Marie-Églantine Lescasse</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
+        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1628"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-      
+      <head>Texto de la edición</head>
       <div>
         <pb n="f. V"/>
-        
+        <head>Vida y escritos de don Luis de Góngora.</head>
         <p>Fue breve, habiendo nacido jueves once de julio de 1561 y muerto lunes 24 de mayo de
             1627, que sesenta y cinco años, diez meses y trece días brevísimo periodo fue a
           nuestro esplendor del más lucido y vehemente ingenio que ha producido nuestra nación, no

@@ -1,5 +1,58 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
-  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contra el Antídoto de Jáuregui y en favor de don Luis de Góngora, por un curioso</title>
+        <author>Anónimo</author>
+        <editor>José Manuel Rico García</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pedro Conde</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro</name>
+          <resp>relecture, stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Hector Ruiz</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes.
+        note[@place="bottom"] : notes d’éditeur (décimal par défaut)
+        note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain)
+      </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1624"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <!-- <p><ref target="https://docs.google.com/spreadsheet/ccc?key=0AjY-3NJyasEFdGFGZmY0U0paQzA3WHVId2UtUUVsQlE#gid=0">Nombre de Códig<anchor xml:id="_Hlt235766338"/>o del t<anchor xml:id="_Hlt236751644"/>exto</ref>: 1624_opusculo-curioso</p>
    <div>
@@ -61,12 +114,12 @@
    </div> -->
       <body>
       <div>
-        
+        <head>Texto de la edición</head>
         <p>
           <pb n="f. 249r"/>
         </p>
         <div>
-          
+          <head>Contra el Antidoto de Jáuregui y en favor de don Luis de Góngora por un curioso</head>
           <p>Por ser yo también natural de Sevilla, mi señor <name type="polemista">don Juan</name>, y nacido y criado en su misma collación de vuestra merced, la Magdalena, y aun su amigo <hi rend="i">ab incunabulis</hi>, porque las letras del <hi rend="i">A. B. C.</hi> nos las enseñó a los dos un mismo maestro, que fue Bazán, me atrevo, por todos estos títulos y por ser mayor de edad, a decirle a vuestra merced lo mal que lo miró en arrojarse a escribir el <title>Antidoto</title> de vuestra merced, tan cacareado, contra las obras de don Luis de Góngora, famoso ingenio, y que ha honrado con ellas nuestra España y nación, las cuales por curiosidad he juntado todas o casi todas en este libro y en otro. Y cuanto a lo primero, digo, señor, que cuando vuestra merced fuera extranjero, no me espantara, por el odio y envidia natural que los tales tienen a los españoles, pero que, siendo vuestra merced español y andaluz, haya querido oscurecer lo que tantos doctos españoles y hombres de buen gusto han alabado, engrandecido y reverenciado como a prodigio y monstruo de naturaleza. ¡Y qué digo los españoles! ¡Todas las naciones que han tenido noticia de sus obras! Y es tanto esto verdad, que dudan los napolitanos (como tan eruditos en poesía) que español haya compuesto semejantes obras <pb n="f. 249v"/>, particularmente el<title> Polifemo</title> y <title>Soledades</title>. Hame dado que pensar si lo hizo vuestra merced obligado del oficio de poeta por el refrán o instimulado de la carcoma de la envidia o atormentado que fuesen ajenas obras, que es el castigo que señala y apunta <name type="polemista">Quevedo</name> que los poetas tienen en su infierno imaginario. Séase lo que se fuere, no ha servido de otra cosa su <title>Antidoto</title> de vuestra merced sino de dar el vejamen para que le den todo el claustro pleno de los señores doctores de la facultad el grado que merece. Ya tiene vuestra merced noticia, como tan docto, que, cuando se quiere graduar un doctor en su facultad, primero que se le da el grado, es costumbre en las universidades, desde que se fundaron hasta ahora cuarenta años, que un ignorante seglar, aunque decidor y gracioso (ya desde esta edad es el doctor menos antiguo), le diese un vejamen deshaciendo y vituperando su habilidad y suficiencia. Y en este dicen muchos disparates vestidos con colores y apariencias de verdad: todo lo cual el que ha de ser doctorado lo lleva con muy grande paciencia y sufrimiento, y no habla en su defensa palabra alguna, porque sabe que todo el claustro pleno de los doctores sabe que, pues le dan el grado, tiene suficiencia y lo merece. Y con esto, no haciendo caso del vejamen, queda más honrado y graduado, y el charlatán se queda en la posesión que antes, si no es que ha perdido algo por no saber bien decir mal, que, aunque echan de ver que no dice ninguna verdad, a lo menos todos quieren que diga bien.<pb n="f. 250r"/></p>
           <p>Así vuestra merced ha servido de darle el vejamen al señor don Luis, que de esto ha servido su <title>Antidoto</title>, con lo cual ha quedado más honrado, calificado y conocido por muy eminente en su facultad; y lo que es más de ponderar: que no ha hablado palabra ni ha querido tomar la pluma para mostrarle a vuestra merced que los que dijo fueron disparates que a todo el mundo son notorios. Ya que él no lo ha hecho, lo han hecho otros buenos ingenios, como es el señor don <name type="polemista">Francisco de Córdoba</name>, <name type="polemista">abad de Rute</name> y racionero de la Santa Iglesia de Córdoba, singular ingenio versado en muy aventajadas letras, grande humanista y muy docto y versado en poesías, como se podrá ver en su escrito, a quien intituló <title>Examen del «Antídoto»</title>, que adelante se podrá leer, en que responde con agudeza a todas sus sofisterías de vuestra merced. Y no sé yo qué más se pudiera responder ni decir. Y lo que campea más (porque cada uno habla como quien es, o como la pasión o afición dicta): la modestia tan grande y decoro en el decir, la cual, no guardándola vuestra merced, parece que se le debía responder en su lenguaje. Otro es el licenciado <name type="polemista">Pedro</name> <name type="polemista">Díaz de Rivas</name>, particular ingenio de Córdoba y muy versado en todas buenas letras y lenguas, el cual hizo unas <title>Ilustraciones en favor y defensa del Polifemo y Soledades</title> y las demás obras de don Luis de Góngora, <pb n="f. 250v"/> que las puede vuestra merced ver, que están en este libro o 2ª parte, y con modestia le manifiesta a vuestra merced su poco saber y que no entendió las <title>Soledades</title>. Pues cuando vuestra merced tuviera más autoridad, causada de las muchas, buenas y heroicas obras que ha compuesto, y que se las hubieran alabado, estimado, por muy buenas, señores doctos y peritos en la facultad, y estuviera vuestra merced en opinión de hombre de opinión, fuera más cuerda su censura y más bien recibida. Con ella vuestra merced se ha excluido del número de los sabios y doctos, porque de estos es muy propio favorecer los trabajos de los ingenios ajenos; porque, como no tienen qué envidiar, no les duele el encarecer; que hay calidades de hombres, y vuestra merced es uno de estos, que piensan que el bien que dicen de los otros y de sus obras va por cuenta de sus méritos. Y a propósito dijo bien un sabio que los escritos eran los espejos de los ingenios, y que quien no había dado a luz sus obras no había visto la cara de su entendimiento. Y ansí se infiere que no tienen espejo los que no han escrito en la materia de que hablan o reprehenden. Y por esta causa me parece se le puede acomodar a vuestra merced un dicho que dijo cierto padre hablando de un hijuelo suyo, que el primer día que empezó a escribir decía que su maestro no sabía lo que se escribía, por lo cual dijo su padre: «Mi hijo Benitillo, antes maestro que <pb n="f. 251r"/> discípulo».</p>
           <p>También le hubiera calificado mucho a vuestra merced el haber nacido poeta, porque el poeta, para ser bueno, <hi rend="i">nascitur</hi>, y había de ser el nacimiento por lo menos en Córdoba, madre de poetas, porque el clima del cielo lo lleva de suelo, y así ha producido tantos y tan buenos en todas edades, porque no en balde Marcelo la edificó en el sitio que hoy posee con particular observación de astros y estrellas; pero ¿en vuestra merced, nacido y criado en Sevilla, que no influye cosa de provecho en materia de poesías? Y no es de los de la Heria y pendón verde, que al fin son más diabólicos en todo cuanto emprenden, sino magdalénico, de los que, cuando juran, dicen «Por esta cruz» y «Por vida de la señora mi madre, que, si me hace, que le tire un balacito». Sí, digo de mí, criado con el vaho de los molletes y mantequillas, buñuelos y pasteles, castañas y patatas cocidas, zahínas en invierno y alejijas en verano, caracoles, habas y membrillos cochos, alegrías, barquillos y otras mil golosinas de camarón con lima, arropía, turrón, piñones mondados, aguardiente y naranjada para por las mañanas, y chochos y garbanzos tostados a la tarde para la merienda. Con tantas ensaladas de cosas, ¿qué buen poeta hará?</p>

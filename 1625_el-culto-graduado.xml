@@ -1,5 +1,63 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
-  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>El culto graduado de Alonso de Castillo Solórzano</title>
+        <author key="Castillo Solórzano, Alonso de, 1584-1648?">Alonso de Castillo Solórzano</author>
+        <editor>Rafael Bonilla Cerezo</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro García</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Sara Pezzini</name>
+          <resp>Édition TEI et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Héctor Ruiz</name>
+          <resp>Édition TEI et stylage</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- <p>Voir aussi: <ref target="http://ustc.ac.uk/index.php/record/5022019">http://ustc.ac.uk/index.php/record/5022019</ref></p> -->
+        
+        
+        
+        
+        
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes.
+        note[@place="bottom"] : notes d’éditeur (décimal par défaut)
+        note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain)
+      </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1625"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <p><!--1625_el-culto-graduado</p>
@@ -59,13 +117,13 @@
         </table>
       </div>--></p>
       <div>
-        
+        <head>Introducción</head>
         <div>
-          
+          <head>1. [Título] <hi rend="i">Ritratto di un</hi> «culto» <hi rend="i">in un interno</hi></head>
           <p><hi rend="i">El culto graduado</hi> es una novela corta de Castillo Solórzano incluida en la primera de sus colecciones de relatos a la italiana: <hi rend="i">Tardes entretenidas</hi> (1625), cuya deuda con las <hi rend="i">Ejemplares</hi> (1613) de Cervantes aflora desde el prólogo, donde el autor vallisoletano afirma que «ninguna cosa de las que en este libro te presento es traducción italiana, sino todas hijas del entendimiento». El texto en cuestión gira en torno a la sátira del bachiller Alcaraz de Casarrubios, una suerte de Quijote de la poesía culta que, prendado de los versos de Góngora y sus epígonos, se convierte en blanco de la befa de dos estudiantes de Salamanca –naturales asimismo de la villa toledana– que lo incitan a componer obras llenas de hipérbatos y neologismos solo para reírse del cándido protagonista. No mucho después, don Diego, un caballero madrileño, lo convencerá del provecho de viajar a la corte y someterse al examen de los regentes del <hi rend="i">Gymnasium cultorum</hi>. La trama evoluciona, pues, hasta convertirse en una farsa, o mejor, en un entremés de figurón, que participa tanto de las <hi rend="i">Piacevoli notti</hi> de Straparola como de los vejámenes del Barroco. Anuncia finalmente los juguetes y premáticas de Quevedo sobre la «secta oscura», similar a los «críticos» de los <hi rend="i">Cigarrales de Toledo</hi> y del <hi rend="i">Deleitar aprovechando</hi> de Tirso; o sea, personajes teñidos de gongorismo y por ello execrables. El texto que nos ocupa debió idearse en el ambiente festivo de las academias madrileñas entre 1620 y 1622, donde Castillo participó de manera activa y los imitadores del autor de las <hi rend="i">Soledades</hi> fueron más que escarnecidos. De ahí que el episodio central de este relato se cifre en la ceremonia burlesca en la que se le concede al protagonista el grado de «culto»; y en buena lógica, el sintagma «culto graduado» nos llegue revestido aquí, como el propio Alcaraz, con notas cómicas que invitan a la lectura de este personaje como una suerte de “asno diplomado» o “delirante archiculto”.</p>
         </div>
         <div>
-          
+          <head>2. [Autor] El pícaro cortesano: Alonso de Castillo Solórzano</head>
           <p>Buena parte de la biografía del poeta, novelista y dramaturgo Alonso de Castillo Solórzano (Tordesillas, 1584 – ¿1648?) discurrió entre claroscuros. De hecho, más allá de los breves apuntes de Mayans, Mesonero Romanos y Nicolás Antonio, solo conocimos su lugar de nacimiento gracias a las pesquisas de Gutiérrez del Caño, director de la Biblioteca de la Universidad de Valencia a finales del siglo XIX, y Cotarelo y Mori, quien recogió los testimonios hallados por el presbítero Eleuterio Fernández Torres, autor en 1905 de una <hi rend="i">Historia de Tordesillas</hi>. La publicación de la partida bautismal de Castillo, fechada el 1 de octubre de 1584, certificaría su venida al mundo en la villa de Tordesillas (Valladolid) y el origen valenciano de sus padres, Francisco del Castillo y Ana Griján, servidores ambos de la grandeza, lo que «sugiere una educación literaria mínima», quizá supervisada por su abuelo materno, el abogado Pedro Griján.</p>
           <p>Su progenitor, camarero del duque de Alba, murió en Benavente (Zamora) y se le dio sepultura en Tordesillas. Aunque convenga dejarlo en cuarentena, parece que por dicho motivo don Alonso suspendió los estudios que tal vez cursaba en Salamanca. Lo cierto es que hasta la fecha no se ha probado que estuviera matriculado en ninguna universidad. Tales conjeturas derivan del profundo conocimiento del mundillo estudiantil salmantino que rodea a la ambientación de las <hi rend="i">Aventuras del bachiller Trapaza</hi> (1637). Para ser exactos, solo disponemos de noticias sobre Castillo Solórzano desde el 27 de febrero de 1616, cuando una seria enfermedad lo dispuso a formular testamento. Nombró entonces legataria a su tía Catalina Griján, aunque menciona también a su esposa, Agustina de Paz, hija del doctor Cogojado. Ocho meses después fallecería la madre de don Alonso, y en octubre de 1617 testó también su tía, instituyendo a nuestro autor como beneficiado universal. Por alguna extraña razón, dado que Castillo había acumulado ya el patrimonio de tres de sus parientes, una serie de documentos notariales de 1618 señalan que vendió sus fincas, viñas y predios, lo que invita a pensar que atravesó una crisis económica –se ignoran las causas–, o bien que una tardía vocación literaria –contaba treinta y dos años– lo impulsó a obtener la suficiente liquidez como para establecerse en la corte, que, según declara en <hi rend="i">Las harpías en Madrid</hi> (1631), ejercía sobre él una atracción irresistible.</p>
           <p>De abril de 1618 datan las segundas últimas voluntades del vallisoletano –de nuevo provisorias, pues fallecería tres décadas después–, cuyos bienes destinó esta vez a su mujer, aunque matizando que debía ocuparse de Ana Velarde, «niña pequeña que hemos criado en nuestra casa». Nada conocemos sobre la misteriosa prohijada y tampoco hay pruebas de que don Alonso tuviera descendencia. Se declara asimismo en ese protocolo gentilhombre del conde de Benavente, «por lo que cabe la posibilidad de que […) aprovechase una comisión o servicio encomendado por este noble para asentarse en Madrid, donde pronto cambiaría de protector».</p>
@@ -79,14 +137,14 @@
           <p>Ya en la segunda mitad de la pasada centuria, resulta todavía estimable la tesis doctoral de Dunn, relativa a toda la narrativa del vallisoletano y piedra de toque para los sucesivos asedios críticos y editoriales de Soons, Glenn y Very, Jauralde, Joset, Arellano, González Ramírez, Rodríguez Mansilla, Giorgi o Grouzis. Y eso que el hispanista británico no vaciló a la hora de declarar que la prosa de Castillo no le merecía ninguna simpatía. Entre los trabajos más recientes, cabe citar la edición de dos de sus colecciones a la zaga de las de Bandello, Sansovino o Straparola: <hi rend="i">Noches de placer</hi> (1631), al cuidado de Giorgi, y <hi rend="i">La quinta de Laura</hi> (1649), por parte de Grouzis; además de un par de títulos de su corpus picaresco femenino: <hi rend="i">Teresa de Manzanares</hi> (1632) y <hi rend="i">La garduña de Sevilla</hi> (1642), en el haber de Rodríguez Mansilla, quien concluye que aunque don Alonso sea considerado «una caja de resonancia de su venerado Lope, […] el grueso de sus recursos narrativos proviene de la obra de […] Salas Barbadillo. Podría decirse que, en el plano de la experimentación novelesca, […] encuentra en Salas un predecesor».</p>
         </div>
         <div>
-          
+          <head>3. [Cronología] La «Soledad» de las «Tardes»</head>
           <p>Coetáneo de la publicación de la segunda parte de los <hi rend="i">Donaires del Parnaso</hi> (1625) y de varios testimonios de la polémica gongorina, tales como los poemas de Lope en <hi rend="i">La Filomena</hi> (1621) y <hi rend="i">La Circe</hi> (1624), el <hi rend="i">Discurso poético</hi> (1624) de Jáuregui, la <hi rend="i">Aguja de navegar cultos</hi> (1625) de Quevedo, los <hi rend="i">Comentarios a las «Soledades»</hi> (1625) de Serrano de Paz, o la <hi rend="i">Apología a favor de don Luis de Góngora</hi> (1627) de Martínez de Portichuelo, se imprimió el debut de Castillo Solórzano en la prosa de ficción: las <hi rend="i">Tardes entretenidas</hi> (1625). Su objetivo no era otro que adaptar a nuestras letras el tipo de relatos de tres de los <hi rend="i">novellieri</hi>: Bandello, Sansovino y Straparola. De ahí la elección de un marco, al estilo de Boccaccio, en el que un par de viudas se dirigen con sus cuatro hijas a una finca en las afueras de Madrid para «tomar el acero»; un tópico, este de la opilación femenina, que menudea por las novelas (<hi rend="i">El monstruo de Manzanares</hi>, en la <hi rend="i">Mojiganga del gusto</hi> de Sanz del Castillo, 1641), comedias (<hi rend="i">El acero de Madrid</hi>, de Lope, 1608) y hasta la pintura del Barroco (pensemos en el jarrito de barro que la dama María Agustina Sarmiento le ofrece a la infanta Margarita en <hi rend="i">Las Meninas</hi> de Velázquez). Acompaña a este cortejo de dueñas y doncellas don Octavio, un gracioso que les propone que a lo largo de seis días cuenten historias de corte o de ciudad, amenizadas por enigmas y versos. Los títulos son: <hi rend="i">El amor en la venganza, La fantasma de Valencia, El Proteo de Madrid, El socorro en el peligro, El culto graduado</hi> y <hi rend="i">Engañar con la verdad</hi>.</p>
           <p>Además del curioso tema, la novedad del <hi rend="i">Culto graduado</hi> respecto a las otras cinco novelas se cifra en que Castillo no la puso en boca de ninguna de las damas, sino en la de un médico que llega a la quinta para divertirlas. Un profesional, por tanto, que frecuenta la corte sin integrarse del todo en ella. Conviene reparar además en la montura del galeno, una mula, frente a los coches en los que se desplazan doña Violante y doña Luisa. Sin pasar por alto un detalle: el relato más original de las <hi rend="i">Tardes</hi>, que por causas argumentales alberga también versos cultos, no se narra de forma oral. De hecho, fruto de la dificultad de los poemas insertos –parodias del gongorismo– y de la sintaxis de la que hace gala el protagonista, el bachiller Alcaraz, resulta lógico que el médico la copiara en un cuaderno. Se trata, en suma, de un narrador-lector que no inventa su relato de repente y de un tipo –el del científico erudito y a la postre pedante– que desfila con cierta asiduidad por las sátiras del Barroco. Téngase en cuenta que los galenos eran entonces un blanco fácil para los escritores –con Quevedo y Caviedes en primera línea– a causa de su aspecto –solían lucir guantes y un sortijón– y de su hermética jerga, que lindaba con el absurdo. Podría decirse, pues, que este médico-narrador participa aquí como un serio «figurón de la ciencia» y preludio del cómico «figurón gongorino» (Alcaraz) que domina el relato de Castillo.</p>
         </div>
         <div>
-          
+          <head>4. [Estructura] Un figurón de novela</head>
           <div>
-            
+            <head>4.1. El ingenioso bachiller Alcaraz de Casarrubios</head>
             <p>Fue Erasmo quien escribió que todos los asuntos humanos tienen dos caras, en nada semejantes; de modo que «aquello que a primera vista [...] es muerte, si lo examinas con mayor profundidad, aparece como vida; en cambio, lo que parece vida es muerte; lo hermoso, deforme; lo opulento, paupérrimo; lo infame, glorioso; lo docto, indocto; [...] en suma, si abres el sileno, de repente aparecerá todo cambiado». Sus palabras, aplicadas al <hi rend="i">Culto graduado</hi>, suscitan de inmediato varias preguntas: ¿qué es un loco? ¿Dónde radica la diferencia entre el docto y el indocto? ¿Y entre la sátira y la parodia?</p>
             <p>Pues bien, cualquier lector apresurado concluiría que en este relato Castillo se alista en el bando de los «enemigos del culteranismo». Pero un examen cuidadoso de la trama permite responder a dos de las cuestiones antedichas: la locura del loco literario, que no siempre lo está –verbigracia el licenciado Vidriera o Don Quijote–, ha de abordarse desde la óptica disparatada que «practica conscientemente el rito de la inversión de valores con el propósito de ofrecer una lectura crítica de la realidad»; aun cuando el relato en particular, como el que nos ocupa, se construya a partir de seres faltos en apariencia de legitimidad racional. Y tampoco se olvide que «la sátira abarca desde la burla de modales inoportunos hasta la feroz denuncia de defectos personales o injusticias sociales». Cuando esas lacras <space> </space>–por lo que atañe a la biografía de Alcaraz– tienen que ver con la adopción de una manera de escribir, la sátira exige además el respeto de un código: el dominio de un contexto pre-textual, ya que el médico del<hi rend="i"> Culto graduado</hi> asume como premisa la alta competencia del lector –y de las hermosas oidoras– al que se dirige, más que habituados a la retórica de los epígonos de Góngora. Por ello habría que clasificar esta sátira como híbrida, ya que Castillo mezcla lo general, la polémica sobre el gongorismo, con lo particular, esto es, cómo se literaturiza dicha polémica dentro de un relato de ficción.</p>
             <p>Definida por el médico como una «graciosa burla», la novela deviene en un pastiche satírico que adopta muchos de los rasgos cultos con intención burlona. Sin embargo, Castillo incumple dos de los mandamientos de cualquier sátira: la predilección por un estilo bajo y el protagonismo de hombres infames. <hi rend="i">El culto graduado</hi> satiriza, por tanto, a contrapelo. Nos topamos así con un estilo alto, bien es cierto que paródico en los poemas del bachiller y solo algo hinchado en la prosa del galeno, y con un poeta gongorino, pero no demasiado grotesco, que se diría un primo lejano del licenciado Vidriera de Cervantes; e incluso de Alonso Quijano, otro santo patrón de la lectura cuyo amor por los libros derivó en locura, o tal vez en juego. Los distintos interlocutores que se mofan de Alcaraz acabarán copiando también su mismo idiolecto (oscuridad, metáforas, hipérbatos...), como muchos de los adversarios de Góngora. De ahí que, según Rodríguez Mansilla, «el origen de esta novela corta [deba buscarse] en el ambiente festivo y satírico del entorno académico madrileño y las justas poéticas de 1620 y 1622, donde el estilo culterano fue bastante fustigado. Si en la primera justa solo había asistido el conde de Villamediana, como único exponente del gongorismo, dos años más tarde los culteranos son excluidos completamente del certamen. La comicidad con propósitos correctivos que despide la novela de principio a fin se inspira en la literatura efímera propia de la academia. Así, en la justa poética en honor de san Isidro, por ejemplo, Lope, en su papel de presidente, leyó cédulas burlescas donde llamaba a los cultos herejes extranjeros y locos […], apelativos que Castillo Solórzano explota a lo largo de <hi rend="i">El culto graduado.</hi> En lo que se refiere a su participación en la celebérrima Academia de Madrid, nuestro escritor fue miembro sumamente activo, desde su llegada a la capital, en 1619, hasta su partida a Valencia en 1628, cuando ya había escalado hasta el puesto de secretario de la misma».</p>
@@ -100,7 +158,7 @@
             <p>Asimismo, Sileri ha subrayado que las características de Alcaraz asoman también en un personaje del <hi rend="i">Ayo de su hijo</hi>, novelita incluida también en <hi rend="i">Tiempo de regocijo</hi>, «dove un poeta, “hombre que, para exagerarle de poco entendido, bastará decir que él mismo no sabía entenderse lo que escribía, non sarà pagato dal taccagno Fadrique per i versi incomprensibili che ha scritto, e in tono molto attenuato in Quien todo lo quiere, todo lo pierde, novella in cui doña Isabel dà appuntamento al <hi rend="i">galán</hi> per la notte successiva pregandolo di andare “enmendado de hipérboles, que no soy amiga de oírlos, por tener fabulosos a todos los que en ellos tratan y más con el conocimiento que tengo de lo poco que valgo».</p>
           </div>
           <div>
-            
+            <head>4.2. Lo inconstructo, lo brujuleado y, finalmente, lo impalpable</head>
             <p>Una vez terminado el recital de Alcaraz ante los colegiales salmantinos, el médico informa de la llegada a Casarrubios de un caballero madrileño que no tarda en preguntarle al ventero cómo puede distraerse un rato. Huelga decir que para entonces la locura del bachiller lo había convertido en una celebridad, de ahí que este cortesano, que atiende por don Diego, no pierda ni un segundo en dirigirse a casa del bachiller. Pues bien, si Cervantes había escrito en <hi rend="i">El licenciado Vidriera</hi> que los dichos de Tomás Rodaja se extendieron por toda Castilla y, «llegando a noticia de un príncipe o señor, que estaba en la corte, quiso enviar por él y encargóselo a un caballero amigo suyo que estaba en Salamanca», don Diego orquesta una farsa en <hi rend="i">El culto graduado</hi> junto a un grupo de nobles de la capital. Consciente de la extravagancia del protagonista, alaba sus bizarros versos hasta el infinito, engatusándolo con dos mentiras: 1) Madrid necesita autores de su talla, porque en las academias los hay mucho peores; 2) un tribunal de expertos será el responsable de examinarlo.</p>
             <p>Tales elogios alimentan la vanidad de Alcaraz, que se dispone a escribir su obra cumbre: un poema que servirá para confirmar «que dudo, y no es arrogancia, que haya nadie que me aventaje en los agudos y nuevos modos de versificar». Pagado de sí mismo, el figurón ni siquiera sospecha que don Diego lo conduce hacia una trampa. Así, las primeras noticias que el bachiller facilita a tan ladino representante conciernen a su producción dramática, pues al parecer Alcaraz se había consagrado al teatro durante sus años en Salamanca: escribió treinta comedias que no subieron a las tablas a causa de la negativa de los autores, de los altos honorarios del dramaturgo y, quizá, de su desvío del modelo lopista. Nótese la extrema ambición de una de las teóricamente más conseguidas, el <hi rend="i">Epítome de prodigios</hi>, cuya obertura protagonizaban nada menos que los Nueve de la Fama y las diez sibilas.</p>
             <p>El título de esta comedia apunta a un argumento mitológico que nada desmerece respecto a las demás, igualmente ridículas: <hi rend="i">La burra de Balán, El mayor miércoles, La infanta sin calzas, El regoldar en ocasión, Los ojos en ajuar, Las doncellas en camisa, El viudo risueño, La mona en Tetuán, El devoto de Monjas, La cocina de amor, Los celos en letuario, Los dones al quitar, La tragedia de Babieca, El escabeche de amor, El blasón de Pero Tierno</hi> y <hi rend="i">Los amantes en cazuela</hi>. Piezas hilarantes, escritas en «quincenas, diez y ochenas, veintenas y octavas de a veinticuatro consonantes», que ayudan a iluminar dos de las características de la prosa y el teatro del vallisoletano: 1) la fusión de géneros, que invita a clasificar <hi rend="i">El culto graduado</hi> como una novela entremesil sobre la lírica culta; y 2) Castillo suele reciclar motivos y personajes de unos libros a otros.</p>
@@ -109,7 +167,7 @@
             <p>El íncipit de <hi rend="i">El circo mantuano</hi> está plagado de esdrújulos, cláusulas condicionales del tipo «A sí, B» y adjetivos que imitan por sufijación los participios latinos de presente, rasgos todos ellos típicos de Góngora: «atento el culto sí prevenga oído, / plebeyo no, si agrícola nacido». Pero habrá que esperar al final de la historia, justo cuando el bachiller ha sido ya humillado por don Diego y los aristócratas madrileños, para que las carcajadas se adueñen del relato. Solo en Madrid, y sobre un improvisado teatro, el entremés del figurón, o sea, la parodia de la poesía culta, toma carta de naturaleza. Dicho de otro modo: sobre las tablas del jardín de los Agustinos, el cómico Alcaraz –en las dos acepciones de «cómico»: ‘jocoso’ y ‘actor’– ignora todavía que interpreta para un público de <hi rend="i">beffatori</hi> que permanecen ocultos. Es solo durante el examen ante el «Tribunal de cultos» cuando el crédulo bachiller se teatraliza, pasando de raro poeta a figurón.</p>
           </div>
           <div>
-            
+            <head>4.3. Tribunal de Nocturnos</head>
             <p>En Madrid se desarrolla el segundo acto de esta ficción. Alcaraz se graduará allí como poeta culto ante un tribunal formado por maestros de varias naciones, todos ellos disfrazados: Latino, Griego y Garamanta. Micer Tenebroso, el portero de este cónclave, «simboliza tanto la tiniebla gongorina como los seudónimos que se atribuyeron los poetas que participaban en la <hi rend="i">Academia de los Nocturnos</hi>».</p>
             <p>La obsesión de don Diego no es otra que adecentar el recinto para la burla, casi una suerte de carnaval académico. Los bromistas se reúnen de hecho junto al monasterio de los Agustinos, cuyo pensil alberga la tramoya del que podríamos denominar como “entremés del villano”. Recuérdese además que la querencia de Castillo por la fiesta de Momo resucitaría en otras colecciones, como por ejemplo <hi rend="i">Tiempo de regocijo y carnestolendas de Madrid</hi>. De momento, don Diego solo se apresta a recibir a su víctima tras urdir con tiento una farsa que no difiere en su planificación de las que preludian las glotonerías y el bullicio que siguen a la Cuaresma. Durante una semana, al menos en aquella época, enmascarados de ambos sexos se permitían toda clase de desmanes y travesuras; tendían cuerdas transversales de calle a calle para que los paseantes dieran con sus huesos en el suelo, espantaban a los caballos con buscapiés y triquitraques, arrojaban ceniza, confeti o polvos para estornudar y arrojaban al paso del gentío líquido de no muy noble origen.</p>
             <p>Junto a lo carnavalesco habría que sumar en <hi rend="i">El culto graduado</hi> una tradición que enriquece el diseño del examen del bachiller: el <hi rend="i">opus ridicularium</hi> sobre los pedantes. La novela de Castillo, a tenor de sus deudas con las <hi rend="i">Piacevoli notti</hi> de Straparola –por lo que respecta al título de la colección en la que se inserta (<hi rend="i">Tardes entretenidas</hi>) y más aún por el uso de enigmas en verso al final de cada relato–, entronca también con varias befas italianas que se burlaban de los saberes teóricos, la educación universitaria e incluso la lectura. Un motivo que podríamos remontar al triángulo formado por Bruno, Buffalmacco y Calandrino en el <hi rend="i">Decamerón</hi> (VIII, 9), pasando por el <hi rend="i">Grasso Legnaiuolo</hi>, el <hi rend="i">Bianco Alfani</hi>, las farsas estudiantiles del siglo XVI, la historia de Scheggia, Piluca, Monaco y  Zoroastro en <hi rend="i">Le cene</hi> (1540) de Grazzini o la <hi rend="i">favola</hi> del humanista sandio de las citadas <hi rend="i">Piacevoli notti</hi> (1550-1553). Rodríguez Mansilla indica que «en el capítulo III de <hi rend="i">El necio bien afortunado</hi> (1621), Salas Barbadillo recrea una ceremonia de graduación en la que se lleva a cabo un “examen del necio”, donde se parodia una graduación universitaria, con unos caballeros adornados de borlas y capirotes, como Junta de Doctores. […] De allí toma […] Castillo […] el motivo de la graduación burlesca, pero aplicándola en <hi rend="i">El culto graduado</hi>, con afán innovador, a la exaltación de la causa anticulterana».</p>
@@ -118,7 +176,7 @@
             <p>El ceremonial protagonizado por el poeta de Casarrubios entronca asimismo con el folklore bajomedieval y renacentista de la fiesta del loco. Basada en la inversión jerárquica de los valores y funciones sociales, en ella se proclamaba soberano a un bufón, nombrando también un abad, un obispo y un arzobispo de la risa; y en las iglesias sometidas al Papa, un pontífice jocoso. En la novela de Castillo la investidura tiene que ver con la graduación culta de un rústico. A ello contribuye el juego de puertas, entradas y salidas que preceden a la audiencia de Alcaraz con los doctores. El bachiller es evaluado en una sala, casi una logia secreta, decorada por extraños frescos; y su principal desafío se cifra en leer un memorial («Submiso a vuestro –elegantes») donde mezcla el encabalgamiento sirremático del primer verso con octosílabos tan osados como «Vagarosa a culto solio», cláusulas condicionales («si antípoda a la estulticia»), epítetos y superlativos peregrinos («metrificante», «circunspecto», «humilísima», «celebérrimo»...).</p>
           </div>
           <div>
-            
+            <head>4.4. Una novela entremesil</head>
             <p>Durante la deliberación del tribunal, el bachiller y don Diego se deleitan con los jeroglíficos que adornan la sala. Pinturas que anuncian lo que he dado en llamar el entremés de los jueces cultos; o sea, el núcleo de <hi rend="i">El culto graduado</hi>, una novela entremesil. Castillo no duda en añadir entonces a su improvisado teatro –como en la <hi rend="i">Sala de recreación</hi> (1649)– un escenario con tribunas y frescos, mitad acertijos, mitad emblemas. Las pinturas consisten en seis enigmas latinos con glosas en español que parodian la docta oscuridad. Como los que cierran cada una de la novelas, estos cuadros sobrepasan la mera función de adorno. Así, según Cayuela, los jeroglíficos del marco de las <hi rend="i">Tardes entretenidas</hi> y los de la novela que nos ocupa se caracterizan «por la complementariedad de los mensajes que los componen (un grabado impreso, un enigma en verso, la solución del enigma dada por los personajes del marco); y en el caso de los jeroglíficos, la descripción de una imagen, un mote en latín, seguido por unos versos en castellano». De acuerdo con el magisterio de Straparola, las <hi rend="i">Tardes entretenidas</hi> se convierte así en una colección de relatos verdaderamente única en nuestro Barroco, ya que no se publicará ninguna otra con emblemas hasta bien entrado el siglo XVII.</p>
             <p>Nótese que la espera por parte de Alcaraz del fallo de don Candor, don Esplendente y don Brillante, e incluso la actitud del propio bachiller, respetan el sistema de mistificación carnavalesca y desmitificación social que domina los entremeses del Barroco. Y que el tribunal del<hi rend="i"> Culto graduado</hi> le expide un diploma al protagonista en virtud de un par de constituciones: la legislación griega y el código hebreo, sancionado en la mismísima torre de Babilonia. Ambas cartas magnas desgranan varios artículos que debe cumplir todo culto que se precie de serlo: 1) licencias; 2) licencias penalizadas; y 3) licencias con contrato, asociadas a la oscuridad, los neologismos, los extranjerismos y las oraciones hiperbáticas; esto es, ideas coincidentes con lo observado por Jáuregui en su <hi rend="i">Discurso poético</hi> (1624). En este sentido, Siles afirmó que Castillo Solórzano se pronuncia sobre el gongorismo en las <hi rend="i">Tardes</hi> con la misma aptitud que Lope o Tirso. A imagen del Fénix, el vallisoletano se pregunta en qué reside la extrañeza del nuevo estilo, pero «no intenta analizarlo desde su horizonte de expectativas como lector y escritor, sino desde otros parámetros que –supone– conforman la voluntad y el ideario de los cultos». Luego en virtud de las obras de Góngora, el público de la época debió sentir un cambio que alteraba las reglas gramaticales –sintaxis, concordancia y epítetos– y se tradujo en un nuevo <hi rend="i">modus dicendi</hi> que oscurecía el discurso e intrincaba su recta comprensión.</p>
             <p>Después de la firma del «título de culto» por los regentes, el Secretario lo entrega al bachiller y este a su padrino: don Diego. Es en ese momento cuando se activan los resortes de la sátira. Los jueces se despojan de sus máscaras y uno de ellos le impone a Alcaraz un capirote de colores y un collar con higas de azabache y boj. Castillo resucita de esta manera la silueta de otra figura burlesca de raíz italiana: la del falso filósofo. Un motivo que –junto al de las higas– el novelista repitió en el entremés de <hi rend="i">La castañera</hi>, inserto en las <hi rend="i">Aventuras del bachiller Trapaza</hi> (1637): «El cielo le maldiga y remaldiga / a quien al verla no le da una higa»; sin olvidar que la broma del capirote también desfila por <hi rend="i">El comisario de figuras</hi>, otro de sus entremeses, publicado esta vez en <hi rend="i">Las harpías en Madrid</hi> (1631): un juez ataviado con vara, ropa negra, herreruelo y gorra de terciopelo, como el trío nocturnal de <hi rend="i">El culto graduado</hi>, condena a un «poeta de prestado» al manicomio del Nuncio de Toledo; lo seguirán una dama caprichosa, un lindo y un caballero que se preciaba de ser pariente de Favila y Pelayo. Por último, en <hi rend="i">El comisario de figuras</hi>, un entremés de «civilidades», o sea, de burlas lingüísticas, al igual que la novelita del <hi rend="i">Culto graduado</hi>, Castillo pasa revista a varios de los tipos más pintorescos de su tiempo no solo «con intención [jocosa], sino también moralista, ya que desea imponerles un castigo o un correctivo, aun cuando este sea de tipo alegórico»:</p>
@@ -142,11 +200,11 @@
           </div>
         </div>
         <div>
-          
+          <head>5. [Fuentes] Doradas «beffe» contra los cultos</head>
           <p>Las fuentes del <hi rend="i">Culto graduado</hi> que podríamos juzgar deudoras de la polémica gongorina se antojan algo difusas y apuntan a las <hi rend="i">Advertencias</hi> (1614) de Almansa y Mendoza y, según Festini, a la <hi rend="i">Respuesta al papel que escribió un señor de estos reinos en razón de la nueva poesía</hi>, de Lope de Vega, y al <hi rend="i">Discurso poético</hi> (1624) de Jáuregui. El resto de modelos en los que Castillo pudo inspirarse para escribir su texto abarcan desde el <hi rend="i">opus ridicularium</hi> contra los pedantes, de larga tradición italiana (Boccaccio, Straparola), a la poesía burlesca (Francisco de Quevedo, Jacinto Polo de Medina) y la censura de los poetas cultos en otros relatos (<hi rend="i">Guía de forasteros</hi>, de Liñán y Verdugo, 1620) y colecciones del Barroco (las <hi rend="i">Novelas a Marcia Leonarda</hi>, de Lope de Vega, 1621-1624); sin desdeñar varias de las comedias del Fénix y, como es natural, el <hi rend="i">Antídoto</hi> (1616) y el <hi rend="i">Discurso poético</hi> (1624) de Jáuregui.</p>
         </div>
         <div>
-          
+          <head>6. [Conceptos debatidos] Neologismos, ornato excesivo, sintaxis dislocada y oscuridad</head>
           <p>Las principales objeciones de Castillo a los poetas que militan en la «secta culta» atañen a:</p>
           <p rend="noindent">1. Las muchas voces peregrinas que introducen.</p>
           <p rend="noindent">2. Los tropos frecuentísimos.</p>
@@ -155,7 +213,7 @@
           <p>Es relevante el esfuerzo del autor vallisoletano por separar la poesía de Góngora, celebrada sin ambages, de la de sus epígonos. Escribe acerca de don Luis, aun sin nombrarlo: «No hablo de particulares sujetos, que en la obscuridad de sus escritos han descubierto elegancias y rayos de ingenio, dando con ellos admiración a nuestra nación y las extranjeras».</p>
         </div>
         <div>
-          
+          <head>7. Otras cuestiones</head>
           <p><hi rend="i">El culto graduado</hi> es coetánea de otros textos de Castillo Solórzano, tanto en prosa como en verso, en los que –no sin cierta ambigüedad– el vallisoletano emite su parecer sobre la obra de Góngora y, con más frecuencia, sobre el gongorismo. Así, según he evidenciado en otro lugar, los <hi rend="i">Donaires del Parnaso</hi> (1624-1625), aquel par de volúmenes que recogen los poemas que nuestro autor presentó en las academias del Barroco, pueden leerse también a modo de «revista gongorina». Valgan como ejemplo el romance «Cuando me parió mi madre» («Cuando me parió mi madre / un millón tuve de anuncios / de que sería poeta / sin graduarme en lo culto»), la <hi rend="i">Fábula de Marte y Venus</hi> («Brillantes contempla luces, / claros dislumbran fulgores / de deidad que suma hace / sus crepúsculos las noches. / Que en nuestra cristiana lengua / dice que miraba entonces / los bellos ojos que Venus / todas las noches recoge») o el jocoso <hi rend="i">Romance contra los cultos</hi> («Instrucción para saber»), donde no faltan los guiños a varios pasajes de las <hi rend="i">Soledades</hi>. Sin embargo, no hay que perder de vista que Castillo tampoco dudó a la hora de alabar a don Luis en algunas de sus novelas, verbigracia en <hi rend="i">La niña de los embustes</hi> (1632): «Don Luis de Góngora, compatriota suyo, ingenio que tanto celebró España y actualmente celebraba por sus versos, que los hizo elegantísimos, así en lo grave como en lo jocoso». Repárese además en su <hi rend="i">Fábula de Polifemo a la Academia de Madrid</hi> («Estas que me dictó rimas burlescas»), en estilo jocoserio; en la <hi rend="i">Respuesta en verso culto</hi> que obtuvo la petición de Anarda, una dueña con madre nonagenaria y dos vejestorios por tías; la <hi rend="i">Silva al campo de Leganitos</hi> y, finalmente, una serie de comentarios dispersos por sus colecciones. Por ejemplo, este naufragio de <hi rend="i">Engañar con la verdad</hi>, novela incluida en las <hi rend="i">Tardes entretenidas</hi>, deudor de aquel otro de las <hi rend="i">Soledades</hi> (1613, v. 94-100; 1614, v. 33-36 y 200-204): «Las olas se aumentaban al peso que el airado viento las impelía, registrando los vasos así los cóncavos senos del cerúleo imperio como las celestiales esferas. [...] A pique, con la mucha agua que habían hecho, no habiendo acudido, con la turbación, a desaguar con las bombas, y así no se salvó hombre de cuantos iban, si no fue nuestro gallardo don Remón, que le guardaba el cielo para que gobernase el reino de Sicilia en compañía de su hermosa reina, el cual, como viese el peligro tan próximo, desnudándose de sus vestidos hasta quedar en camisa y calzoncillos de holanda, se abrazó con un grueso tablón de la galera y se dejó llevar de las furiosas olas, remando con los brazos a toda fuerza, procurando arribar a tierra. El lastimoso espectáculo miraban tres pescadores desde la orilla del mar, cuyo mayor caudal se cifraba en un pequeño barco y unas remendadas redes, con que se sustentaban sus familias en una corta aldea cercana a la marina, y viendo que encima del tablón fluctuaba contra la furia de las embravecidas olas un hombre que, más venturoso que los demás, procuraba entretener su vida con esperanza de algún socorro, deseando dilatársela se aventuraron, aunque con algún riesgo suyo, a favorecerle con su barco».</p>
           <p>En la misma línea se halla esta suerte de acogida por unos rústicos en <hi rend="i">Las dos dichas sin pensar</hi>, relato de las <hi rend="i">Noches de placer</hi> (1631) que no se entendería sin el modelo del <hi rend="i">Polifemo</hi> (1612, v. 169-176) y la primera de las silvas de don Luis (1613, v. 84-93). Escribe Castillo: «Una oscura y tenebrosa noche del encogido y erizado invierno amenazaba, con densos nublados y furiosos vientos, copiosas pluvias, cuando en las faldas de las montañas de Jaca  –donde es menos áspera y fragosa la tierra, pues en ella hallaban pasto, entre sus carrascas y malezas, ligeras y trepadoras cabras de gruesos rebaños que allí había– aumentaban la confusión entre las oscuras sombras latidos de perros, vigilantes guardas de aquellos ganados, sustituyendo entonces las de sus pastores, pues en encerrados apriscos cercanos a bien reparadas chozas les tenían reparándose de la inclemencia de las aguas que prometía el lóbrego seno de la tempestuosa noche. Dilatado tesón en su inquieto ladrar tenían los valientes animales, congregados en cierta parte áspera de aquel distrito, tanto que obligaron a que sus dueños dejasen sus albergues, temerosos por la ferocidad de los voraces lobos –que en aquellas montañas había– no hubiesen hecho algún notable daño en sus rebaños; y así, tomando encendidas teas –rústicas antorchas del campo–, salieron a averiguar la inquieta confusión de sus perros de qué procedía».</p>
           <p>Lo mismo cabe decir sobre el romance «La gran puente segoviana», que figura en la jornada II de las <hi rend="i">Jornadas alegres</hi> (1626), inspirado en el soneto de don Luis «Señora doña puente segoviana» (1609); o bien acerca de la <hi rend="i">Fábula de las bodas de Manzanares</hi>, todavía en las <hi rend="i">Jornadas alegres</hi>, uno de cuyos párrafos se antoja deudor de un pasaje de la <hi rend="i">Soledad</hi> II (1614, vv. 276-285). Lo transcribo a continuación: «Esta real quinta –que intituló Casa de Campo y este nombre conserva hoy– está mirando, en la opuesta ribera, al suntuoso y rico alcázar de este poderoso monarca, fábrica de su invictísimo padre y suya, que gozó el inmediato sucesor, obra digna de sus reales majestades; cuyos fuertes cimientos, con amena y deleitosa igualdad de verdes árboles, adorna un cercado que llaman al parque, depósito de inquietos y bulliciosos conejuelos, que no es bien darles el epíteto de tímidos, pues aquí la seguridad con que son guardados les hace degenerar su naturaleza, viviendo libres sin el susto del cauto cazador y el temor del ardiente plomo».</p>
@@ -163,17 +221,17 @@
           <p>Finalmente, las leyes y prerrogativas del epílogo del <hi rend="i">Culto graduado</hi> participan de una tradición que se remonta a la <hi rend="i">Adjunta</hi> al <hi rend="i">Viaje del Parnaso</hi> («Privilegios, ordenanzas y advertencias que Apolo envía a los poetas españoles»). Según indica Cossío, «se deben creer inspiradas por cualquiera de las <hi rend="i">premáticas</hi> de Quevedo». No descarto tampoco el influjo de este relato de Castillo sobre las <hi rend="i">Academias del Jardín</hi> de Polo de Medina, donde Jacinto reparte ocho cédulas de las cuales tres avienen con la «constitución» que debe cumplir Alcaraz: «3) ha llegado a este lugar un maestro graduado en Torre de Babilonia. Enseña todas las lenguas y, principalmente, la culta, por moderado precio, y a los poetas de balde; [...] 5) han llegado a nuestra lengua católica poetas herejes y cultos. Vuesas mercedes les ayuden con su limosna, y cumplirán con los que mandan los cuadros de las ánimas del purgatorio: «Sácame de aquí, que mañana será por ti»; 6) cierto poeta que se ha convertido a su Dios, y dejado la mala secta culta en que vivía, pide por esta cédula que rueguen a Dios por él porque le conserve en su claridad, y a vuesas mercedes no les deje caer en la tentación». También Polo de Medina, igual que Castillo en <hi rend="i">El culto graduado</hi>, dirige sus pullas contra los «villanciqueros» en la segunda de sus academias.</p>
         </div>
         <div>
-          
+          <head>8. Conclusión</head>
           <p>Esta novelita ha sido editada hasta hoy por Cotarelo, Campana y quien suscribe. Rodríguez Mansilla, autor de un reciente artículo sobre <hi rend="i">El culto graduado</hi>, incidió en tres puntos: 1) el parecido entre el bachiller Alcaraz y don Quijote; 2) los préstamos que Castillo pudo tomar del <hi rend="i">Necio bien afortunado</hi> de Salas Barbadillo; 3) la recreación por parte del narrador vallisoletano del mundillo de las academias madrileñas de las primeras décadas del siglo XVII, abundando en la rivalidad entre los partidarios de Lope y los de Góngora. Sobre este último asunto, Festini apuesta por catalogar esta obra como un «retacillo» de la batalla entre el Fénix y el poeta cordobés, sacando a la luz la huella en <hi rend="i">El culto graduado</hi> de la <hi rend="i">Respuesta al papel que escribió un señor de estos reinos en razón de la nueva poesía</hi>. Por su parte, Cayuela se detuvo en los jeroglíficos del jardín de los Agustinos, así como en las deudas de don Alonso con las <hi rend="i">Piacevoli notti</hi> de Straparola. Finalmente, yo mismo rastreo aquí la impronta del género del <hi rend="i">opus ridicularium</hi>, del vejamen y de las colecciones de los <hi rend="i">novellieri</hi> italianos en <hi rend="i">El culto graduado</hi>, al igual que la pervivencia de varias de las tesis de Castillo contra los poetas gongorizantes en las premáticas de Quevedo y Polo de Medina.</p>
         </div>
         <div>
-          
+          <head>9. Establecimiento del texto</head>
           <p>La principal dificultad a la que se enfrenta cualquier editor que siga el método del error significativo a la hora de publicar un texto como <hi rend="i">El culto graduado</hi> es la falta de otros testimonios (anteriores o posteriores) a partir de los cuales poder enmendar los <hi rend="i">loci critici</hi>, que en este caso son pocos. Cuando nos hallamos ante un <hi rend="i">codex unicus</hi>, la <hi rend="i">emendatio</hi> solo puede realizarse <hi rend="i">ope ingenii</hi>, es decir, por <hi rend="i">divinatio</hi>, lo que siempre entraña riesgos, porque nos basamos en conjeturas –postuladas al margen de otros códices que avalen la <hi rend="i">lectio</hi> final–. De ahí que haya que proceder con la máxima prudencia. He fijado el texto crítico a partir de la <hi rend="i">princeps</hi> de las <hi rend="i">Tardes entretenidas</hi> (Madrid, Viuda de Alonso Martín, a costa de Alonso Pérez, 1625), enmendando los banales errores tipográficos y el resto de los atribuibles a los componedores (debidos a la caída de algún <hi rend="i">titulus</hi>, o bien a una lectura fallida del original). Solo las correcciones más significativas van acompañadas de una nota a pie de página.</p>
         </div>
         <div>
-          
+          <head>10. Bibliografía</head>
           <div>
-            
+            <head>10.2.2. Impresos anteriores a 1800</head>
             <p rend="noindent"><hi rend="sc">Argote de Molina</hi>, Gonzalo:</p>
             
             <p rend="noindent"><hi rend="sc">Castillo Solórzano</hi>, Alonso de:</p>
@@ -187,7 +245,7 @@
             <p/>
           </div>
           <div>
-            
+            <head>10.2.3 Impresos posteriores a 1800</head>
             <p rend="noindent"><hi rend="sc">Adolph</hi>, H.:</p>
             
             <p rend="noindent"><hi rend="sc">Alarcos García</hi>, Emilio:</p>
@@ -453,16 +511,85 @@
         </div>
       </div>
       <div>
-        
+        <head>Texto de la edición</head>
         <div>
-          
+          <head>Tarde V</head>
           <p>Cerca de los últimos términos del día fatigaba el rubio hijo de Latona el luminoso tiro, conducidor de su radiante carroza, solicitando la brevedad de su curso por hallarse en el undoso imperio de Neptuno, donde la graciosa Tetis le prevenía alojamiento, cuando los frondosos árboles, socorridos del regalado céfiro, brindaban a las pintadas aves con el apacible murmureo de sus verdes hojas, a que haciendo la razón su concertada y sonora armonía convidó juntamente a las damas a que saliesen a gozar de sus amenos y compuestos cuadros; y en uno, donde el arte competía con la naturaleza, hicieron traer asientos, y acomodándose todas, esperaron a Octavio y al médico, a quien le tocó la suerte del novelar aquella tarde.</p>
           <p>No quisieron que les deseasen su venida mucho porque, casi al mismo instante que se habían sentado, llamaron los dos a la puerta del jardín, entraron y, apeándose Octavio de su macho y el médico de su regalada mula, llegaron a la amena estancia elegida por aquella tarde para su gustoso entretenimiento, donde siendo alegremente recibidos de aquellas señoras les dieron asientos; y porque no se les pasase el tiempo, Octavio templó su guitarra, a quien acompañó con sonora voz, cantando este romance que se sigue, que dijo antes haberle hecho al propósito de un galán desfavorecido de una dama que pretendía y, para inclinarla a que le admitiese en su gracia, se valió de una hechicera que, pagada, le dio unos hechizos en una redoma y, al tiempo que los llevaba para la ejecución de su intento, se encontró con un asno de un aguador en quien se rompió la frágil custodia de su embeleco y, experimentando el rudo animal el poderoso efecto, dio en seguir al galán sin poderse defender de él:</p>
-          
+          <quote>
+            <p><space rend="tab"> </space>Hechizos solicitaba</p>
+            <p>un galán a lo moderno,</p>
+            <p><space rend="tab"> </space>que se vale del atajo</p>
+            <p>quien se cansa del rodeo.</p>
+            <p><space rend="tab"> </space>De una niña de cristal</p>
+            <p>siente durezas de acero,</p>
+            <p>que juzgó en lo cristalino</p>
+            <p>quiebras al primer encuentro.</p>
+            <p><space rend="tab"> </space>Con una hechicera topa,</p>
+            <p>que ha hecho ya en el infierno</p>
+            <p>caravanas de novicio</p>
+            <p>para demonio profeso.</p>
+            <p><space rend="tab"> </space>Diole en un pomo de vidrio</p>
+            <p>confeccionado el remedio</p>
+            <p>por quien espera favores</p>
+            <p>de quien no ablandaron ruegos.</p>
+            <p><space rend="tab"> </space>Al revolver de una esquina</p>
+            <p>rompiole el vidrio un jumento,</p>
+            <p>donde fuerzas del hechizo</p>
+            <p>le imprimieron sus efectos.</p>
+            <p><space rend="tab"> </space>Parte en busca de la causa</p>
+            <p>de su amoroso embeleco,</p>
+            <p>a quien promete en bocados</p>
+            <p>lo que otro librara en besos.</p>
+            <p><space rend="tab"> </space>Con bufidos y rebuznos</p>
+            <p>manifestaba su celo,</p>
+            <p>que del sardesco idïoma</p>
+            <p>son suspiros, son requiebros.</p>
+            <p><space rend="tab"> </space>Atribulado del caso</p>
+            <p>y pesaroso del yerro,</p>
+            <p>del tarquiasnal apetito</p>
+            <p>huye el barbado Lucrecio.</p>
+            <p><space rend="tab"> </space>Aguarda, necio galán,</p>
+            <p>si hay necio que pueda serlo,</p>
+            <p>no de tu próximo huyas,</p>
+            <p>deudo es el bruto del necio.</p>
+            <p><space rend="tab"> </space>Si eres noble por tu sangre</p>
+            <p>el jumento no lo es menos,</p>
+            <p>que si es cerda por la cola,</p>
+            <p>¿qué será por todo el cuerpo?</p>
+            <p><space rend="tab"> </space>No te podrás escapar</p>
+            <p>aunque te defienda un pueblo,</p>
+            <p>que zapatos de Bilbao</p>
+            <p>son escuadras de tudescos.</p>
+            <p><space rend="tab"> </space>No a su amor le digas nones,</p>
+            <p>cuando de sus pies ligeros</p>
+            <p>salen los coces a pares</p>
+            <p>como frailes de un convento.</p>
+            <p><space rend="tab"> </space>Espera de su asnitud</p>
+            <p>que ha de recibir por premio</p>
+            <p>hierro de manos con guantes,</p>
+            <p>manos con guantes de hierro.</p>
+            <p><space rend="tab"> </space>Tú pierdes en no esperarle</p>
+            <p>un paladión de conceptos</p>
+            <p>que, digeridos, declare</p>
+            <p>en lenguaje borriqueño.</p>
+            <p><space rend="tab"> </space>Huye el descuidado amante,</p>
+            <p>sigue el bruto su desprecio,</p>
+            <p>y al bruto el dueño y el palo</p>
+            <p>con que le bruma los huesos.</p>
+            <p><space rend="tab"> </space>Mientras solicita gustos</p>
+            <p>sufre agravios de su dueño,</p>
+            <p>que lo que el dolor le dura</p>
+            <p>es lo que siente del duelo.</p>
+            <p><space rend="tab"> </space>Por la puerta de Alcalá</p>
+            <p>salen todos tres corriendo:</p>
+            <p>a consentir con el burro,</p>
+            <p>la mitad se tienen hecho.</p>
+          </quote>
           <p>La buena voz y donaire de los versos bien aplicados al asunto dio mucho gusto a los agradecidos oyentes, pagándoselo ellos en encarecidas alabanzas que estimó mucho Octavio; y llegándole su plazo al médico para contar la novela, de que el día antes le había tocado la suerte, ocupando un asiento entre aquellas hermosas damas algo más eminente que los demás, habiéndose sosegado un pequeño rato, cuando todos le guardaban silencio, en clara voz comenzó su novela de esta suerte.</p>
         </div>
         <div>
-          
+          <head>Novela V. El culto graduado</head>
           <p>–Aunque es tan ajeno de mi profesión, hermosísimas damas, y discreto auditorio, el novelar, cumpliendo con la ley de la obediencia y con la que observó ayer mi hermosa antecesora, ocupo este puesto para referiros una graciosa burla con que reprehendo a los hombres que se divierten del provechoso empleo de las letras que profesan –de quien esperan eminentes cargos– por darse a ocupaciones inútiles, y de que no se saca ningún fruto, con que vienen a perder sus reputaciones y el predicamento en que pudieran estar por lo primero; y porque esta novela consta así de prosa como de versos, me he reducido a traérosla escrita, temiendo no me falte la memoria a la mejor sazón, como muchas suele acontecer.</p>
           <p>Y sacando un cuaderno del pecho en inteligible voz comenzó a leer de esta manera.</p>
           <p>Siete leguas de la insigne y real villa de Madrid, corte del cuarto Filipo, monarca de las dos Españas, dista la villa de Casarrubios del Monte, de donde se intitulan condes los ilustres descendientes de la clara prosapia de <name type="polemista">Chacón<!-- Jaime Galbarro : 2015-06-21T17:43:00

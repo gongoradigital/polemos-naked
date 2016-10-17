@@ -1,11 +1,62 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
-  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vida de don Luis de Góngora</title>
+        <author key="Pellicer y Tovar, José">José Pellicer y Tovar</author>
+        <editor>Adrián Izquierdo</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>François-Xavier Guerry</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
+        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1630"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div>
-        
+        <head>Texto de la edición</head>
         <div>
-          
+          <head>Vida de don <name type="polemista">Luis de Góngora</name>
+            por <name type="polemista">José Pellicer de Salas</name></head>
           <p>Para decir de tan excelente varón y referir sus alabanzas, quisiera exceder en
             elocuencia a todos los oradores griegos y romanos y hallarme en altura tanta que pudiera
             mi pluma eternizar la memoria de un ingenio que vivió para decoro, reputación y honor de
@@ -62,7 +113,31 @@
             mediando la Providencia divina, le volvieron a la salud antigua y, habiendo convalecido,
             celebró su mal en aquel sazonadísimo soneto que
             dice:</p>
-          
+          <quote>
+            <lg>
+              <l>Muerto me lloró el Tormes en su orilla, </l>
+              <l>en un parasismal sueño profundo, </l>
+              <l>en cuanto don Apolo el rubicundo </l>
+              <l>tres veces sus caballos desensilla </l>
+            </lg>
+            <pb n="f. 2r"/>
+            <lg>
+              <l>Fue mi resurrección la maravilla</l>
+              <l>que de Lázaro fue la vuelta al mundo,</l>
+              <l>de suerte que ya soy otro segundo</l>
+              <l>Lazarillo de Tormes en Castilla.</l>
+            </lg>
+            <lg>
+              <l>Entré a servir a un ciego, que me envía,</l>
+              <l>sin alma vivo, y en un dulce fuego,</l>
+              <l>que ceniza hará la vida mía. </l>
+            </lg>
+            <lg>
+              <l>¡Oh qué dichoso que sería yo luego,</l>
+              <l>si a Lazarillo le imitase un día</l>
+              <l> en la venganza que tomó del ciego!</l>
+            </lg>
+          </quote>
           <p>Estos versos hacía en aquella edad, y así no me maravillo que no se diese del todo a la
             atención de los derechos, que era la facultad a que le inclinaban sus padres, porque
             obedeciendo a su natural, se dejó arrastrar dulcemente de lo sabroso de la erudición y
@@ -127,16 +202,87 @@
             a luz con tanta admiración de los eruditos como envidia de los ignorantes. Fue esta de las novedades que escandalizó a los que,
             contentos con la llaneza del estilo en que se hacían lugar, llevaron
             mal que se introdujese lo que no habían de saber imitar, a quien escribió don <name type="polemista">Luis</name> así:</p>
-          
+          <quote>
+            <lg>
+              <l>Pisó las calles de Madrid el fiero</l>
+              <l>monóculo galán de Galatea</l>
+              <l>y, cual suele tejer bárbara aldea</l>
+              <l>soga de gozques contra forasteros,</l>
+            </lg>
+            <lg>
+              <l>rígido un bachiller, otro severo,</l>
+              <l>crítica turba al fin, si no pigmea,</l>
+              <l>su diente afila y su veneno emplea</l>
+              <l>en el disforme cíclope cabrero.</l>
+            </lg>
+            <lg>
+              <l>A pesar del lucero de su frente,</l>
+              <l>le hacen obscuro, y él, en dos razones</l>
+              <l>que en dos truenos libró de su occidente,</l>
+            </lg>
+            <lg>
+              <l>«Si quieren — respondió — los pedantones</l>
+              <l> luz nueva en hemisferio diferente,</l>
+              <l>den su memorïal a mis calzones».</l>
+            </lg>
+          </quote>
           <p>Escribió después la <title>Soledad primera</title> y, apenas la publicó, cuando padeció
             semejante invasión que el <title>Polifemo</title>, acusándole de oscuro los que no le
               entendían. Respondió a los que no lo entendían con
             el desprecio, con la risa, pero mejor en otro soneto, sin género de duda grande:</p>
-          
+          <quote>
+            <lg>
+              <l>Con poca luz y menos disciplina</l>
+              <l>al voto de un muy crítico y muy lego,</l>
+              <l>salió en Madrid la Soledad, y luego</l>
+              <l>a palacio con lento pie camina.</l>
+            </lg>
+            <pb n="f. 3v"/>
+            <lg>
+              <l>La puerta  le cerró de la
+                Latina</l>
+              <l>quien duerme en español y sueña en griego,</l>
+              <l>pedante gofo, que, de pasión ciego,</l>
+              <l>la suya reza, y calla la divina.</l>
+            </lg>
+            <lg>
+              <l>Del viento es el pendón pompa ligera,</l>
+              <l>no hay paso concedido a mayor gloria,</l>
+              <l>ni voz que no la acusen de extranjera.</l>
+            </lg>
+            <lg>
+              <l>Gastando, pues, en tanto la memoria,</l>
+              <l>ajena invidia, más que propia cera,</l>
+              <l>por el Carmen la lleva a la Victoria.</l>
+            </lg>
+          </quote>
           <p>Del modo mismo se portaron sus émulos con la <title>Soledad segunda</title>, reprehendiendo el
             estilo, las metáforas, las alusiones y demás tropos de que usa con frecuencia don <name type="polemista">Luis</name>, que se desahogó de las calumnias en otro soneto no menor
             y más grave:</p>
-          
+          <quote>
+            <lg>
+              <l>Restituye a tu mudo horror divino,</l>
+              <l>amiga Soledad, el pie sagrado,</l>
+              <l>que captiva lisonja es, del poblado,</l>
+              <l>en breves hierros  pájaro ladino.</l>
+            </lg>
+            <lg>
+              <l>Prudente cónsul, de las selvas dino,</l>
+              <l>de impedimentos busca, desatado,</l>
+              <l>tu claustro verde, en valle profanado</l>
+              <l>de fiera menos que de peregrino.</l>
+            </lg>
+            <lg>
+              <l>¡Cuán dulcemente de la encina vieja</l>
+              <l>tórtola viuda al mismo bosque incierto</l>
+              <l>apacibles desvíos aconseja!</l>
+            </lg>
+            <lg>
+              <l>Endeche el siempre amado esposo muerto</l>
+              <l>con voz doliente, que tan sorda oreja</l>
+              <l>tiene la soledad como el desierto.</l>
+            </lg>
+          </quote>
           <p>Dejemos ahora el discurrir sobre el estilo, pues luego diremos de él en su defensa, y pasemos a las medras que don
               <name type="polemista">Luis</name> tuvo y a los aumentos que alcanzó, pues no obstante
             que fue el mayor hombre de España en su tiempo, se halló tan atrasado en las
