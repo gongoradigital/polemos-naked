@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import author="rodrigoii"
+        date="17-10-16"
+        desc="&lt;pre&gt;&lt;br/&gt;- polemosnaked&lt;br/&gt;- rodrigoii&lt;br/&gt;- 17-10-16&lt;/pre&gt;"
+        name="POLEMOSNAKED"
+        rootDir="/Users/rodrigoii/gongoradigital/polemos-naked"
+        script="xmlLoader.groovy"
+        version="0.7">
+   <linkGrp type="align"/>
+   <corpora>
+      <corpus annotate="true"
+              cqpid="POLEMOSNAKED1476983108195"
+              desc="&lt;pre&gt;&lt;br/&gt;- polemosnaked&lt;br/&gt;- rodrigoii&lt;br/&gt;- 17-10-16&lt;/pre&gt;"
+              encoding="UTF-8"
+              font=""
+              lang="es"
+              name="POLEMOSNAKED">
+         <tokenizer onlyThoseTests="false">
+            <param name="whitespaces">[\p{Z}\p{C}]+</param>
+            <param name="regPunct">[\p{Ps}\p{Pe}\p{Pi}\p{Pf}\p{Po}\p{S}]</param>
+            <param name="punct_strong">[.!?]|\.\.|\.\.\.|…|\|</param>
+            <param name="regElision">['‘’]</param>
+         </tokenizer>
+         <xslt xsl=""/>
+         <pattributes/>
+         <sattributes/>
+         <biblios/>
+         <uis>
+            <ui command="concordance">
+               <context_limits type="list">text</context_limits>
+            </ui>
+         </uis>
+         <editions default="default">
+       	    <edition build_edition="true"
+                     mode="groovy"
+                     name="default"
+                     page_break_tag="pb"
+                     script="pager.groovy"
+                     words_per_page="500"/>
+         </editions>
+         <texts/>
+         <queries/>
+         <preBuild/>
+      </corpus>
+   </corpora>
+</import>
