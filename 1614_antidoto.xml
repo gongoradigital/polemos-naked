@@ -60,9 +60,10 @@
       <div>
         <head><ref target="https://docs.google.com/spreadsheet/ccc?key=0AjY-3NJyasEFdGFGZmY0U0paQzA3WHVId2UtUUVsQlE#gid=0">Nombre de Códig<anchor xml:id="_Hlt235766338"/>o del t<anchor xml:id="_Hlt236751644"/>exto</ref>: 1614_antídoto</head>
       </div>
+      <!--
       <div>
         <head>Datos bibliográficos</head>
-        <!--<table>
+        <table>
           <row>
             <cell>Autor</cell>
             <cell>Juan de Jáuregui y Aguilar</cell>
@@ -116,20 +117,18 @@
             <cell>Referencias a la polémica</cell>
             <cell/>
           </row>
-        </table>-->
-      </div>
+        </table>
+            </div>
+      -->
       <div>
         <head>Texto de la edición</head>
       </div>
       <div>
         <head>Antídoto contra la pestilente poesía de las “Soledades”, aplicado a su autor para defenderle de sí mismo.</head>
-        <p xml:lang="es">Aunque muchos hombres cuerdos y doctos desean con buena intención desengañar a vuestra merced y aconsejarle no escriba versos heroicos, no lo llegan a intentar: lo uno porque desconfían de la enmienda, lo otro, por no trabar guerra con vuestra merced, si recibe mal su consejo. Y vuestra merced no se desvanezca de que así le huyan el rostro, que no se infiere de ahí ninguna valentía suya. Si un hombre ultrajara a otros desafiándolos en pública plaza a reñir con espada y capa, sin duda le aceptarían el desafío; pero si el tal retador señalara por armas sendos trapos sucios, nadie sería tan poco limpio que saliese al certamen, ni se reputarían de cobardes cuantos lo rehusasen. Así, las más veces, dejan a vuestra merced por señor del campo viéndole empuñar un soneto merdoso y otro pedorro, y al menorete un monóculo o cagalarache. Con todo esto, quiero que lea vuestra merced este papel con alguna paciencia hasta el fin, que yo, el mínimo entre los que saben algo y el más compasivo de vuestra merced, me atrevo a persuadirle, por evidentes causas, que no nació para poeta concertado ni lo sabe ser, ni escribir versos en juicio y veras, por mengua de natural y por falta de estudio y arte.</p>
-        <!--section=Sect1-->
-        <p xml:lang="es">Y siendo tan justa mi pretensión, me resuelvo a no dárseme una castañeta, aunque vuestra merced, desde luego, invoque las sucias musas de su Esgueva, y aunque al punto se desataque o remita mi memorial a los calzones del monóculo o a los truenos de su occidente. Exprima vuestra merced sus conceptos y agudezas las más estimadas o privadas, o llueva sobre cada sílaba de estas una gruesa de sonetos, que en esa parte me doy por vencido. Y no me pienso defender, sino decir de esta vez limpiamente mi sentimiento llano, en que no interviene brizna de pasión alguna, que jamás la tuve, y menos contra vuestra merced. Solo confieso de mí que llevo impacientísimamente ver estimadas las acciones de cada uno en más ni en menos de lo que merecen. Yo no presumo de poeta, ni de hacer ostentación poca ni mucha de ingenio y letras; solo escribo estos renglones por comisión particular de algunos amigos. Y así, cercenando superfluidades, declararé breve y sinceramente la verdad.</p>
-        <!--/section=Sect1-->
-        <!--section=Sect2-->
+        <p>Aunque muchos hombres cuerdos y doctos desean con buena intención desengañar a vuestra merced y aconsejarle no escriba versos heroicos, no lo llegan a intentar: lo uno porque desconfían de la enmienda, lo otro, por no trabar guerra con vuestra merced, si recibe mal su consejo. Y vuestra merced no se desvanezca de que así le huyan el rostro, que no se infiere de ahí ninguna valentía suya. Si un hombre ultrajara a otros desafiándolos en pública plaza a reñir con espada y capa, sin duda le aceptarían el desafío; pero si el tal retador señalara por armas sendos trapos sucios, nadie sería tan poco limpio que saliese al certamen, ni se reputarían de cobardes cuantos lo rehusasen. Así, las más veces, dejan a vuestra merced por señor del campo viéndole empuñar un soneto merdoso y otro pedorro, y al menorete un monóculo o cagalarache. Con todo esto, quiero que lea vuestra merced este papel con alguna paciencia hasta el fin, que yo, el mínimo entre los que saben algo y el más compasivo de vuestra merced, me atrevo a persuadirle, por evidentes causas, que no nació para poeta concertado ni lo sabe ser, ni escribir versos en juicio y veras, por mengua de natural y por falta de estudio y arte.</p>
+        <p>Y siendo tan justa mi pretensión, me resuelvo a no dárseme una castañeta, aunque vuestra merced, desde luego, invoque las sucias musas de su Esgueva, y aunque al punto se desataque o remita mi memorial a los calzones del monóculo o a los truenos de su occidente. Exprima vuestra merced sus conceptos y agudezas las más estimadas o privadas, o llueva sobre cada sílaba de estas una gruesa de sonetos, que en esa parte me doy por vencido. Y no me pienso defender, sino decir de esta vez limpiamente mi sentimiento llano, en que no interviene brizna de pasión alguna, que jamás la tuve, y menos contra vuestra merced. Solo confieso de mí que llevo impacientísimamente ver estimadas las acciones de cada uno en más ni en menos de lo que merecen. Yo no presumo de poeta, ni de hacer ostentación poca ni mucha de ingenio y letras; solo escribo estos renglones por comisión particular de algunos amigos. Y así, cercenando superfluidades, declararé breve y sinceramente la verdad.</p>
         <p>Vengamos, pues, a las últimas obras de vuestra merced y, especialmente, a las <title>Soledades</title>, que, al fin, como la más reciente, debió ser escrita con mejor acuerdo y con más experimentado juicio, y así no admiten disculpa sus yerros. Y por seguir algún orden, comenzaremos por su mismo título o inscripción, que hasta en eso erró vuestra merced llamando a esta obra impropísimamente <title>Soledades</title>, porque soledad es tanto como falta de compañía, y no podrá llamarse solo al que tuviere a otro consigo. Vuestra merced introduce legiones de serranas y pastores de entre los cuales nunca sale aquel pobre mozo naufragante; y así lo demuestran los versos en cien ocasiones como estas:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Inundación hermosa </quote> </p>
         <p><quote>que la montaña hizo populosa</quote> </p>
         <p><quote>de sus aldeas todas</quote> (vv.263-265)</p>
@@ -140,44 +139,38 @@
         <p xml:lang="es">
  </p>
         <p xml:lang="es">Donde había tanta vecindad de pueblos y toda aquella caterva que baila, juega, canta y zapatea hasta caer, ¿cómo diablos pudo llamarse soledad?</p>
-        <!--/section=Sect2-->
-        <!--section=Sect3-->
         <p xml:lang="es">Pasemos luego a la traza de esta fábula o cuento o qué se es. Allí sale un mancebo, la principal figura que vuestra merced nos representa, y no le da nombre. Este fue al mar y vino del mar, sin que sepáis cómo ni para qué; él no sirve sino de mirón, y no dice cosa buena ni mala, ni despega su boca. Solo hace una descortesía muy tacaña y un despropósito: que se olvida de su dama ausente, que tantas querellas le costó al salir del mar y se enamora de esa otra labradora desposada en casa de su mismo padre, donde lo hospedaron cortésmente, sin que sirva aquello de nada al cuento, sino para echarlo más a perder y rematarlo sin artificio ni concierto alguno. Y, juntamente, todo el proceso del poemilla, me digan si puede ser más friático y pazguato.</p>
-        <!--/section=Sect3-->
-        <!--section=Sect4-->
         <p xml:lang="es">Tampoco dice vuestra merced jamás en qué país o provincia pasaba el caso. Y aun para mostrar que sucedió ello por la primavera hace una destemplanza de temporales maravillosa; porque una noche los pastores de aquella cabaña se calentaban alrededor de un gran fuego. Hele aquí:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Y la que desviada</quote> </p>
         <p><quote>luz poca pareció, tanta es vecina,</quote> </p>
         <p><quote>que yace en ella la robusta encina</quote>. (vv.86-88)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y más abajo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>llegó pues el mancebo, y saludado</quote> </p>
         <p><quote>de los conducidores fue de cabras</quote> </p>
         <p><quote>que a Vulcano tenían rodeado. </quote>(vv. 90-93)</p>
         <p xml:lang="es">Todo esto es un invierno frío. Y luego, otro día, se asaba el mundo, y las flores bebían el sudor de las frentes:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que a mucha fresca rosa <space>   </space></quote> </p>
         <p><quote>beber el sudor hace de su frente.</quote> (vv.569-70)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>En duda ponen cuál mayor hacía</quote> </p>
         <p><quote>guerra al calor o resistencia al día</quote>.(vv. 538-39)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y en otro lugar se refrescan y juegan con el agua de la fuente como en mitad de la canícula:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect4-->
-        <!--section=Sect5-->
+        
         <p><quote>Juntaba el cristal líquido al humano. (v.244)</quote> </p>
         <p><quote>Al concento se abaten cristalino</quote> </p>
         <p><quote>sedientas las serranas</quote> (vv.585-586)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Débese también condenar aquella primera apóstrofe en que vuestra merced se vuelve al duque de Béjar, comenzando:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>¡Oh tú que, de venablos impedido,</quote> (Dedicatoria, v.5)</p>
-        <p xml:lang="es"/>
+        
         <p>Trata de la caza, y prosigue con tan espantoso rumor que parece representar una tremenda batalla. El ejercicio de la caza o montería es muy loable en príncipes y reyes; mas, en efecto, es solo un entretenimiento y gusto, no acción heroica en lo militar ni en lo civil. Y así, debía vuestra merced no hacer tan gran caudal de que ese príncipe andaba a caza, sino aplicarle otra ocupación o virtud ilustre y competente a su persona, como lo hizo <name type="authority">Garcilaso</name> con Don Pedro de Toledo, virrey cuando le dedicó su égloga:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Tú, que ganaste, obrando,</quote> </p>
         <p><quote>un nombre en todo el mundo,</quote> </p>
         <p><quote>y un grado sin segundo;</quote> </p>
@@ -185,851 +178,730 @@
         <p><quote>al ínclito gobierno del estado</quote> </p>
         <p><quote>Albano, ahora vuelto a la otra parte,</quote> </p>
         <p><quote>resplandeciente, armado,</quote> </p>
-        <!--/section=Sect5-->
-        <!--section=Sect6-->
         <p><quote>representando en tierra al fiero Marte.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y últimamente, como cosa accidental y a trasmano, habla de la caza:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ahora de cuidados enojosos </quote> </p>
         <p><quote>y de negocios libre, por ventura</quote> </p>
         <p><quote>andes a caza el monte fatigando.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>O aprenda vuestra merced de <name type="authority">Horacio</name> en aquella epístola suya cuyo principio:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cum tot sustineas (dice), et tanta negotia solus</quote> </p>
         <p><quote>res italas armis tuteris, moribus ornes</quote> </p>
         <p><quote>legibus emendes, in publica commoda peccem</quote> </p>
         <p><quote>si longo sermone, more tua tempora Caesar.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>De estas virtudes grandes se ha de hacer mención cuando se habla con los príncipes y se les dedica algún escrito, y no aplicarles el ejercicio meramente de cazadores, como también lo hizo vuestra merced con el conde de Niebla ofreciéndole su <title>Polifemo</title>.</p>
         <!--/section=Sect6-->
         <!--section=Sect7-->
         <p xml:lang="es">Dejemos las inadvertencias y desavíos que hay en la mala disposición de esta obra, por mayor, y vamos a sus sentencias particulares, que son bien notables. Parece a veces que va vuestra merced a decir cosas de gran peso y sale con una bagatela o malpare un ratón, como cuando el navegante echó en la roca el madero que le había escapado de la tormenta, dice vuestra merced con alta ponderación:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que aun se dejan las peñas</quote> </p>
         <p><quote>lisonjear de agradecidas señas</quote> (vv.32-33)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Miren qué lisonja o agradecimiento fue echar un leño roto en aquella roca.</p>
         <p xml:lang="es">Dice el otro pastor contemplando las ruinas vestidas de yedra:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que a ruinas y estragos</quote> </p>
         <p><quote>suele el tiempo hacer verdes halagos</quote> (vv. 220-221)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect7-->
-        <!--section=Sect8-->
         <p>Parecerse quiere a la estancia del gran <name type="authority">Torcuato Tasso</name>, que imitó de <name type="authority">Sannazaro</name> en el segundo libro <title>De Partu Virginis</title> sobre la ruina de Cartago:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Giace l’alta Cartago: a pena i segni</quote> </p>
         <p><quote>de l’alte sue ruine il lido serba:</quote> </p>
         <p><quote>muiono le città, muiono i regni,</quote> </p>
         <p><quote>copre i fasti e le pompe arena ed erba, </quote> </p>
         <p><quote>e l’huom d’esser mortal par che si sdegni.</quote> </p>
         <p><quote>O nostra mente cupida e superba.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>Sepa vuestra merced imitar esta grandeza, y la misma hallará en los versos latinos del <name type="authority">Sannazaro</name>, que no me pienso detener en alegaciones.</p>
         <p xml:lang="es">También es una sentencia muy sustancial la del chopo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>A revelar secretos va a la aldea</quote> </p>
         <p><quote>que impide amor que aun otro chopo lea</quote> (vv.699-700)</p>
-        <p xml:lang="es"/>
+        
         <p>Por solo no decir <hi xml:lang="es" rend="i">chopolea</hi>, había vuestra merced de callar todos los días de su vida. He aquí otra sentencia:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect8-->
-        <!--section=Sect9-->
+        
         <p><quote>No el polvo desparece</quote> </p>
         <p><quote>el campo, que no pisan alas hierba</quote> (1041-42)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Ni sé tampoco quién le metió en esa cabeza que era buen pensamiento aquel último de toda la obra (fuera de su poca limpieza):</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que, siendo Amor una deidad alada,</quote> </p>
         <p><quote>bien previno la hija de la espuma</quote> </p>
         <p><quote>a batallas de amor campo de pluma</quote>. (vv. 1089-91)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Considérense por un solo Dios estos y otros apotegmas, que, si yo lo desmenuzara todo, ¿cuándo acabaríamos?</p>
         <p xml:lang="es">Otras proposiciones tiene vuestra merced del todo falsas, como decir que la piedra imán se vuelve a la estrella que más luce en el cielo, entendida por la estrella del norte:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Tal piedra</quote> [...] (v.379)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>solicita el que más brilla diamante</quote> </p>
         <p><quote>en la nocturna capa de la esfera</quote> (vv. 383-84)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Contradice la verdad, porque la estrella que los marineros siguen, más vecina al Polo Ártico de la Osa Menor, no es la que más brilla y resplandece, antes lucen más que ella los planetas y otros muchos astros, verdad notoria y visible a cuantos tienen ojos.</p>
-        <!--/section=Sect9-->
-        <!--section=Sect10-->
         <p xml:lang="es">Vuestra merced dice más: que el sol no anda todos los términos del mar:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De cuya monarquía</quote> </p>
         <p><quote>el sol, que cada día</quote> </p>
         <p><quote>nace en sus ondas y en sus ondas muere,</quote> </p>
         <p><quote>los términos saber todos no quiere </quote>(vv. 406-409)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Sí quiere y lo sabe, porque no hay parte en toda la redondez de la tierra y de las aguas donde no se vea el sol la mitad del tiempo del año justamente.</p>
         <p xml:lang="es">Dice vuestra merced que la nave es:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Vaga Clicie del viento</quote> (v.372)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">La flor en que se convirtió Clicia, que es el heliotropo o girasol, siempre se va volviendo hacia el rostro del sol, a quien mira y busca todas las horas del día, y la nave lo hace al revés, porque no camina hacia el rostro del viento, antes huye de él, o por camino atravesado o volviéndole las espaldas y la popa.</p>
         <p xml:lang="es">Tampoco puede ser que la cuchara con que se partía la leche en la choza fuese:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>del viejo Alcimedón invención rara</quote> (v.152)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect10-->
-        <!--section=Sect11-->
+        
         <p>Porque si vuestra merced quiere que Alcimedón haya sido inventor de las cucharas, no lo fue, ni hay quien tal cosa diga. <name type="authority">Virgilio</name> alaba unos vasos que labró este artífice en aquellos versos que vuestra merced tan mal supo imitar:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>pocula ponam</quote> </p>
         <p><quote>fagina, coelatum divini opus Alcimedontis.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y luego:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Et nobis ipse Alcimedon duo pocula fecit.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Este galante escultor o tornero que el poeta introduce en su égloga debió ser en tiempo de aquellos pastores. Y si queremos que el suceso descrito por vuestra merced se imagine como acaecido también entonces, no puede ser, porque en los versos que vuestra merced trata de las nuevas Indias se colige haber sido este acaecimiento o ficción después que ellas se descubrieron. Así que, para ser obra de manos de Alcimedón, esta cucharita había de tener sus mil y quinientos años de edad.</p>
         <p xml:lang="es">También dice vuestra merced que los pastores cenaban:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>manjares que el veneno </quote> </p>
         <p><quote>y el apetito ignoran igualmente.</quote> (vv. 865-66)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect11-->
-        <!--section=Sect12-->
+        
         <p xml:lang="es">Que los manjares pastoriles ignoren el veneno bien está; pero que ignoren igualmente el apetito, eso es falso como Judas, antes se come un pastor una cebolla con más apetito que el príncipe un faisán fuera de que no es alabanza de aquella cena que vuestra merced aplaude decir que sus manjares no eran apetitosos (esto da a entender lo literal); y, si vuestra merced en algunos lugares como este tuvo otra cosa en su mente de lo que la letra reza, eso allá se quedó.</p>
         <p xml:lang="es">No tiene mejor conveniencia aquello:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Virgen tan bella, que hacer podría</quote> </p>
         <p><quote>tórrida la Noruega con dos soles,</quote> </p>
         <p><quote>y blanca la Etiopía con dos manos.</quote> (vv.783-85)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Que abrasen la fría Noruega con los rayos de sus ojos, pase; pero que las manos hagan blanca la Etiopía, eso no, antes la harían más negra por la oposición.</p>
-        <!--/section=Sect12-->
-        <!--section=Sect13-->
         <p>Bien podríamos no hablar de la oscuridad confusa y ciega de estas <title>Soledades</title>, suponiéndola como cosa tan creída y vista de todos y tan concedida del que más disculpa a vuestra merced. Pero caso es digno de ponderación que apenas haya periodo que nos descubra enteramente el intento de su autor. Aun si allí se trataran pensamientos exquisitos y sentencias profundas, sería tolerable que de ellas resultase la oscuridad; pero que diciendo puras frioneras y hablando de gallos y gallinas, y de pan y manzanas, con otras semejantes raterías, sea tanta la dureza del decir y la maraña, que las palabras solas de mi lenguaje castellano materno me confundan la inteligencia, ¡por Dios que es brava fuerza de escabrosidad y bronco estilo! No se imagine por esto que a pesar de vuestra merced no entendemos cuanto quiso decir, aunque no lo dijo, si bien se encuentran partes donde por largo espacio no alcanza la más interna meditación a hallarles fondo, y de estas escribiré después algunas.</p>
         <p>Ciertos amigos de vuestra merced, viéndose atribulados en la disculpa de estos versos, han deseado que siquiera alabemos en ellos la manerota del decir y su novedad. Hase de advertir que la novedad en tanto es loable en cuanto es grata y apacible al gusto de muchos o a los mejores. Este nuevo estilo de vuestra merced es tan contrario al gusto de todos, que ningún esforzado ánimo ha podido leer cuatro columnas de estos solitarios versos sin estrujada angustia de corazón, como lo vemos experimentar a mil personas discretas y capaces de la buena poesía. Su intento de vuestra merced aquí fue escribir versos de altísimo lenguaje, grandílocuos y heroicos. El que mejor hizo esto fue <name type="authority">Virgilio Marón</name>; pues cotejado su estilo con el de vuestra merced es tan diferente y opuesto que cualquier español con dos maravedís de gramática entenderá fácilmente los versos del poeta, y los de vuestra merced., con ser en su lengua vulgar, no los entenderá ni aun con dificultad. Pero dejemos la pureza del gran <name type="authority">Virgilio</name>, de quien vuestra merced es antípoda. <name type="authority">Estacio Papinio</name>, insigne poeta, es tenido por áspero y atrevidísimo, y osaré apostar que no se halla en toda la <title>Tebaida</title> tan espantoso grimazo como el menor de los que vuestra merced emprende. De <name type="authority">Torcuato</name> dicen algunos que de muy heroico y alto poeta se les pasa por alto y llega a ser oscuro. Pues siendo yo nacido y criado en Castilla, con mi escaso ingenio no he hallado en la <title>Jerusalén</title> lugar que no entienda. ¡Y delante de Dios, que en muchas partes de estas <title>Soledades</title> me he visto atormentado el entendimiento, y aún no sé si las acabo de rastrear! ¡Doyte al diablo el escrito, y cuán lejos vas de la dulzura que <name type="authority">Horacio</name> alaba y todos los artistas encomiendan! Y no piense vuestra merced por esto que nos espantamos de poéticos modos y gallardías, que curtidos estamos en la lectura de poetas griegos, latinos, italianos, franceses, lemosines y españoles, y sabemos ya a lo que se extienden las demasías poéticas. Mas también sabemos que ninguna poesía admite menos libertades que la española. Váyanse a sincopar nuestras dicciones o removerlas como hace a cada paso el italiano, que ya dice <hi xml:lang="es" rend="i">dispetto</hi>, ya <hi xml:lang="es" rend="i">despitto</hi>. <name type="authority">Petrarca</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Per isfogare il suo acerbo despitto.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>Dicen <hi xml:lang="es" rend="i">simile</hi>, breve, y, si se les antoja, lo alargan, como en la <title>Jerusalén</title>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Mai non se mostra a se stessa simile</quote>.</p>
-        <p/>
-        <!--/section=Sect13-->
-        <!--section=Sect14-->
         <p>Esta palabra <hi xml:lang="es" rend="i">fueron</hi> usan ellos de seis maneras: <hi xml:lang="es" rend="i">furono, furno, furon, furo, foro, fur</hi>, según les viene a cuento. También altera esta lengua y las otras, el orden de la locución con mil trasposiciones y travesuras que a nosotros son vedadas; por manera que, a nuestra poesía, comparada a las demás, sin duda pueden aplicarse dos versos de <name type="authority">Marcial</name>:</p>
-        <p xml:lang="es"/>
-        <p xml:lang="es"/>
+        
+        
         <p><quote>Nobis non licet esse tam dessertis,</quote> </p>
         <p><quote>qui Musas colimus severiores.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Vuestra merced no solo desprecia la severidad de nuestra poca licencia, mas excede a cuantas usaron los más atrevidos poetas del mundo en todas las lenguas, sin parecerse en sus versos a ninguno de todos ellos. Así que en esto no puede haber medio, o vuestra merced es el único que ha entendido esta facultad desde el principio de los siglos hasta el día de hoy, o el que más la ha ignorado:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Solis nosse Deos et coeli numina vobis,</quote> </p>
         <p><quote>aut solis nescire datum...</quote> </p>
-        <p xml:lang="es"/>
-        <!--/section=Sect14-->
-        <!--section=Sect15-->
-        <p xml:lang="es"/>
-        <!--/section=Sect15-->
-        <!--section=Sect16-->
         <p>Esto dijo <name type="authority">Lucano</name> a los druidas por la singular extravagancia de sus ritos. Yo pienso que los que vuestra merced introduce en la poesía no son más católicos que los de aquella gente; y así me será harto más fácil probar esto segundo que lo primero. Porque cuando quisiéramos suponer una blasfemia poética acerca de vuestra merced y pensar que nadie entiende versos ni los ha entendido, y que la dureza y oscuridad, que nosotros llamamos, es pura grandeza y magnificencia de estilo oculto, desengáñanos su desigualdad perruna, porque los más de estos versos de las <title>Soledades</title> no tienen alta armonía e hinchazón de palabras, ni siempre siguen aquella oscura extravagancia de terribles frases y formas tan remotas del lenguaje común; antes, en medio de sus temeridades, se dejan caer infinitas veces con unos modos no solo ordinarios y humildes, pero muy viles y bajos, y con versos inconstantes y de torpe y desmayado sonido, en cuyo conocimiento no puede haber engaño.</p>
         <p xml:lang="es">De bien casero estilo son todos estos:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Deja el albergue y sale acompañado</quote> </p>
         <p><quote>de quien lo lleva,</quote> etc. (vv.183-84)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>la gente parecía</quote> </p>
         <p><quote>que hospedó al forastero</quote> (vv.138-39)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Del océano pues antes sorbido</quote> </p>
         <p><quote>y luego vomitado...</quote> (vv. 22-23)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Las personas tras de un lobo traía</quote> (v.225)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Con igual pie que al raso...</quote> (v.80)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>servido ya en cecina</quote> (v.161)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Del vestido del mancebo dice:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>al sol lo extiende luego</quote> (v.37)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect16-->
-        <!--section=Sect17-->
         <p xml:lang="es">Lo mismo diría a su lavandera. Y no tiene mayor elegancia lo siguiente:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Entre opulencia y necesidades,</quote> </p>
         <p><quote>medianías vinculen competentes</quote> </p>
         <p><quote>a vuestros descendientes</quote> (vv. 930-32)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Si tu neutralidad sufre consejo</quote> </p>
         <p><quote>y no te fuerza obligación precisa</quote> (vv.518-19)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que parientas del novio más cercanas</quote>(v.620)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Para el lugar a ellas de camino</quote>(v.631)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cabo lo hizo de esperanza buena</quote> (v.452)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">No fuera tan malo llamarlo Cabo de Buena Esperanza.</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Llegó la desposada apenas, cuando</quote> (v.963)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>los desposados a su casa vuelven</quote> (v.1080)</p>
-        <!--/section=Sect17-->
-        <!--section=Sect18-->
         <p><quote>Llegó todo el lugar, y, despedido</quote> (v.1084)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>El tercio casi de una milla era</quote> (v.1047)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Advocaron a sí toda la gente</quote> (v.1025)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Este verso es de tribunal y el siguiente de caballeriza:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Pasos otro dio al aire, al suelo coces</quote> (v.1023)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cojea el pensamiento</quote> (v.1046)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Procuran derribarse, y derribados</quote> (v.975)</p>
-        <p xml:lang="es"/>
-        <p xml:lang="es"/>
-        <!--/section=Sect18-->
-        <!--section=Sect19-->
         <p xml:lang="es">Parece que dos muchachos se toman a caídas y que los veo. También es excelente aquello del vaquero gordo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Un vaquero de aquellos montes, grueso</quote> (v.1004)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que el viento repeló alguna coscoja</quote> (v.175)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Apenas hija hoy, madre mañana</quote> (v.184)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que en letras pocas lean muchos años</quote> (v.943)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De Alcides lo llevó luego a las plantas,</quote> </p>
         <p><quote>que estaban no muy lejos</quote> (vv.659-60)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Concurría el camino</quote>. (v.584)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Alegres pisan la que si no era</quote> (v.534)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Dijo el cabrero</quote> </p>
         <p><quote>con muestras de dolor extraordinarias</quote> (vv.213-14)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Igual excelencia tienen aquellos tres versillos como tres perlas:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La orza contenía</quote> </p>
         <p><quote>que un montañés traía.</quote> </p>
         <p><quote>No excedía la oreja,</quote> etc. (vv.327-29)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect19-->
-        <!--section=Sect20-->
         <p xml:lang="es">Y esos otros:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que a mucha fresca rosa</quote> (v.569)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Tanto garzón robusto,</quote> </p>
         <p><quote>tanta ofrecen los álamos zagala</quote> (vv.563-64)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Frustrados, tanta náutica doctrina</quote> (v.454)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>besó ya tanto leño</quote> (v.127)</p>
-        <p xml:lang="es"/>
+        
         <p>Estos modos son vilísimos, como cuando el vulgacho dice: <hi xml:lang="es" rend="i">hubo tanta dama, tanto caballero, tanta de la merienda</hi>. ¡Maldita la grandeza o numerosidad! Descubrimos tan poco en los versos tan repetidos:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>¡Oh bienaventurado</quote> </p>
         <p><quote>albergue, a cualquier hora</quote> (vv.94-95)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Ni en aquel:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ven, Himeneo, ven; ven, Himeneo</quote> (v.779)</p>
-        <p xml:lang="es"/>
+        
         <p>Pernicioso gusto tuvo vuestra merced si le pareció este verso tan gracioso como el repetido por <name type="authority">Catulo</name>:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect20-->
-        <!--section=Sect21-->
         <p><quote>Hymen, o Hymenee, Hymen ades, o Hymenee.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">En cuanto al número y sonoridad, oigamos ahora otros versos que, si hombre se descuida en buscarles algún buen acento, suenan como el mismo Satanás:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Mas los que lograr bien no supo Midas</quote> (v.433)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Instrumentos, no en dos festivos coros</quote> (v.752)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Al que, ya de este o de aquel mar, primero</quote> (v.369)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La que anocheció aldea</quote> (v.658)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Leche que exprimir vio la alba aquel día</quote> (v.147)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que cuatro veces había sido ciento </quote>(v.470)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect21-->
-        <!--section=Sect22-->
+        
         <p><quote>Cisnes pues una y otra pluma, en esta</quote> (v.939)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Por el arcaduz bello de una mano</quote> (v.245)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Interposición cuando </quote>(v.66)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Del himno culto dio el último acento </quote>(v.244)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">¡Y qué acento! Todos los que le tienen en la quinta sílaba o en la séptima están a pique de derrengarse, y úsalos vuestra merced a menudo sin conocimiento de su maldita sonancia.</p>
-        <!--/section=Sect22-->
-        <!--section=Sect23-->
         <p>También son crueles al oído casi todos los versos en que vuestra merced divide la sinalefa contra la costumbre de España, como <hi xml:lang="es" rend="i">vïolar</hi> de tres sílabas, <hi xml:lang="es" rend="i">ingenïoso</hi> de cinco. Y es lo peor que confunde vuestra merced esa novedad alargando unas veces la palabra y otras abreviando la misma. Dice una vez:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Violaron a Neptuno</quote> (v.414)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y otra:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Sin violar espuma</quote> (v.1034)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Calarse turba de envidiosas aves</quote> (v.989)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De envidiosa bárbara arboleda</quote> (v.65)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Siempre gloriosas, siempre tremolantes</quote> (v.422)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ciñe las sienes gloriosa rama </quote>(v.419)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cuando torrente de armas y de perros </quote>(v.223)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Montes de agua y piélagos de montes.</quote> (v.44)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect23-->
-        <!--section=Sect24-->
         <p xml:lang="es">No estamos ahora para distinguir las leyes que se deben guardar en la división de las sinalefas. Podemos decir, generalmente, que cualquier novedad en el dividirlas se extraña menos al fin del verso, como:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>En el lumbroso y fértil oriente</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>Es de <name type="authority">Boscán</name> imitando al italiano, de quien es más propio y muy usado, como en <name type="authority">Torcuato</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Religïon contaminar non lece.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>Y en <name type="authority">Ariosto</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Licenzïosa fiamma arde e camina.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y otros muchos. Mas en nuestra lengua no pueden sufrirse todos estos de vuestra merced, sobre los alegados:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>A glorioso pino</quote> (v.467)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ingeniosa hiere otra, que dudo</quote> (v.252)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect24-->
-        <!--section=Sect25-->
         <p><quote>Concurso impaciente</quote> (v.756)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que abreviara el sol en una estrella</quote> (v.665)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Es pésimo verso, no obstante que quiera representar con el sonido el abreviar del sol, cuanto más que allí no se abrevia, antes se alarga la dicción. Adelante, que aún restan los peores:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Imperiosa mira la campaña</quote> (v.186)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Arcos o nerviosos o acerados</quote> (v.1039)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Quesillo dulcemente apremiado</quote> (v.875)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Del sitial a tu deidad debido</quote> (Dedicatoria, v.25)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Y premiados graduadamente</quote> (v.1024)</p>
-        <p xml:lang="es"/>
+        
         <p>Así que habiendo en todos los versos referidos de las <title>Soledades</title>, y en otros muchos, una humildad tan descaecida, por una parte, y, por otra, una claridad tan humilde y plebeya, aun no pueden pasar por disparates bizarros ni hechos de propósito con bravata oscuridad.</p>
-        <!--/section=Sect25-->
-        <!--section=Sect26-->
         <p>Y cuando, exprimido más el poco jugo de esta poesía, queramos siquiera gustar de algún modo o frasis elegante de este escrito, tampoco podemos, porque usa vuestra merced las figuras y metáforas y las nuevas formas de locución tan a montones, y repite sin cansarse un término mismo tantas veces, con tal porfía, que, cuanto más fresco y galán, tanto más ofende y empalaga, como digamos el verbo <hi xml:lang="es" rend="i">dar</hi> usado con extrañeza:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Su canoro dará dulce instrumento</quote> (Dedicatoria, v.36)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">No se cansa Vuestra merced de repetirlo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Lagrimosas de amor dulces querellas</quote> </p>
         <p><quote>da al mar...</quote> (vv.10-11)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Aquella parte poca</quote> </p>
         <p><quote>que le expuso en la playa dio a la roca</quote> (vv.30-31)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Segundos leños dio a segundo polo</quote> (v.430)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Tienda el fresno le dio, el roble alimento</quote> (v.142)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>... y plumas no vulgares</quote> </p>
-        <!--/section=Sect26-->
-        <!--section=Sect27-->
         <p><quote>al aire los hijuelos den alados </quote>(vv.793-94)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>...y tantas </quote> </p>
         <p><quote>montañesas da al prado...</quote>(vv.259-60)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cuantas la sierra dio, cuantas dio el llano</quote> </p>
         <p><quote>montañesas convida</quote> (vv.854-55)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De aquellas que la sierra dio bacantes</quote> (v.272)</p>
-        <p xml:lang="es"/>
+        
         <p>También este vocablo <hi xml:lang="es" rend="i">señas</hi> lo usa Vuestra merced con extravagancia en tantas partes que es cosa molesta:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Las formidables señas</quote> (v.19)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Lisonjear de agradecidas señas</quote> (v.33)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Señas diera suaves</quote> (v.178)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Señas diera de su arrebatamiento</quote> (v.749)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Las que siempre dan cerúleas señas</quote> (v.363)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Con tantas del primer atrevimiento señas</quote> </p>
         <p/>
         <p><quote>Para con estas lastimosas señas </quote>(v.441)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect27-->
-        <!--section=Sect28-->
         <p><quote>Que de tu calidad señas mayores</quote> (v.528)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Del pie ligero bipartida seña</quote> (v.1019)</p>
-        <p xml:lang="es"/>
+        
         <p>Aunque es verdad que al poeta heroico es lícito usar voces nuevas y extranjeras, según el arte de <name type="authority">Aristóteles</name>, el de <name type="authority">Horacio</name> y otros, juntamente es precepto suyo que en esto haya gran tiento y moderación. He aquí: vuestra merced usa la palabra <hi xml:lang="es" rend="i">errante</hi>, tan nueva para nosotros que rara vez se halla en poeta nuestro, y nunca en <name type="authority">Garcilaso</name>. Debía vuestra merced, según esto, ya que le contentó, no molestarnos con ella en una obra tan corta todas estas veces:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Pasos de un peregrino son errante</quote> (Dedicatoria, v.1)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que sus errantes pasos ha votado</quote> (Dedicatoria, v.31)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>El extranjero errante</quote> (v.351)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Piloto hoy la codicia, no de errantes</quote> (v.403)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect28-->
-        <!--section=Sect29-->
         <p><quote>Cedió al sacro volcán de errante fuego</quote> (v.646)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ya que ninfas las niega ser errantes</quote> (v.273)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De errantes lilios unas la floresta</quote> (v.835)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Deje que vuestras cabras siempre errantes</quote> (v.911)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Vulgo lascivo erraba</quote> (v.281)</p>
-        <p xml:lang="es"/>
+        
         <p>Con esto nos deja vuestra merced atafagados; y aunque nos queramos contentar de algo, no podemos. <quote>Nam secretae et extra vulgarem usum positae, ideoque magis nobiles: ut novitate aurem excitant, ita copia saciant</quote>; dícelo nuestro orador <name type="authority">Quintiliano</name>.</p>
         <p>Bueno es aquel modo: <hi xml:lang="es" rend="i">las manos impedido</hi>, mas extravagantísimo. Dos veces solas lo usó <name type="authority">Garcilaso</name>:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect29-->
-        <!--section=Sect30-->
         <p><quote>Por quien los alemanes</quote> </p>
         <p><quote>el fiero cuello atados</quote>.</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Las venas dulcemente desatado</quote>.</p>
-        <p xml:lang="es"/>
+        
         <p>Y con todo esto será harto difícil hallarle en poesía  española o italiana y aun en la latina no es ordinario ni propio, antes tomado de los griegos, como en <name type="authority">Virgilio</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Armati ferro, et cristis capita alta corusci. </quote> </p>
-        <p xml:lang="es"/>
+        
         <p>Y en <name type="authority">Horacio</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Nunc viridi membra sub arbuto</quote> </p>
         <p><quote>stratus...</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Vuestra merced, sin embargo, lo gasta doce veces en este breve escrito. Del arroyo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Mudo sus ondas, cuando no enfrenado </quote>(v.242)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">De la serrana:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect30-->
-        <!--section=Sect31-->
         <p><quote>Lascivo el movimiento,</quote> </p>
         <p><quote>mas los ojos honesta </quote>(vv.256-57)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">De las perdices:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Tafiletes calzadas carmesíes </quote>(v.317)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">De la primavera:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Calzada abriles y vestida mayos</quote> (v.577)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Buen calzado le da Vuestra merced a la primavera, aunque más fresco es el de la emulación:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La emulación calzada un duro hielo</quote> (v.1001)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La admiración, vestida un mármol frío</quote> (v.999)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">De la Fénix:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Matutinos del sol rayos vestida</quote> (v.949)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Vuestra merced calza y viste a su albedrío.</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">En otra parte:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Treguas hechas suaves</quote> (v.341)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect31-->
-        <!--section=Sect32-->
         <p xml:lang="es">En otra:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Las duras manos impedido</quote> (v.992)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Véase luego la voz canoro:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Su canoro dará dulce instrumento</quote> (Dedicatoria, v.36)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Trofeos dulces de un canoro sueño</quote> (v.128)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De canoro instrumento, que pulsado</quote> (v.239)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De monarquía canora</quote> (v.951)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Levantadas las mesas, al canoro </quote>(v.883)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cual de aves se caló turba canora</quote> (v.633)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Doméstico del sol, nuncio canoro</quote> (v.294)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Tampoco es para tan reiterado aquel modillo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Aun a pesar de las estrellas clara,</quote> </p>
         <p><quote>aun a pesar de las tinieblas bella</quote> (vv.72-71)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Donde, a pesar del sol cuajada nieve</quote> (v.626)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect32-->
-        <!--section=Sect33-->
         <p><quote>Fijo (a despecho de la niebla fría)</quote> (v.81)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>A pesar luego de áspides volantes</quote> (v.419)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que, ágil a pesar de lo robusto</quote> (v.1006)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que, a pesar de los fresnos divisa</quote> (v.524)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>A pesar del estambre y de la seda</quote> (v.715)</p>
-        <p xml:lang="es"/>
+        
         <p>El <hi xml:lang="es" rend="i">sí</hi> y el <hi xml:lang="es" rend="i">no</hi>, de que estamos ya todos tan ahítos, no es de su cosecha malo, pero es mal usado de vuestra merced y mal repetido. Porque aquellas repugnancias y contradicciones deben gastarse poquitas veces, y esas, con especial energía y gracia, como en algún lugar del <name type="authority">Tasso</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Amico, hai vinto: io ti perdon, perdona</quote> </p>
         <p><quote>tu anchora, al corpo no, che nulla pave</quote> </p>
         <p><quote>a l’alma sí</quote><hi xml:lang="es" rend="i">, etc.</hi> </p>
-        <p xml:lang="es"/>
+        
         <!--/section=Sect33-->
         <!--section=Sect34-->
         <p>Como esta guerrera pedía perdón, vase luego el entendimiento a pensar que le pedía de la vida, que es lo ordinario en la guerra, como Turno a Eneas y otros. Y para atajar ese pensamiento acude el poeta diciendo: <hi xml:lang="es" rend="i">al corpo no, al alma sí</hi>. Y en no siendo tan eficaz la distinción, será superflua; así hay pocos casos en que esto venga bien. Diremos otro del mismo <name type="authority">Tasso</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>non di morte sei tu, ma di vivaci</quote> </p>
         <p><quote>ceneri albergo, ove è riposto amore</quote> </p>
         <p><quote>e ben sento io da te, l’usate faci</quote> </p>
         <p><quote>men dolci sí, ma non men calde al core.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>¿Qué le parece a vuestra merced del primor de estos <hi xml:lang="es" rend="i">sinos</hi>? En mal sino nació vuestra merced para poeta grave. En otro lugar:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Stupido sì, ma intrepido rimane,</quote> </p>
         <p><quote>Tancredi</quote><hi xml:lang="es" rend="i">, etc.</hi> </p>
-        <p xml:lang="es"/>
+        
         <p>Es caso curioso estar un hombre espantado y juntamente nada temeroso. Otros ejemplares buenos hay, mas solo diré uno fino en poesía latina de <name type="authority">Lactancio</name> hablando de la Fénix:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ipsa quidem, sed non eadem, nam ipsa</quote> </p>
-        <!--/section=Sect34-->
-        <!--section=Sect35-->
         <p><quote>nec ipsa,</quote><hi xml:lang="es" rend="i"> etc.</hi> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Vuestra merced oyó cantar, mas no sabe dónde. Y así, no solo llena y embute sus versos de esta figura, mas parece que está condenado a usarla siempre con frívola desgracia. Véanse estos milagros:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Volantes no galeras,</quote> </p>
         <p><quote>sino grullas veleras</quote> (vv. 605-6)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Luminosas de pólvora saetas,</quote> </p>
         <p><quote>purpúreos no cometas</quote> (vv. 50-1)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y aquel concepto tan ruin y especiero:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Clavo no, espuela sí del apetito</quote> (v.496)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y de Venus:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Los novios entra en dura no estacada</quote> (v.1088)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect35-->
-        <!--section=Sect36-->
         <p>Si fuera Marte el que llevó a los novios estaba bien el aviso; pero siendo Venus la misma suavidad y ternura, sabido se está que no los metería en dura estacada. ¿Para qué es menester advertirnos con aquella impertinencia:<hi xml:lang="es" rend="i"> en dura no estacada</hi>? Querría darme bien a entender.</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Otros:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Breve de barba y duro no de cuerno</quote> (v.159)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Efectos si no dulces del concento</quote> (v.345)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Digna la juzga esposa</quote> </p>
         <p><quote>de un héroe, si no augusto, esclarecido</quote> (vv.732-33)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">No es donosa la contradicción. Y esta:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Si Aurora no con rayos, Sol con flores</quote> (v.230)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y del gallo:</p>
-        <p xml:lang="es"/>
+        
         <p>...<quote>no de oro</quote></p>
         <p><quote>ciñe, sino de púrpura, turbante</quote> (vv.295-96)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Miren, ¿cuándo el gallo tuvo la cresta dorada, o si es ordinario en los turbantes ser de oro?</p>
         <p xml:lang="es">De los conejos:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect36-->
-        <!--section=Sect37-->
         <p><quote>Trofeo ya su número es a un hombro,</quote> </p>
         <p><quote>si carga no y asombro</quote> (vv.307-8)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">¿Cuándo puede ser asombro una carga de conejos?</p>
         <p xml:lang="es">Cierto que son cosas para dar carcajadas de risa. Como esto:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Si no tan corpulento más adusto</quote> (v.1002)</p>
-        <p xml:lang="es"/>
+        
         <p><hi xml:lang="es" rend="i">Id est</hi>, si no tan gordo, más flaco y consumido.</p>
         <p xml:lang="es">Al pavo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Arrogante esplendor, ya que no bello</quote> (v.310)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>No corvo, mas tendido</quote> (v.464)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Otros hay de tanto donaire como los referidos, mas dejemos ya este malvado vicio.</p>
         <p>Harto prolijo es vuestra merced con la palabra <hi xml:lang="es" rend="i">prolijo</hi>:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect37-->
-        <!--section=Sect38-->
         <p><quote>De su discurso el montañés prolijo </quote>(v.505)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Verdugo de las fuerzas es prolijo </quote>(v.679)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>A la prolija rústica comida</quote> (v.856)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Deje a Caco vuestra merced de aquí adelante.</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La prolija carrera</quote> (v.1048)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y esto:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Largo curso de edad nunca prolijo;</quote> </p>
         <p><quote>y si prolijo, en nudos amorosos</quote> </p>
         <p><quote>siempre vivid, esposos</quote> (vv.894-96)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Que es preciosísima distinción y aguda. Y otra prolijidad tenemos harto eficaz hablando de un río:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Con torcido discurso, aunque prolijo</quote> (v.200)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect38-->
-        <!--section=Sect39-->
         <p>Como si hubiera repugnancia entre lo torcido y lo prolijo, aunque en latinidad <hi xml:lang="es" rend="i">prolixus</hi> sea <hi xml:lang="es" rend="i">largo</hi>.</p>
         <p>Pues la voz <hi xml:lang="es" rend="i">crepúsculo</hi> bastante novedad tendría usándola con toda llaneza en su propio significado. Mas Vuestra merced, no contento con eso hace ya de ella potaje y pasa a una ridícula frasis:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Entre espinas crepúsculos pisando</quote> (v.48)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y otra no inferior:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>En los inciertos de su edad segunda</quote> </p>
         <p><quote>crepúsculos</quote>, etc. (vv.776-77)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Vamos de nuevo tocando algunos disparates solemnes, como aquella metáfora:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Próspera, al fin, mas no espumosa tanto</quote> </p>
         <p><quote>vuestra fortuna sea</quote> (vv.926-27)</p>
-        <p xml:lang="es"/>
+        
         <p><hi xml:lang="es" rend="i">Espumosa fortuna</hi> es gentil decir. Y también lo es aquello:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect39-->
-        <!--section=Sect40-->
         <p><quote>Mientras el viejo tanta acusa tea</quote> </p>
         <p><quote>al de las bodas Dios</quote>, etc. (vv.653-54)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y a los zagales que corrían apriesa aplica vuestra merced un precioso verbo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La distancia sincopan tan iguales</quote> (v.1052)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Síguese una bella frasis y rotunda:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Rémora de sus pasos fue su oído</quote> (v.237)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Otra semejante dice un viejo en la muerte de su hijo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cuya memoria es buitre de pesares</quote> (v.502)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect40-->
-        <!--section=Sect41-->
         <p xml:lang="es">Hay otra cosa más: que queriendo decir que le causaba grandes pesares la memoria, da a entender lo contrario (si se construye la letra), donde parece que aquella memoria, como buitre, se engullía y se tragaba todos sus pesares. Y si quiso aludir a la fábula de Ticio, tampoco le puede aprovechar, porque aún no escapa de perversa anfibología. Luego hace vuestra merced a los mismos buitres lastimados de los muertos, que es notable desproporción:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Señas, aun a los buitres lastimosas</quote> (v.440)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Para representar que el sol entraba en el signo del toro dice Vuestra merced así:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>(Media luna las armas de su frente,</quote> </p>
         <p><quote>y el Sol todo los rayos de su pelo)</quote> (vv.3-4)</p>
-        <p xml:lang="es"/>
+        
         <p>Parece rasamente que el planeta luna también llegaba, como el sol, a este signo; y no es sino que a los cuernos del toro llama vuestra merced <hi xml:lang="es" rend="i">media luna</hi>, y del sol lo hemos de entender propiamente, porque el mismo planeta sol llegaba entonces a aquella parte del zodíaco. Parejo va este hilado.</p>
         <p xml:lang="es">No es posible que exprimamos con brevedad toda la pernicie de este lugar y de otros. Y así, a cada uno toca examinarlos más despacio, como ya dije. Y véase también aquel paréntesis, cuando salen a bailar seis labradoras:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect41-->
-        <!--section=Sect42-->
         <p><quote>Sus espaldas rayando el sutil oro</quote> </p>
         <p><quote>que negó al viento el nácar bien tejido</quote> (vv. 886-87)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Notable escrúpulo tuvo vuestra merced cuando trató aquella similitud del carbunclo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Si tradición apócrifa no miente</quote> (v.74)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Dejado aparte que el verso no es nada poético, el melindre es graciosísimo para quien toca mil mentirosas fábulas tan sin cuidado.</p>
         <p xml:lang="es">También registraremos aquello:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ven, Himeneo, y plumas no vulgares</quote> </p>
         <p><quote>al aire los hijuelos den alados</quote> </p>
         <p><quote>de los que el bosque bellas ninfas cela;</quote> </p>
         <p><quote>de sus carcajes, estos, argentados,</quote> </p>
         <p><quote>nieven mosquetas, flechen azahares</quote> (vv.793-797)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect42-->
-        <!--section=Sect43-->
         <p>¿Qué ninfas eran estas tan flecheras y qué hijuelos estos que volaban? Y, si eran cupidillos, ¿quién me probará que sean hijos de ninfas montañesas? Dejemos las metáforas de <hi xml:lang="es" rend="i">nevar mosquetas</hi>, de <hi xml:lang="es" rend="i">carcajes</hi> y <hi xml:lang="es" rend="i">flechar azahares</hi>; ni hagamos mención de epítetos simples o tan importunos como ahora estos:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Plumas no vulgares</quote> (v.793)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Amor no omiso</quote> (v.1072)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Golpe no remiso</quote> (v.693); (15)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Unos pensamientos y conceptillos burlescos gasta vuestra merced en esta obra, como en todas las suyas, indignísimos de poesía ilustre y merecedores de gran reprehensión (aunque a vuestra merced quizá le parecerían galantes y amenos), como, para encarecer la buena voz y el donaire de una serrana, decir:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Pasos hiciera dar el menor paso</quote> </p>
         <p><quote>de su pie o su garganta</quote> (vv.554-55)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y aquella socarronía de taberna:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect43-->
-        <!--section=Sect44-->
         <p><quote>Si la sabrosa oliva</quote> </p>
         <p><quote>no serenara el bacanal diluvio</quote> (vv.881-82)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">(fuera de que la aceituna no serena el diluvio de los bebedores, antes le causa o le aumenta en todo el mundo).</p>
         <p xml:lang="es">Y del cabrón que se comía las uvas:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Redimió con su muerte tantas vides</quote> (v.160)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Para decir que estaba fresco el campo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ellas en tanto en bóvedas de sombras</quote> </p>
         <p><quote>pintadas siempre al fresco</quote> (vv. 612-13)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ni la que en salvas gasta impertinentes</quote> </p>
         <p><quote>la pólvora del tiempo</quote> (vv.117-18)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect44-->
-        <!--section=Sect45-->
         <p>Esta pólvora de esta salva es vil juguete para la majestad heroica. Y llamar tan bien a los cortesanos <hi xml:lang="es" rend="i">leños</hi> también es ruinísima gracia, que aun no tendría lugar en estilo mediocre:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cuya arena</quote> </p>
         <p><quote>besó ya tanto leño</quote> (vv.126-27)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y el gamo que no quería ir delante de los desposados por causa de los cuernitos que tenía:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que mal llevar se deja</quote> </p>
         <p><quote>y con razón, que el tálamo desdeña</quote> </p>
         <p><quote>la sombra aun de lisonja tan pequeña</quote> (vv.332-34)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Es bien puerca y torpe malicia. Y la misma torpeza se halla en aquella alusión al cisne y Leda y Dánae:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>No las cautelas</quote> </p>
         <p><quote>de Júpiter compulsen: que, aun en lino,</quote> </p>
         <p><quote>ni a la pluvia luciente de oro fino,</quote> </p>
         <p><quote>ni al blanco cisne creó</quote> (vv.840-43)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect45-->
-        <!--section=Sect46-->
         <p xml:lang="es">Aun en sátira no tuviera nada de esto gracia. Y generalmente son rateros todos los juegos de vocablo, como:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Bien que su menor hoja un ojo fuera</quote> (v.1063)</p>
-        <p xml:lang="es"/>
+        
         <p>No sé qué ignorancia basta a entretejer estas y otras civilidades tan soeces en poesía ilustre y noble como vuestra merced quiso que lo fuese la suya, haciendo una ensalada y mezcla tan disonante de estilos, de voces y sentencias, cuyo vicio abomina <name type="authority">Quintiliano</name> hablando derechamente contra vuestra merced<quote>: Si quis sublimia humilibus vetera novis, poetica vulgaribus misceat.</quote> Y este es el monstruo ridículo de <name type="authority">Horacio</name>: <quote>Humano capiti cervicem pictor equinam / iungere si velit, et varias inducere plumas.</quote></p>
         <p>Vuestra merced usa tan domésticos modos como los siguientes: <hi xml:lang="es" rend="i">dobladuras de manteles, lino casero, cojea el pensamiento, otra con ella, por su turno, vuestras granjerías, lamiéndolo, cruja, vomitado y sorbido, dehesas, por brújulas</hi>, esto podía quedarse para el botín de la sota de bastos.</p>
-        <!--/section=Sect46-->
-        <!--section=Sect47-->
         <p><hi xml:lang="es" rend="i">Item</hi> más: <hi xml:lang="es" rend="i">coscoja, cecina, chupa, humeros</hi> por <hi xml:lang="es" rend="i">chimenea, muflón, bachillera, cuchara, quesillo, plata cardada, cairelar cisuras</hi>. Y con lo que hemos dicho mezcla vuestra merced lo que diremos: <hi xml:lang="es" rend="i">pira erige, Egipto erigió, construye nido, cristadas aves, bipartidas señas</hi>, y este par de versos enteros:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Tantos luego astronómicos presagios</quote> </p>
         <p><quote>frustrados, tanta náutica doctrina</quote> (vv.453-54)</p>
-        <p xml:lang="es"/>
+        
         <p><hi xml:lang="es" rend="i">Náutica industria, náufrago y desdeñado, naufragante, compulsar</hi> por <hi xml:lang="es" rend="i">pintar bordando, pulsado instrumento, emular, viales, cisuras, rival, venatorio, métrico, triplicado, adolescente, tormentoso, fulminando, formidable, coturno, orcas, declinar</hi> por <hi xml:lang="es" rend="i">descender, abortar, libar, abrogan, inculcar límites, Neptuno conculcado, petulante ramo.</hi> Otros muchos se hallarán si se rebuscan.</p>
         <p xml:lang="es">Y yo no digo que algunos de ellos, así de los unos como de los otros, no se podían usar; mas había de ser buscándoles buen asiento y engaste, y no parangonando lo humilde y vulgar con lo terrible y remoto, y empanando una voz muy ilustre entre dos soeces.</p>
-        <!--/section=Sect47-->
-        <!--section=Sect48-->
         <p>Culpas hemos referido hasta aquí que dejan aniquilada esta obra de las <title>Soledades</title>; mas respondamos a alguno que quizá dirá: «señor, malo es ello, pero cierto que tiene buenos pedazos». Digo que buenos pedazos puede tener un escrito y ser su autor otro pedazo. Cuanto más que en estas amargas <title>Soledades</title> no hay un trecho siquiera de una docena de versos que se pueda sacar en limpio como bueno; y dado que le hubiera, no basta uno ni muchos a hacer estimable una poesía, antes una parte mala basta a envilecer muchas buenas. Consulten a <name type="authority">Julio Scaligero</name> donde pronuncia sentencia de muerte contra cien versos buenos, si entre ellos hay uno malo o plebeyo, al contrario de los jurisconsultos, que quieren antes absolver diez culpados que condenar un inocente: <quote>Praeclarius consuli rebus humanis si decem sontes absolbantur, quam si unus innocens damnetur. At enim vero poetae id agendum est, ut potius centum bonus versus jugulet, quam unum plebeyum relinquat</quote>. Y sin esto, es sentimiento común que la poesía debe ser enteramente perfecta y no admite moderaciones contrapesando los yerros con los aciertos. Un poeta mediano cansa a Dios y a las gentes y a las mismas piedras; <name type="authority">Horacio</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>...Mediocribus esse poetis</quote> </p>
         <p><quote>non Dii, non homines, non concessere columnae</quote>.</p>
-        <p xml:lang="en"/>
-        <!--/section=Sect48-->
-        <!--section=Sect49-->
         <p xml:lang="es">Persona de ingenio conozco yo que por enmendar alguna menudencia en un soneto ha suspendido un año su publicación, y así agradan mucho sus pocas obras. A esta cuenta, buenos años de estudio se ahorra el que deja sus escritos sembrados de yerros. Iremos confirmando todavía nuestro parecer y apurando nuestra verdad.</p>
         <p xml:lang="es">Algunas exageraciones usa vuestra merced tan disformes y desproporcionadas que no se pueden comportar, como llamar a la cecina de macho:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Purpúreos hilos es de grana fina</quote> (v.162)</p>
-        <p xml:lang="es"/>
+        
         <p>Al pavo negro, siendo ave tan grosera, le nombra vuestra merced <hi xml:lang="es" rend="i">esplendor del Occidente</hi>. Cualquier licor ha de ser néctar:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Oro trillado y néctar exprimido</quote> (v.908)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Néctar le chupa hibleo</quote> (v.804)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Su néctar les desata</quote> (v.869)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Sino en vidrio topacios carmesíes</quote> </p>
         <p><quote>y pálidos rubíes</quote> (vv.870-71)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Esto último es el vino.</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect49-->
-        <!--section=Sect50-->
         <p xml:lang="es">En todas las serranas encarece vuestra merced la belleza por un mismo nivel, ora sea la novia, ora la gallegota que ordeñó las vacas:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De rústica, vaquera,</quote> </p>
         <p><quote>blanca, hermosa mano, cuyas venas</quote> </p>
         <p><quote>la distinguieron de la leche apenas</quote> (vv.876-78)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">De las tejuelas que una serrana tocaba dice vuestra merced lo que pudiera de un coro de serafines:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Negras pizarras entre blancos dedos</quote> </p>
         <p><quote>ingeniosa hiere otra, que dudo</quote> </p>
         <p><quote>que aun los peñascos la escucharan quedos</quote> (vv.251-253)</p>
-        <p xml:lang="es"/>
+        
         <p>Llámale <hi xml:lang="es" rend="i">sonoroso instrumento</hi> (v.255), y más abajo, <hi xml:lang="es" rend="i">métrica armonía</hi> (v.270).</p>
         <p xml:lang="es">¿Quién ha de sufrir tan descompasadas y molestas hipérboles? Porque el navegante se asoma a mirar un valle, dice:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Muda la admiración habla callando</quote> (v.197)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y solo porque un zagal dio un buen salto sucede todo esto:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La admiración, vestida un mármol frío,</quote> </p>
         <p><quote>apenas arquear las cejas pudo;</quote> </p>
         <p><quote>la emulación, calzada un duro hielo,</quote> </p>
         <p><quote>torpe se arraiga</quote> (vv.100-102)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect50-->
-        <!--section=Sect51-->
         <p xml:lang="es">No le queda a vuestra merced qué decir cuando describa la muerte mísera del magno Pompeyo o algún espectáculo semejante. También dice vuestra merced por el rumor de los cazadores:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Que si precipitados no los cerros,</quote> </p>
         <p><quote>las personas tras de un lobo traía</quote> (vv.224-25)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Miren aquí qué gentil proporción: si no precipitaba los cerros, precipitaba las personas: no es nadilla la diferencia. Acerca de los que corrían hay otra pestilencial hipérbole:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Y, siguiendo al más lento,</quote> </p>
         <p><quote>cojea el pensamiento</quote> (vv.1045-46)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Fulano corre como un pensamiento: es harto vulgar modo de encarecer y desaforado; mas vuestra merced no se satisfizo hasta ponerle muletas al pensamiento.</p>
         <p xml:lang="es">De cuatro necedades que un pastor dijo, forma vuestra merced aquel gran concepto:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Bajaba entre sí el joven, admirando,</quote> </p>
         <p><quote>armado a Pan y semicapro a Marte</quote> </p>
         <p><quote>en el pastor mentidos</quote>. (vv.233-35)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y aunque algún verso de estos, como no le busquen el propósito ni el sentido, suena bien a la oreja, ¿qué haremos con eso?</p>
-        <!--/section=Sect51-->
-        <!--section=Sect52-->
         <p>Querer ahora señalar todos los lugares oscuros, broncos y escabrosos sería no acabar jamás, y también lo sería referir las voces equívocas y oraciones ambiguas de esta poesía, porque toda ella de barra a barra está cuajada de esto. Mas trasladaremos algunos tragos amargos, donde el más sufrido dirá <hi xml:lang="es" rend="i">transeat a me</hi>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Vulgo lascivo erraba</quote> </p>
         <p><quote>al voto del mancebo</quote> </p>
         <p><quote>(el yugo de ambos sexos sacudido),</quote> </p>
@@ -1040,53 +912,49 @@
         <p><quote>de su madre no menos enramada,</quote> </p>
         <p><quote>entre albogues se ofrece, acompañada</quote> </p>
         <p><quote>de juventud florida.</quote> (vv.281-90)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Adelante. ¿Qué es cosa y cosa?</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Sigue la dulce escuadra montañesa</quote> </p>
         <p><quote>del perezoso arroyo el paso lento,</quote> </p>
         <p><quote>en cuanto él hurta blando</quote> </p>
         <p><quote>(entre los olmos que robustos besa),</quote> </p>
         <p><quote>pedazos de cristal, que el movimiento</quote> </p>
-        <!--/section=Sect52-->
-        <!--section=Sect53-->
         <p><quote>libra en la falda, en el coturno ella,</quote> </p>
         <p><quote>de la columna bella,</quote> </p>
         <p><quote>ya que celosa basa,</quote> </p>
         <p><quote>dispensadora del cristal no escasa.</quote> (vv.540-49)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">No escribiré aquí menos que cláusulas enteras, sin quitar verso al principio ni al fin, que pueda crecer la oscuridad; y cada uno las puede apuntar como quisiere. Otro lugar:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Recordó al sol, no, de su espuma cana,</quote> </p>
         <p><quote>la dulce de las aves armonía,</quote> </p>
         <p><quote>sino los dos topacios que batía,</quote> </p>
         <p><quote>orientales aldabas, Himeneo.</quote> (vv.705-708)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Considérense de paso las dos aldabas de topacios que le da al oriente el señor racionero. Y veamos qué tan apacibles son aquellas bendiciones echadas a los desposados:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Venza no solo en su candor la nieve,</quote> </p>
         <p><quote>mas plata en su esplendor sea cardada</quote> </p>
         <p><quote>cuanto estambre vital Cloto os traslada</quote> </p>
         <p><quote>de la alta fatal rueca al huso breve</quote> (vv.897-900)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Otra bendición:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cisnes pues una y otra pluma, en esta (6)</quote> </p>
-        <!--/section=Sect53-->
-        <!--section=Sect54-->
         <p><quote>tranquilidad os halle labradora</quote> </p>
         <p><quote>la postrimera hora</quote> (vv.939-41)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Casi no tiene vuestra merced frasis que no se pueda entender de catorce o quince maneras. Miren este juguete:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Los árboles que el bosque habían fingido</quote> </p>
         <p><quote>umbroso coliseo ya formando,</quote> </p>
         <p><quote>despejan el ejido,</quote> </p>
         <p><quote>olímpica palestra</quote> </p>
         <p><quote>de valientes desnudos labradores</quote> (vv.958-62)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Relatemos algo de aquella cancioncita que vuestra merced llama dulce y blanda:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Claveles de abril, rubíes tempranos,</quote> </p>
         <p><quote>cuantos engasta el oro del cabello,</quote> </p>
         <p><quote>cuantas (del uno ya y del otro cuello</quote> </p>
@@ -1094,45 +962,35 @@
         <p><quote>de sus mejillas siempre vergonzosas,</quote> </p>
         <p><quote>purpúreo son trofeo.</quote> </p>
         <p><quote>Ven, Himeneo, ven; ven, Himeneo.</quote> (vv.786-92)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Todas las demás estancias son tan bellas como esta, y aún más bellacas.</p>
-        <!--/section=Sect54-->
-        <!--section=Sect55-->
         <p>El discurso de navegaciones que hace aquel viejo es generalmente horrendo y bronquísimamente relatado, tanto que hará dar de cabeza por las paredes a cualquier hombre de juicio. No hablo de aquellos que cuanto menos entienden lo que leen tanto más lo estiman y pasan adelante con su lectura muy sin pesadumbre. Otros se dan a creer que los versos difíciles de entender, esos, cuestan mayor dificultad y estudio al escribir. ¡Notable erronia! No advierten que la pureza y hermosura de la elocución y su claridad, esa, es la que se compra con vivas gotas de sangre. La poesía ha de ser tan apacible y fácil que quien la viere presuma de sí que haría lo mismo y, al intentarlo, se canse y consuma sin provecho. Mejor que yo dirá esto <name type="authority">Horacio</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ex noto fictum carmen sequar, ut sibi quivis</quote> </p>
         <p><quote>speret idem; sudet multum, frustraque laboret</quote> </p>
         <p><quote>ausus idem tantum series iuncturaque pollet</quote> </p>
         <p><quote>tantum de medio sum[p]tis, accedit honoris.</quote> </p>
-        <p xml:lang="es"/>
-        <!--/section=Sect55-->
-        <!--section=Sect56-->
         <p xml:lang="es">No está el punto en buscar extravagancias recónditas, sino en adornar lo común con mejor orden, nueva trabazón y gracia, y darlo a beber con toda suavidad.</p>
         <p>No es menos auténtico el parecer de <name type="authority">Cicerón</name> (ni menos al propósito) hablando del buen orador: <quote>Itaque eum, qui audiunt, quamvis ipsi infantes sint, tamen illo modo confidunt se posse dicere. Nam subtilitas imitabilis quidem illa videtur esse existimanti, sed nihil est experienti minus</quote>. Los versos de vuestra merced son tan al revés de esta doctrina que quien los lee siente en ellos gran dificultad, y quien experimentare componer en aquel estilo, hilvanará fácilmente la obra que quisiere, porque allí no hay cuidado si la oración va recta o corcobada, si se entiende o deja de entender, si las palabras son humildes o soberbias, vulgares o latinas, griegas o mahometanas. En fin, ¡maldita sea de Dios la ley a que vuestra merced se sujeta en el progreso de estas sus <title>Soledades</title>!</p>
         <p xml:lang="es">Vuelvo al discurso de la navegación. Bien vemos todo lo que vuestra merced quiso decir allí, desde el primer viaje de Colón y el segundo de Magallanes hasta la vuelta que dio al mundo la última nave, con las islas Molucas y lo demás. Pero vemos juntamente en el tratarlo maravillosas confusiones y fantasmas, como aquel periodo en que las banderas tremolantes:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Rompieron los que armó de plumas ciento</quote> </p>
         <p><quote>Lestrigones el Istmo, aladas fieras</quote> (vv.423-24)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect56-->
-        <!--section=Sect57-->
         <p>Vuestra merced va hablando de las Indias, y lestrigones fueron unos pueblos en Sicilia o en Campania, gente que, según <name type="authority">Plinio</name> y <name type="authority">A. Gelio</name>, con <name type="authority">Homero</name> y otros poetas, comían carne humana; mas ni se dice que fueron muy ligeros ni que se armasen de plumas. El istmo se entiende principalmente por el que aparta el Peloponeso o Morea de la Acaya. Vuestra merced ahora, sin reparar en más que en su fantasía, traslada los lestrigones y los istmos al estrecho de tierra que divide la Nueva España del Perú, y aun esto hemos de adivinar. Prosigue así:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>El Istmo que al Océano divide,</quote> </p>
         <p><quote>y, sierpe de cristal, juntar le impide</quote> </p>
         <p><quote>la cabeza, del Norte coronada,</quote> </p>
         <p><quote>con la que ilustra el Sur cola escamada</quote> </p>
         <p><quote>de antárticas estrellas.</quote> (vv.425-429)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Preciosa manera de darse a entender. No tiene pieza el mundo como esta sierpe de cristal partida por medio con su cabeza y cola y todo su recado. La cabecilla ha de ser de todo el mar océano, que se extiende dilatadísimo rodeando a Europa y África, y el Mar del Sur ha de formar la cola escamada de antárticas estrellas. Allá se lo haya su alma en su palma.</p>
-        <!--/section=Sect57-->
-        <!--section=Sect58-->
         <p xml:lang="es">Luego, para tratar de Magallanes, dice sin nombrar quién ni quién no:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Segundos leños dio a segundo Polo</quote> (v.430)</p>
-        <p xml:lang="es"/>
+        
         <p>Y a nuestro despecho hemos de entender que la codicia es la que dio los leños al Polo. Estos leños (entendidos por las cinco naves que sacó de España Magallanes) vienen después a parar en un <hi xml:lang="es" rend="i">glorioso pino</hi>, sin que se diga qué fue de las otras cuatro. Considere quien tiene lugar estas cosas, como ya he dicho, que yo no me siento con espacio para tratar de todas sus enmiendas, ni habría volumen donde cupiesen. Basta que trasladare algunos buenos pedazos del mismo género o peores. Dice, en el mismo discurso de la navegación, por los efectos que causa la Estrella del Norte en la piedra imán:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Y, con virtud no poca,</quote> </p>
         <p><quote>distante la revoca,</quote> </p>
         <p><quote>elevada la inclina</quote> </p>
@@ -1142,11 +1000,8 @@
         <p><quote>las cenizas del día.</quote> </p>
         <p><quote>En esta, pues, fiándose atractiva,</quote> </p>
         <p><quote>del Norte amante dura, alado roble</quote> (vv.386-94)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect58-->
-        <!--section=Sect59-->
         <p xml:lang="es">Esto es hacer burla de nosotros. Atiéndase, pues, a esta claridad:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Zodíaco después fue cristalino</quote> </p>
         <p><quote>a glorioso pino,</quote> </p>
         <p><quote>émulo vago del ardiente coche</quote> </p>
@@ -1158,13 +1013,11 @@
         <p><quote>de un Océano y otro, siempre uno,</quote> </p>
         <p><quote>o las columnas bese o la escarlata, </quote> </p>
         <p><quote>tapete de la Aurora. </quote>(vv.466-76)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">¿Cómo quiere vuestra merced que le haga Dios merced, si para contar la navegación del estrecho habla de esta manera?</p>
         <p xml:lang="es">Oigamos otra desatentada tempestad que en lo aparente es algo y en lo cierto una ciega vanidad:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>De firmes islas no la inmóvil flota</quote> </p>
-        <!--/section=Sect59-->
-        <!--section=Sect60-->
         <p><quote>en aquel mar del Alba te describo,</quote> </p>
         <p><quote>cuyo número, ya que no lascivo,</quote> </p>
         <p><quote>por lo bello agradable y por lo vario</quote> </p>
@@ -1182,15 +1035,11 @@
         <p><quote>clavo no, espuela sí del apetito,</quote> </p>
         <p><quote>que cuanto en conocerlo tardó Roma</quote> </p>
         <p><quote>fue templado Catón, casta Lucrecia</quote> (vv.481-98)</p>
-        <p xml:lang="es"/>
+        
         <p>Tienen otra cosa sus versos de vuestra merced que los hace más culpables, y es que su oscuridad no resulta de la brevedad, que al fin quien esta sigue podría decir: <quote>Decipimur specie recti, brevis esse laboro, / obscurus fio</quote>. En efecto, yerra hombre en seguimiento de una virtud que es la brevedad; mas vuestra merced, siguiendo el vicio de la superflua locuacidad, aún no sabe darse a entender.</p>
-        <!--/section=Sect60-->
-        <!--section=Sect61-->
         <p>Cierto que leyendo estas <title>Soledades</title> tristes he llegado a enojarme con algunas personas ilustres de España, como algún gran predicador o jurista o cualquier otro hombre de buena razón que leerá los versos de vuestra merced y por ventura dirá: «esta no es mi profesión, y así, aunque yo no entiendo palabra, ello debe de ser bueno». Es una superflua y aun viciosa modestia, porque siendo un poema en lengua castellana y los que lo leen tan elocuentes que admiran el mundo desde un púlpito o suspenden los supremos senados, o en conversaciones doctas se señalan, ¿por qué razón (si el escrito fuera bueno) no le habían de entender fácilmente y gustar de él, no obstante que no hayan compuesto rima en todos los días de su vida? La verdad es que no está en ellos el defecto, sino en la pestilencia detestable de los negros versos.</p>
-        <!--/section=Sect61-->
-        <!--section=Sect62-->
         <p xml:lang="es">Síguese otro laberinto donde no hay oración que no se pueda entender lo de atrás adelante y lo de arriba abajo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Al galán novio el montañés presenta</quote> </p>
         <p><quote>su forastero, luego al venerable</quote> </p>
         <p><quote>padre de la que en sí bella se esconde</quote> </p>
@@ -1217,195 +1066,167 @@
         <p><quote>imitar en la bella labradora</quote> </p>
         <p><quote>el templado color de la que adora,</quote> </p>
         <p><quote>víbora pisa tal el pensamiento,</quote> </p>
-        <!--/section=Sect62-->
-        <!--section=Sect63-->
         <p><quote>que el alma, por los ojos desatada,</quote> </p>
         <p><quote>señas diera de su arrebatamiento,</quote> etc. (vv.722-49)</p>
-        <p xml:lang="es"/>
+        
         <p>Contra esta abromada y ciega longitud de periodos que vuestra merced usa tan marañados de palabras vanas y tan prolijos y dependientes que no hay anhélito que los alcance dice <name type="authority">nuestro orador</name>, aunque él no creyó que podía llegar a tanto: <quote>Est etiam in quibusdam turba inanium verborum, qui dum communem loquendi morem reformidant, ducti specie nitoris circumeunt omnia copiosa loquacitate, quae dicere volunt, ipsam deinde illam seriem cum alia simili jungentes niscentesque, ultra quam ullus spiritus durare possit.</quote></p>
         <p xml:lang="es">Más ambigüedades:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Viene la noche al fin y triunfa mudo</quote> </p>
         <p><quote>el silencio, aunque breve, del ruido</quote> (vv.687-88)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Y los que por las calles espaciosas</quote> </p>
         <p><quote>fabrican arcos, rosas</quote> (vv.718-19)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>No el polvo desparece</quote> </p>
         <p><quote>el campo</quote>, etc. (vv.1041-42)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect63-->
-        <!--section=Sect64-->
         <p><quote>... los horizontes</quote> </p>
         <p><quote>que hacían desigual, confusamente</quote> </p>
         <p><quote>montes de agua y piélagos de montes</quote> (vv.42-44)</p>
-        <p xml:lang="es"/>
+        
         <p>Antes parece que los horizontes hacían a los montes que lo contrario. De estos modos tiene vuestra merced a millares. Y aunque sea verdad que en algunos de ellos se entiende luego la significación, y se conoce la voz activa y la pasiva, con todo eso, aún merece vuestra merced culpa, pues hace ya de su parte lo que puede para echarlos a perder; y eso basta por yerro, según <name type="authority">el citado orador</name>: <quote>Ut si quis dicat: "visum a se hominem librum scribentem". Nam etiamsi librum ab homine scribi patet, male tamen composuerit feceritque ambiguum, quantum in ipso fuit.</quote> ¿Qué peores ambigüedades que estas?</p>
-        <p xml:lang="es"/>
+        
         <p><quote>El promontorio que Éolo sus rocas</quote> </p>
         <p><quote>candados hizo de otras nuevas grutas</quote> (vv.447-48)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Más:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Y, vadeando nubes, las espumas</quote> </p>
         <p><quote>del rey corona de los otros ríos,</quote> </p>
         <p><quote>en cuya orilla el viento hereda ahora</quote> </p>
         <p><quote>pequeños no vacíos </quote>(vv.952-955)</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect64-->
-        <!--section=Sect65-->
         <p>De paso se advierta que vuestra merced aquí entiende por rey de ríos al Nilo (sin nombrarle), por el viaje que hace la Fénix renovada; mas leyendo yo este lugar creí que lo decía vuestra merced por el Erídano, y así lo creyera cualquiera, porque solo al río Erídano o Pado llama <name type="authority">Virgilio</name> rey de ríos, y aun lo nombró derechamente porque se entendiera:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Fluviorum Rex Eridanus camposque per omnes.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>Este verso después acá es tan conocido de todos que en oyendo decir rey de ríos entienden por antonomasia el Erídano. Tienen sin esto respeto a su grandeza porque, según las fábulas, cuando Faetón abrasó la tierra, todos los ríos se secaron, menos este, que él solo pudo apagar aquel incendio en sus ondas. Así <name type="authority">Petrarca</name>, sin nombrarle, dice:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Re de gli altri superbo altiero fiume,</quote> </p>
         <p><quote>ch'n contra il sol</quote><hi rend="i">, etc.</hi> </p>
         <p/>
         <p><name type="authority">Torcuato</name> en las <title>Rimas</title> repite el mismo verso por el río mismo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Re de gli altri superbo altiero fiume</quote> </p>
-        <!--/section=Sect65-->
-        <!--section=Sect66-->
-        <p><quote>che qual’hor esci del tuo regno</quote><hi xml:lang="es" rend="i">, etc.</hi> </p>
-        <p xml:lang="es"/>
+        <p><quote>che qual’hor esci del tuo regno</quote><hi rend="i">, etc.</hi> </p>
+        
         <p>Y en la <title>Jerusalén</title>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Come de gli altri fiumi, il re tal volta</quote>.</p>
-        <p xml:lang="es"/>
+        
         <p>Y <name type="authority">Julio Camilo</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Con la fronte di toro il Re de i fiumi.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Finalmente, no puede ya nadie llamar a otro río «Rey de los otros» sino al Po, mas Vuestra merced no miró en tanto.</p>
         <p xml:lang="es">Adelante con los equívocos:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Piloto hoy la codicia</quote> (v.403)</p>
-        <p xml:lang="es"/>
+        
         <p>Parece que es el verbo <hi xml:lang="es" rend="i">codiciar</hi> y no el sustantivo <hi xml:lang="es" rend="i">codicia</hi>.</p>
-        <p xml:lang="es"/>
+        
         <p><quote>En cercado vecino</quote> (v.635)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">¿El vecino está cercado o el cercado está vecino?</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect66-->
-        <!--section=Sect67-->
         <p><quote>En suspiros, con esto,</quote> </p>
         <p><quote>y en más anegó lágrimas el resto</quote> </p>
         <p><quote>de su discurso el montañés prolijo,</quote> </p>
         <p><quote>que el viento su caudal, el mar su hijo.</quote> (vv.503-506)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Después de construido mejor de lo que merece, es ello muy bellaco, fuera de que sin haber nombrado a su hijo el que esto decía hace vuestra merced aquí relación de él. Solo había dicho antes:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Donde con mi hacienda</quote> </p>
         <p><quote>del alma se quedó la mejor prenda</quote> (vv.500-501)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Por cuyo perífrasis nadie entenderá hijo, ni debe entenderlo. Mírese lo que digo, y adelante.</p>
         <p xml:lang="es">Cuando miraban estos otros el campo desde un escollo, dice vuestra merced:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Si mucho poco mapa les descubre</quote> </p>
         <p><quote>mucho es más lo que (nieblas desatando)</quote> </p>
         <p><quote>confunde el sol y la distancia niega</quote> (vv.194-96)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Allí cierra el sentido y cláusula, y, con haber en estos versos mucho y poco, no se entienden poco ni mucho. He aquí otro modillo galán:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Hoy te convida al que nos guarda sueño</quote> </p>
         <p><quote>política alameda </quote>(vv.521-22)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Otro:</p>
-        <p xml:lang="es"/>
-        <!--/section=Sect67-->
-        <!--section=Sect68-->
         <p><quote>Piadoso miembro roto,</quote> </p>
         <p><quote>breve tabla, delfín no fue pequeño </quote>(vv.17-18)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Esto es proceder en infinito. ¿Y si hubiésemos de escribir todos los términos violentos y trastornados como los que se siguen?</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Sordo engendran gusano</quote>... (v.740)</p>
-        <p xml:lang="es"/>
+        
         <p><quote>A las que tanto mar dividió playas</quote>. (v.376)</p>
-        <p xml:lang="es"/>
+        
         <p>Habríamos también menester trasladar todas las <title>Soledades</title>, porque todas se fabricaron de este puro material (o impuro), siendo unos modos estos tan desabridos que bastaría usarlos media vez, y esa con tales circunstancias que no abrumase. <name type="authority">Garcilaso </name>dijo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Como en luciente de cristal columna.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y dijo:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Una extraña y no vista al mundo idea.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Y en otra parte:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ya, sin maestro ajeno, él daba tales</quote> </p>
         <p><quote>de su ingenio señales.</quote> </p>
-        <p xml:lang="es"/>
-        <!--/section=Sect68-->
-        <!--section=Sect69-->
         <p>Este modo último no tiene gracia alguna, mas, en efecto, en todas las obras de <name type="authority">Garcilaso</name> no se hallará otro verso como los precedentes.</p>
         <p xml:lang="es">En otra ocasión quiso remover el orden de la oración castellana por otro camino y salió con una torpeza de esta manera:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Contra un mozo no menos animoso,</quote> </p>
         <p><quote>con su venablo en mano, que hermoso.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">No hay burlas con nuestra lengua, si no tiene el artífice prudente juicio y buen gusto. Bien suele apartarse el sustantivo de su adjunto entremetiendo algo, de que resulta aún mayor gracia; mas entiéndese que el sustantivo ha de preceder a su epíteto, como digamos:</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es"><quote>las flores pisa bellas</quote> </p>
         <p xml:lang="es"><quote>que el prado visten verde.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Porque si el sustantivo se pospone, como es costumbre en vuestra merced, sonará muy de otra manera:</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Las bellas pisa flores</p>
         <p xml:lang="es">que el verde visten prado.</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">No se entienda tampoco que esta es regla general y absoluta, que antes habrá ocasión en que se quebrante y parezca rebién; mas vuestra merced nunca halla estas ocasiones.</p>
-        <!--/section=Sect69-->
-        <!--section=Sect70-->
         <p xml:lang="es">También los apositivos son eternos en vuestra merced, y por ellos se oscurece o se ciega del todo la elocución, como:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>La adulación, sirena </quote> </p>
         <p><quote>de reales palacios, cuya arena</quote> </p>
         <p><quote>besó ya tanto leño,</quote> </p>
         <p><quote>trofeos dulces de un canoro sueño</quote>. (vv.125-28)</p>
-        <p xml:lang="es"/>
+        
         <p>Miren, ¿quién creyera que los trofeos dulces de este canoro sueño eran lo mismo que los leños? ¿Y qué mayor donaire que llamar a los que acuden a palacio <hi xml:lang="es" rend="i">trofeos dulces de un canoro sueño</hi>?</p>
         <p xml:lang="es">Otra aposición:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Hoy te convida el que nos guarda sueño</quote> </p>
         <p><quote>política alameda,</quote> </p>
         <p><quote>verde muro de aquel lugar sombrío</quote> (vv.521-23)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Otra:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Ven, Himeneo, donde, entre arreboles</quote> </p>
         <p><quote>de honesto rosicler, previene el día</quote> </p>
         <p><quote>(aurora de sus ojos soberanos)</quote> </p>
         <p><quote>virgen tan bella...</quote> (vv.780-83)</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Por este camino se confunde la oración de manera que, cuando no reiterara vuestra merced otro término sino este, fuera aborrecible su poesía.</p>
-        <!--/section=Sect70-->
-        <!--section=Sect71-->
         <p>Bastantísimamente hemos manifestado cuán perniciosas sean estas <title>Soledades</title> por todos cuatro costados. Así, será bien no cansarnos más, aunque sin duda podríamos descubrir redoblados errores que los apuntados. Y con ser tan pestilente y perjudicial esta obra, es aún peor, si peor puede ser, el <title>Polifemo</title>, y no lo tomamos por asunto porque, habiéndole vuestra merced escrito primero, no creyesen que se había enmendado mucho en las <title>Soledades</title>. Mas por dar alguna muestra del dicho <title>Polifemo</title> escribiré aquí solos dos versos. El uno dice:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Cera y cáñamo unió, que no debiera.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p>Que es todo lo que pudo decirse en octava rima. El otro es cuando el mismo <title>Polifemo</title> habla en esta forma:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>No los que de sus ubres desatados</quote> </p>
         <p><quote>y derivados de los ojos míos.</quote> </p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Este gigante, como vuestra merced mismo dice y todos saben, no tenía más de un ojo en la cara, de donde el pío lector colegirá cuál otro ojo se le pudo aquí dar por compañero.</p>
-        <!--/section=Sect71-->
-        <!--section=Sect72-->
         <p>Hora, señor, vuestra merced fue mal aconsejado el día que se metió a poeta cuerdo, y debía no fiarse en las adulaciones de sus amigos, que, por lisonjearle o por no entenderle, trasladan sus obras, no obstante que no las pueden tragar. Y si me preguntan cómo, siendo tales, las he leído tan despacio y tengo tal noticia de ellas, respondo que es verdad, que con atención he visto este y los demás escritos de vuestra merced, y lo mismo han hecho otros de más ingenio que el mío; porque de otra manera no creyéramos que podían ser tan malos. Antes nos parecía imposible, al cabo de cincuenta años que vuestra merced ha gastado entre las musas líricas y joviales, que se le hubiese pegado tan poquito de las heroicas. Y ya que esto fue, nos maravilla no menos que vuestra merced se conozca tan mal y que no tiente sus fuerzas para nivelar con ellas la materia creyendo al <name type="authority">poeta</name>:</p>
-        <p xml:lang="es"/>
+        
         <p><quote>Sumite materiam vestris, qui scribitis aequam</quote> </p>
         <p><quote>viribus, et versate diu, quid ferre recusent,</quote> </p>
         <p><quote>quid valeant humeri..</quote> </p>
         <p xml:lang="en"/>
         <p>Digno es vuestra merced de gran culpa, pues habiendo experimentado en tantos años cuán bien se le daban las burlas, quiso pasarse a otra facultad tanto más difícil y tan contraria a su naturaleza, donde ha perdido gran parte de la opinión que los juguetes le adquirieron. Yo confieso con mucho gusto que ha escrito vuestra merced en este mundo donaires de incomparable agudeza, y por el mismo caso me lastimo de que no haya habido quien predique a vuestra merced aquellos dísticos con que la musa disuadió a <name type="authority">Marcial</name>, cuando él quiso dejar las burlas:</p>
-        <!--/section=Sect72-->
-        <!--section=Sect73-->
-        <p xml:lang="es"/>
         <p><quote>Tune potes dulces, ingrate, relinquere nugas?</quote> </p>
         <p><quote>Dic mihi, quid melius disidiosus ages?</quote> </p>
         <p><quote>An jubat ad tragicos soccum transferre cothurnos</quote> </p>
@@ -1416,24 +1237,17 @@
         <p><quote>Agnoscat mores vita legatque suos</quote> </p>
         <p><quote>augusta cantare licet videaris avena,</quote> </p>
         <p><quote>dum tua moltorum vincat avena tubas.</quote> </p>
-        <p xml:lang="es"/>
-        <!--/section=Sect73-->
-        <!--section=Sect74-->
         <p xml:lang="es">Debiera vuestra merced, según esto, ponderar las muchas dificultades de lo heroico, la constancia que se requiere en continuar un estilo igual y magnífico, templando la gravedad y alteza con la dulzura y suavidad inteligible, y apoyando la elocución al firme tronco de la buena fábula o cuento, que es el alma de la poesía. Para los juguetes no es necesario tanto aparato ni esta sosegada prudencia, sino un natural burlesco y estar de gorja. Por tanto, vuestra merced se ha destruido después que emprende hazañas mayores que sus fuerzas, y aun de lo burlesco da muy mala cuenta de algunos años a esta parte. Y no se fíe en que se leen y procuran sus versos juguetones o satíricos, que eso no va en su bondad, sino en la materia pícara y disoluta que contienen, a cuya malicia se inclina fácilmente la flaqueza humana. Suponga vuestra merced, por ejemplo, que un hombre honrado, hijo de tales padres, se para en mitad de la calle y al uno le llama asno, al otro, hereje y a la otra, sucia; aunque no hable con más gracia que esta, hará gente, y el más sesudo se llegará a ver tal desvarío en un hombre de capa negra. Así, los versos de vuestra merced se oyen en mitad de España, sin más respeto, ultrajar de idiota al teólogo docto; al poeta conocido, de ignorante; al noble soldado, de cobarde; y al privado ilustre, de ambicioso y otras disoluciones que es vergüenza referirlas. ¿Quién no se andará tras vuestra merced? ¿Quién no se perderá por ver semejantes maravillas en un eclesiástico? Por esto se lee todo, aunque se abomina, conociendo sus ignorancias.</p>
         <p>Sola una que hay en las decenas que vuestra merced escribió defendiendo su <title>Soledad</title> es, por cierto, digna de pueril castigo, y pondrase aquí por muestra de las demás:</p>
-        <p xml:lang="es"/>
+        
         <p xml:lang="es">Por la estafeta he sabido</p>
         <p xml:lang="es">que me han apologizado,</p>
         <p xml:lang="es">y a fe de poeta honrado,</p>
         <p xml:lang="es">ya que no bien entendido,</p>
         <p xml:lang="es">que estoy muy agradecido</p>
         <p xml:lang="es">a su ignorancia tan crasa, etc.</p>
-        <p xml:lang="es"/>
+        
         <p>Vuestra merced quiere decir aquí que le han censurado y puesto objeciones a sus versos, y para esto dice: <hi xml:lang="es" rend="i">que me han apologizado</hi>, que es el contrario sentido por lo menos, porque<hi xml:lang="es" rend="i"> Apología</hi> es tanto como defensa o excusación, y así, cuando alguno escribe en defensa de los errores que le imputan o se excusa de ellos, el tal escrito se llama <hi xml:lang="es" rend="i">apología</hi>. De manera que vuestra merced usó esta voz ignorando totalmente su significado, que es admirable ceguedad en un hombre de canas. Alumbre Dios a vuestra merced.</p>
-        <p/>
-        <p/>
-        <p/>
-        <!--/section=Sect74-->
       </div>
     </body>
   </text>
