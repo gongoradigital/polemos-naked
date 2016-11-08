@@ -1,0 +1,164 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+<!--Odette: 2016-10-31T11:18:10+01:00-->
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>El pasajero. Advertencias utilísimas a la vida humana</title>
+        <author key="Suárez de Figueroa, Cristóbal">Cristóbal Suárez de Figueroa</author>
+        <editor>Jonathan Bradbury</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Marie-Eglantine Lescasse</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
+        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1614"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <!--
+        <div>
+        <head>Datos bibliográficos</head> 
+          <table>
+          <row>
+            <cell>Editor científico</cell>
+            <cell>Jonathan BRADBURY</cell>
+          </row>
+          <row>
+            <cell>Revisores</cell>
+            <cell>Mercedes Blanco y Jaime Galbarro</cell>
+          </row>
+          <row>
+            <cell>Autor</cell>
+            <cell>Cristóbal SUÁREZ DE FIGUEROA</cell>
+          </row>
+          <row>
+            <cell>
+              <ref target="https://docs.google.com/spreadsheet/ccc?key=0AqYaH3rcIJYhdE9OVHhMRmdMcEJQVGdETzBTUUVuMXc#gid=0">
+                <seg rend="lienhypertexte">D</seg>
+                <seg rend="lienhypertexte">estinatario / dedicatario</seg>
+              </ref>
+            </cell>
+            <cell>A la Excelentísima República de Luca</cell>
+          </row>
+          <row>
+            <cell>Título</cell>
+            <cell><hi rend="i">El pasajero. Advertencias utilísimas a la vida humana</hi> (Madrid: Luis Sánchez, 1617). Dos fragmentos, en el «Alivio II» (f. 84-86v) y el «Alivio VI» (f. 282v-283v).</cell>
+          </row>
+          <row>
+            <cell>Fecha</cell>
+            <cell>1617</cell>
+          </row>
+          <row>
+            <cell>Fuentes</cell>
+            <cell>
+              <p rend="noindent"><hi rend="i">El passagero. Advertencias utilissimas a la vida humana</hi> (Madrid: Luis Sánchez, 1617).</p>
+              <p rend="noindent ref"><seg rend="lienhypertexte">http://ustc.</seg><anchor xml:id="_Hlt451511243"/><anchor xml:id="_Hlt451511244"/><seg rend="lienhypertexte">a</seg><seg rend="lienhypertexte">c.uk/index.php/record/5031441</seg> </p>
+              <p rend="noindent"><hi rend="i">El passagero. Advertencias utilissimas a la vida humana</hi> (Barcelona: Jerónimo Margarit, 1618).</p>
+              <p rend="noindent ref">http://ustc.ac.uk/index.php/record/5020380 </p>
+            </cell>
+          </row>
+          <row>
+            <cell>Ediciones modernas</cell>
+            <cell>Suárez de Figueroa (1913, 1945, 1988).</cell>
+          </row>
+          <row>
+            <cell>
+              <ref target="https://docs.google.com/spreadsheet/ccc?key=0AjY-3NJyasEFdGFGZmY0U0paQzA3WHVId2UtUUVsQlE#gid=0">
+                <seg rend="lienhypertexte">Responde</seg>
+                <seg rend="lienhypertexte"> a otro texto</seg>
+              </ref>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Referencias a la polémica</cell>
+            <cell/>
+          </row>
+        </table>-->
+      
+      <body>
+        <head>Texto de la edición</head>
+        <div>
+          <head>Fragmento del «Alivio II»</head>
+          <p xml:lang="es" rend="noindent">DOCTOR […] ¿Por ventura tenéis cantidad de poesías hechas a diferentes sujetos, cuando duraba la correspondencia de vuestra dama?</p>
+          <p rend="noindent">DON LUIS. Sí tengo, y no pocas ni mal trabajadas, aunque las he cobrado notable desamor por ser claras y fáciles, después que llegó a mi noticia ser de ingeniosos oscurecer los conceptos y mezclar por las composiciones palabras desusadas y traídas del latín a nuestro vulgar.</p>
+          <p rend="noindent">DOCTOR. Vivís engañado en ambas cosas. <quote>No deben ser</quote> (enseña <authority>@un docto moderno</authority>) <quote>los versos revueltos, ni forzados, mas llanos, abiertos y corrientes, que no hagan dificultad a la inteligencia, si no es por historia o fábula. Con esta claridad suave, con esta limpieza, tersura y elegancia, con la fuerza de sentencias y afectos, se debe juntar la alteza del estilo. Mas, sobre todo, sin la claridad no puede la poesía mostrar su grandeza, porque donde no hay claridad no hay luz de entendimiento, y donde faltan estos dos medios no se puede conocer ni entender cosa. Y el poema que siendo claro tendría grandeza, careciendo de claridad es áspero y difícil.</quote> Con estas palabras, cuanto a la lengua, de bien grave autor, quedarán, a mi ver, convencidos (permita se impugne esta novedad <name type="polemista">su primer autor</name>, si bien lucidísimo ingenio en nuestro vulgar) los que siguen secta contraria, publicando bernardinas y haciendo burla de los a cuyas manos llegan. Sin duda, se levanta en España nueva torre de Babel, pues comienza a reinar tanto la confusión entre los arquitectos y peones de la pluma. No sirve el hablar de encubrir o poner en tinieblas los conceptos, sino de descubrirlos y declararlos. <authority>@Merlín Cocayo</authority>, donosísimo poeta, aludiendo en su <title>Macarronea</title> a este lenguaje infernal, introduce a un demonio hablando, sin poder ser entendido, desta manera:</p>
+          <quote><hi rend="i">Drum Cararontardus, tragaron granbeira detronde</hi>.</quote>
+          <p>El <authority>@Dante</authority>, por el consiguiente, varón doctísimo, hace en su obra que Lucifer, admirado de ver en su región hombre en carne y hueso, exclame diabólicamente:</p>
+          <quote><hi rend="i">Pape Satan, Pape Satan, Alepe</hi>.</quote>
+          <p rend="noindent">Mienten, según los presentes dogmas, los preceptos retóricos en excluir de la oración demasiadas metáforas, como opuestas derechamente a la gala natural del decir. Pena es de sentido, como la de las almas, atormentar con la difícil construcción de los periodos. No se debe cargar un vestido, aunque sea de joyas, que saldrá pesado. Bien hayan los autores antiguos <authority>@Virgilio</authority>, <authority>@Homero</authority> y los demás épicos y líricos, que, con ser tan elegantes, les tocó la dignidad de clarísimos, como a patricios venecianos.</p>
+          <p rend="noindent">Falta ahora responder a lo de las palabras desusadas, peregrinas y nuevas. Las desusadas (prosiguiendo los preceptos del mismo <authority>@moderno</authority>) desecha por antiguas el común uso de hablar, si bien tal vez redunda en gala ingeniosa el usarlas. Peregrinas son las que se toman de extraño lenguaje, de quien solo será lícito valerse cuando en el natural faltaren vocablos con que poderse exprimir bien los pensamientos del ánimo. Así se han ido poco a poco convirtiendo en propios muchos meramente latinos, como <hi xml:lang="es" rend="i">repulsa, idóneo, lustro, prole, posteridad, astro</hi>, y otros sin número. Del arábigo hay también muchos, y muchos habrá asimismo del griego, como sabrán sus profesores, en particular nombres propios: <hi xml:lang="es" rend="i">Decamerón, Filócopo, Cimón, Dioneo, Pánfilo, Filóstrato, Filomena, Emilia, Neifile, Elisa</hi>, etc. <quote>Por manera que es lícito</quote> (dice <authority>@el mismo autor</authority>) <quote>a los escritores de una lengua valerse de las voces de otra. Concédeseles usar con libertad prudente las forasteras y admitir las que no se han escrito antes: las nuevas, las nuevamente fingidas, y las figuras del decir, pasándolas de una lengua a otra; que así se da más gracia a lo compuesto, se hace más agradable, más apartado del hablar común, y se deleitan más bien los que leen</quote>. <quote>Síguese</quote> (va prosiguiendo) <quote>que quien hubiere alcanzado con estudio y arte tanto juicio que pueda discernir si la voz es propia y dulce al sonido, o extraña y áspera, puede y tiene licencia para componer vocablos y enriquecer la lengua de palabras limpias, significantes, magníficas, numerosas</quote>. <quote>El orador difiere mucho del poeta en el lenguaje, ni tratan unas mismas cosas. La Poesía es abundantísima, sola, sin sujeción, y maravillosamente idónea en el ministerio de la lengua y copia de palabras para explicar conceptos. Las riquezas que posee nunca se acaban ni deshacen; antes con inmensa fertilidad crecen y se renuevan perpetuamente</quote>.</p>
+          <p xml:lang="es" rend="noindent">DON LUIS. Consolado me deja respuesta semejante, de quien infiero no haber perdido mis versos alguna cosa por claros y suaves, y que por ningún modo me era lícito afectar oscuridad en ellos. Cuanto a las palabras, de las comunes elijo las más dignas y convenientes para exornación de mis poemas. Procuro sea buena su colocación, inquiriendo con cuidado las que echo menos para la acertada expresión de los conceptos.</p>
+          <p xml:lang="es" rend="noindent">DOCTOR. Buen camino es ese: no dejéis de seguirle en las ocasiones, que es lo demás fruslería, yerro y novedad viciosa, digna de ser evitada.</p>
+        </div>
+        <div>
+          <head>Fragmento del «Alivio VI»</head>
+          <p rend="noindent">DON LUIS. He notado en las rimas dichas hasta ahoraque excusáis cuanto podéis mezclar fábulas en su contexto, y no puedo saber la ocasión, siendo no menor ornato suyo esta parte que otras de que se componen y hermosean.</p>
+          <p rend="noindent">DOCTOR. Las fábulas solo se deberían introducir en los versos con título de símiles, y en esta ocasión han de tener la propiedad y congruencia necesaria. Así las he usado a menudo, sin cargar las composiciones de su muchedumbre. En nuestros tiempos no solo son admitidas como forasteras, sino como familiares y muy de casa, eligiéndolas no pocas veces por asuntos principales. Tal fue con nombre de <title>Polifemo</title> la de Acis y Galatea, felicísimo parto de don <name type="polemista">Luis de Góngora</name>, y tal el culto <title>Faetón</title> del <authority>@Conde de Villamediana</authority>. Bien es verdad que he deseado hacer experiencia sobre ceñir la primera en un soneto, con sus partes integrantes de principio, medio y fin; no sé si habré conseguido el intento. El soneto tengo en la memoria; oídle, y daréisme vuestro parecer:</p>
+       <quote>
+          <lg>
+            <l>No tanto ardor por su rebelde Fedra,</l>
+            <l>cuanto por Acis Galatea, espira,</l>
+            <l>cuando el terror de las montañas mira </l>
+            <l>hecho muro el garzón, la ninfa yedra.</l>
+          </lg>
+          <lg>
+            <l>«Pues más que un fuerte, un flaco amando medra</l>
+            <l>su ser deshaz, ¡oh fulminante ira!»,</l>
+            <l>bramó tirando, y mientras brama y tira,</l>
+            <l>fue, si trueno la voz, rayo la piedra.</l>
+          </lg>
+         <lg>
+          <l>Instrumento crüel, golpe inhumano,</l>
+          <l>que, en medio del morir más dulce, oprime</l>
+          <l>dos vidas que de amor eran despojos.</l>
+         </lg>
+         <lg>
+          <l>Tiembla la amante, y se lamenta en vano,</l>
+          <l>vueltos, en tanto que suspira y gime,</l>
+          <l>agua los miembros de él, de ella los ojos.</l>
+         </lg>
+          </quote> 
+          <p>DON LUIS. Si en esto, respecto de lo poco que sé, puedo opinar, el soneto me parece admirable. No deja cosa por tocar. Narra a lo lacónico, y descubre maravillosamente lo más interior, los afectos, las pasiones. Es singular la distribución del fin en ambos, con que la conclusión viene a ser preciosa.</p>
+          <p/>
+        </div>
+      </body>
+  </text>
+</TEI>
