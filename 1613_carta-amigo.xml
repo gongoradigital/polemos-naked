@@ -1,9 +1,9 @@
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es" n="1613_carta-amigo">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Carta de un amigo de don Luis de Góngora en que da su parecer acerca de las <hi rend="i">Soledades</hi> que le había remitido para que las viese</title>
-        <author key="Anónimo 1613">Anónimo 1613</author>
+        <author key="Anónimo">Anónimo</author>
         <editor>Daria Castaldo</editor>
         <editor>étude paléographique de Raquel Rodríguez Conde</editor>
       </titleStmt>
@@ -40,6 +40,10 @@
         <respStmt>
             <name>François-Xavier Guerry</name>
             <resp>stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Hector Ruiz</name>
+          <resp>stylage et édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -120,6 +124,8 @@
       -->
      
     <body>
+      <index indexName="resp" n="un amigo de don Luis de Góngora"/>
+      <index indexName="date" n="1613"/>
       <div>
         <head>Texto de la edición</head>
           <pb n="f. 99r"/>
@@ -156,7 +162,7 @@
           <p>¿Cuál tigre la más fiera...? </p>
           </quote>
           <p>Sea la segunda condición que la heroica imita solo en el lenguaje, a diferencia de los poemas activos, en que juntos con el lenguaje tienen su lugar la música y la danza; contra esta se puede argüir procedió vuestra merced en su poema, en el cual los pastores danzan y bailan a los novios, siendo ajeno de la dignidad épica. Y aunque se puede responder que es permitido por modo narrativo, como al fin del libro primero de la <title>Eneida</title> observamos que el músico Iopas cantó a los amantes mientras se brindaban, no satisface, pues allí el poeta solo dice cantó el músico, no empero trae la canción ni coros, por ser acción perteneciente a la cómica.</p>
-          <p>La tercera condición es que se guarde una misma forma de metro en la épica, según ya hicieron los heroicos griegos, latinos y vulgares, y no reparo tanto en esta por ser según <authority>el Filósofo</authority> condición accidental, la cual podía vuestra merced, con su autoridad dejar de seguir. Y sea la última condición en la cual <pb n="f. 100r"/> se deba esencial y necesariamente guardar en cuanto a la persona imitada; la cual, como vuestra merced en esto y lo demás perteneciente al arte mejor sabe, ha de ser un varón o heroico príncipe digno por sus hazañas y virtudes de ser imitado y querido. Tal describe <authority>Homero</authority> un valeroso Aquiles; <authority>Virgilio</authority> un piedoso Eneas; <authority>Lucano</authority> un César invencible; de lo cual infiero no convenir a la <title>Soledad</title> nombre de heroica, por haber sido el intento principal de vuestra merced describirnos la vida pastoral de suerte que el peregrino y su viaje es un camino o medio que vuestra merced elige para alcanzar el principal fin, que fue imitar en la <title>Primera Soledad</title> [la] del ganadero, la del pescador en la <title>Segunda</title>; y así las demás. Bien entiendo está la respuesta cerca diciendo que los rotos y mojados paños del peregrino joven visten un noble y valeroso príncipe, que en progreso de la obra se dará a conocer; a lo cual respondo que no basta para bautizarse con tal nombre, pues vemos que también la trágica imita héroes, así que el énfasis no en esto, mas en seguir por asunto principal las alabanzas, hechos y valor de un príncipe y adornarlo de virtudes morales para aficionar los ánimos. De esta, pues, demos nombre a la <title>Soledad</title>, ya que la excluimos de la épica y, según a mi ver, ninguno otro le cuadra como el de bucólica, égloga o <pb n="f. 100v"/> pastoral, por la razón arriba dicha de lo imitado. Verdad es que siendo especies comprendidas debajo de los géneros de poética, las habemos de reducir a uno de ellos. Para lo cual se supone que siendo la bucólica poema extravagante, tal vez se reduce a la activa, como la primera égloga de <authority>Virgilio:</authority></p>
+          <p>La tercera condición es que se guarde una misma forma de metro en la épica, según ya hicieron los heroicos griegos, latinos y vulgares, y no reparo tanto en esta por ser según <authority>el Filósofo</authority> condición accidental, la cual podía vuestra merced, con su autoridad dejar de seguir. Y sea la última condición en la cual <pb n="f. 100r"/> se deba esencial y necesariamente guardar en cuanto a la persona imitada; la cual, como vuestra merced en esto y lo demás perteneciente al arte mejor sabe, ha de ser un varón o heroico príncipe digno por sus hazañas y virtudes de ser imitado y querido. Tal describe <authority>Homero</authority> un valeroso Aquiles; <authority>Virgilio</authority> un piedoso Eneas; <authority>Lucano</authority> un César invencible; delo cual infiero no convenir a la <title>Soledad</title> nombre de heroica, por haber sido el intento principal de vuestra merced describirnos la vida pastoral de suerte que el peregrino y su viaje es un camino o medio que vuestra merced elige para alcanzar el principal fin, que fue imitar en la <title>Primera Soledad</title> [la] del ganadero, la del pescador en la <title>Segunda</title>; y así las demás. Bien entiendo está la respuesta cerca diciendo que los rotos y mojados paños del peregrino joven visten un noble y valeroso príncipe, que en progreso de la obra se dará a conocer; a lo cual respondo que no basta para bautizarse con tal nombre, pues vemos que también la trágica imita héroes, así que el énfasis no en esto, mas en seguir por asunto principal las alabanzas, hechos y valor de un príncipe y adornarlo de virtudes morales para aficionar los ánimos. De esta, pues, demos nombre a la <title>Soledad</title>, ya que la excluimos de la épica y, según a mi ver, ninguno otro le cuadra como el de bucólica, égloga o <pb n="f. 100v"/> pastoral, por la razón arriba dicha de lo imitado. Verdad es que siendo especies comprendidas debajo de los géneros de poética, las habemos de reducir a uno de ellos. Para lo cual se supone que siendo la bucólica poema extravagante, tal vez se reduce a la activa, como la primera égloga de <authority>Virgilio</authority>:</p>
           <quote>
             <p><hi rend="i">Tityre</hi><quote><hi rend="i">, tu patulae</hi></quote></p>
           </quote>

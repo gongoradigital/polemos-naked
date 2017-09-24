@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,6 +52,8 @@
   </teiHeader>
   <text>
     <body>
+      <index indexName="resp" n="Paravicino, Fray Hortensio Félix"/>
+      <index indexName="date" n="1628"/>
       <head>Texto de la edición</head>
       <div>
         <pb n="f. V"/>
@@ -62,9 +64,9 @@
           esplendor del más lucido y vehemente ingenio que ha producido nuestra nación, no gozado:
           que hombres tan grandes en ninguna profesión los sabe gozar, a estimarlos a lo menos no acierta. Su sangre fue nobilísima de un padre y otro. Su
           padre, don Francisco de Argote, corregidor de esta villa y muchas ciudades, padre de don
-            <name type="polemista">Luis de Góngora</name>. Su madre, doña Leonor de Góngora, igual
-          en dicha del linaje y la sucesión a su marido, madre de don <name type="polemista">Luis de
-            Góngora</name> . Este fue
+            <persName type="polemist" key="Góngora, Luis de">Luis de Góngora</persName>. Su madre, doña Leonor de Góngora, igual
+          en dicha del linaje y la sucesión a su marido, madre de don <persName type="polemist" key="Góngora, Luis de">Luis de
+            Góngora</persName> . Este fue
           el mayor lugar que alcanzaron de la fortuna, el que no pudo quitar a la naturaleza .</p>
         <p>Nació en Córdoba, honrada porfía de pueblo y feliz a ser en
           todos siglos, y entre tanta nobleza, patria de los mayores ingenios de su nación, quizá
@@ -73,7 +75,7 @@
           razón, comenzaron a amanecer en sus menores años. De esta edad le enviaron sus padres a
           Salamanca, madre príncipe de las ciencias todas, numeroso
           seminario, examen y taller de las juventudes, genios e ingenios de España. Entre todos se
-          hizo conocer por singular <name type="polemista">don Luis</name>, mirado y admirado por
+          hizo conocer por singular <persName type="polemist" key="Góngora, Luis de">don Luis</persName>, mirado y admirado por
           Saúl <pb n="f. VI"/> de los ingenios, de los hombros arriba mayor que todos . No grandemente se adelantó en el estudio de los
             Derechos
           porque, desinclinado a ellos el genio y arrebatado
@@ -87,13 +89,13 @@
           padecieron la tempestad sabrosa y luciente de su pluma. Ni los demás
           escaparon de ella , y a vueltas de las costumbres comunes, que en
           doctrinales sátiras y españolas
-          vivezas (cual ningún otro, aunque vuelva <authority>Marcial</authority> a cortar su pluma) acusó la de <name type="polemista">don LUIS</name>, salpicó tal vez la
+          vivezas (cual ningún otro, aunque vuelva <authority>Marcial</authority> a cortar su pluma) acusó la de <persName type="polemist" key="Góngora, Luis de">don LUIS</persName>, salpicó tal vez la
           tinta las personas. De este no corregido ímpetu se dolió una vez y otra. Sea quietud a los
           ofendidos, que es raro el caso en que no han jurado los consonantes vehementemente
           de mentirosos, que los siglos todos lo han reconocido así, y que los mayores hombres del
           mundo han padecido insensible y desatentamente este daño sin que tiaras
           ni coronas hayan dejado de ayudar al número . Y séale disculpa a
-            <name type="polemista">don Luis</name> este mismo sentimiento , pues en prosa,
+            <persName type="polemist" key="Góngora, Luis de">don Luis</persName> este mismo sentimiento , pues en prosa,
           conversación y trato no ha visto España más ingenuo, más cándido hombre y más sin ofensa
           de otros, antes con suma estimación de los que parecía haber lastimado.</p>
         <p>Escribió muchos versos amorosos a contemplaciones ajenas: no se le prohíjen a su intento
@@ -122,7 +124,7 @@
             oscuridad y metáforas, descuido y afectación, prueben a vencerle
           con imitación no jocosa y reconocerán el paremia de los griegos: que el desliz del pie de
           un gigante es carrera para un enano .</p>
-        <p>El estado, dignidades y comodidades de <name type="polemista">don Luis</name>, si no
+        <p>El estado, dignidades y comodidades de <persName type="polemist" key="Góngora, Luis de">don Luis</persName>, si no
           fuera vano nombre el de la Fortuna , muy corrida la dejaran de la venganza que quiso tomar de la
           Naturaleza, en la singularidad de este extraño y divino genio, pues un caballero de tantas
             partes , ni en menores, ni en mayores años, pudo ascender de
@@ -138,20 +140,20 @@
         <p>Enfermó peligrosamente y en algunas treguas del mal (que se le atrevió a la cabeza) volvió a Córdoba para que no le mereciese sepulcro
           sino el lugar que se honró patria con él . No fue
           lesión en el juicio el daño de la cabeza; en la memoria cebó la porfía del mal, acaso
-          porque al morir <name type="polemista">don Luis</name>, en nosotros todos se había de
+          porque al morir <persName type="polemist" key="Góngora, Luis de">don Luis</persName>, en nosotros todos se había de
           repartir su memoria . Reconoció lo que debía a su profesión y a su sangre
           , y dejó consuelo de su muerte a sus amigos, descanso de la envidia a sus émulos .</p>
         <p>Todavía, aun en siglo libre de nuevos accidentes
-          <name type="polemista">don Luis</name>, sus obras los han padecido. Y ya fuese la codicia,
+          <persName type="polemist" key="Góngora, Luis de">don Luis</persName>, sus obras los han padecido. Y ya fuese la codicia,
           ya la curiosidad causa, las estampó la priesa . Conque faltas estas, no reparadas aquellas, mendosas todas, ya con amor, ya con autoridad , ha sido necesario recogerlas.</p>
-        <p>Hallóse empero la amistad (que no parecía de amor propio o miedo ajeno) en don <authority>Antonio Chacón, señor de Polvoranca</authority>. Encendieron las cenizas de
-            <name type="polemista">don Luis</name> fuego en su verdad cuando entre ellas el de tantos amigos se había apagado. Juntolas en vida de <name type="polemista">don Luis</name> con afición y cuidado, comunicolas con él con libertad y doctrina , y en su muerte, copiándolas en hermosas vitelas, en hermosísimos
+        <p>Hallóse empero la amistad (que no parecía de amor propio o miedo ajeno) en don <persName type="polemist" key="Chacón, Antonio">Antonio Chacón, señor de Polvoranca</persName>. Encendieron las cenizas de
+            <persName type="polemist" key="Góngora, Luis de">don Luis</persName> fuego en su verdad cuando entre ellas el de tantos amigos se había apagado. Juntolas en vida de <persName type="polemist" key="Góngora, Luis de">don Luis</persName> con afición y cuidado, comunicolas con él con libertad y doctrina , y en su muerte, copiándolas en hermosas vitelas, en hermosísimos
           caracteres, las consagra al agrado y estimación del conde <pb n="f. IX"/> duque de
           Sanlúcar en el monumento estudioso y eterno de su biblioteca . El mismo agrado y
           estimación del conde duque y la ambición gloriosa suya de ilustrar las letras de España y
           honrar los ingenios de ella, permitirán, cuando juzgare convenir, segunda copia que dar a
           la estampa para seguridad del crédito de don Luis, en esta tumultuaria impresión ahajado , para lustre de esta
-          nación con la notoriedad pública de la pluma de <name type="polemista">don Luis</name> a
+          nación con la notoriedad pública de la pluma de <persName type="polemist" key="Góngora, Luis de">don Luis</persName> a
             otras donde
           apenas llegaron sino las de su fama, y para gloria de este príncipe a quien verdaderamente se las debemos.</p>
         <p>A. A. L. S</p>

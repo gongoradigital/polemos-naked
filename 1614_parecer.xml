@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-stylesheet type="text/xsl" href="tools/polemos2graph.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es" n="1614_parecer">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -106,7 +106,8 @@
       -->
     
     <body>
-
+      <index indexName="resp" n="Francisco Fernández de Córdoba"/>
+      <index indexName="date" n="1614"/>
       <div>
         <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131r.png" n="f. 131r"/>
         <head>Parecer de don Francisco de Córdoba acerca de las <title>Soledades</title> a instancia
@@ -125,14 +126,14 @@
           vuestra merced, y no quedara nuestra España (como está hoy) sin alabanza alguna en este
             género.
           Ello, al fin, es tal que puede dar cuidado o quitarles de él a cuantos tratan de
-            componer, pues con razón lo que de las de <name type="author">Virgilio</name>
+            componer, pues con razón lo que de las de <authority>Virgilio</authority>
           diremos de sus composiciones de vuestra merced:<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131v.png" n="f. 131v"/></p>
         <quote>
           <l>Cedite romani scriptores, cedite Graii,</l>
           <l>Nescio quid majus nascitur Iliade;</l>
         </quote>
-        <p rend="noindent">y cierto que, si dijo <name type="author">Estacio Papinio</name> en el
-            <title>Genethliaco</title> de nuestro cordobés <name type="author">Lucano</name>:</p>
+        <p rend="noindent">y cierto que, si dijo <authority>Estacio Papinio</authority> en el
+            <title>Genethliaco</title> de nuestro cordobés <authority>Lucano</authority>:</p>
         <quote>
           <l>Graio nobilior Melete Baetis,</l>
           <l>Mantua, Baetim provocare noli,</l>
@@ -141,10 +142,10 @@
           merced.</p>
         <p>Y de mí confieso que, cuando por otros fines y ocupaciones no hubiera dado de mano a la poesía, lo hubiera
           hecho por conocerme incapaz de arribar a la alteza que posee vuestra merced en esta
-            arte que no admite medianía, conforme al juicio de <name type="author">Horacio</name> tan experimentado a costa de muchos. Dé vuestra merced gracias a Dios que ha pasado muy
+            arte que no admite medianía, conforme al juicio de <authority>Horacio</authority> tan experimentado a costa de muchos. Dé vuestra merced gracias a Dios que ha pasado muy
           arriba de este grado y que, confesándolo así todos, sin que sobre esto pueda movérsele
           guerra de consideración,</p>
-        <quote>
+        <quote><authority/>
           <l>Nubes excedit Olympus […]</l>
           <l>Pacem summa tenent
             .</l>
@@ -153,7 +154,7 @@
             beneplacitum est Deo habitare in eo»</quote>
           . Pues como dijo ese
           otro:</p>
-        <quote>
+        <quote><authority/>
           <l>Et sacri vates et divum cura vocamur.</l>
           <l>Sunt etiam qui nos numen habere putent</l>
         </quote>
@@ -162,9 +163,9 @@
           <l>Est deus in nobis agitante, calescimus illo.</l>
         </quote>
         <p rend="noindent"><pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f132r.png" n="f. 132r"/> Respecto de lo cual son casi convertibles poeta y profeta, según la
-          autoridad irrefragable de <name type="author">San Pablo</name>: <quote>«ut dixit quidam ex
+          autoridad irrefragable de <authority>San Pablo</authority>: <quote>«ut dixit quidam ex
             illis proprius ipsorum propheta»</quote>
-          , hablando de <name type="author">Epiménides cretense</name>; y el
+          , hablando de <authority>Epiménides cretense</authority>; y el
           nombre de vates comprehende a ambos.</p>
         <p>Digo, pues, volviendo (como dicen los juristas <hi rend="i">post liminio</hi>, por no decir <quote>«a cabo de rato, a
             Andújar»</quote>) al recaudo que se me dio en nombre de vuestra merced: a lo
@@ -177,12 +178,12 @@
           diciendo (Dios me es testigo) sinceramente mi sentimiento, con notar lo que pudiera a mi
           parecer (por ventura mal fundado) reformarse, vuestra merced, por algunas razones que debe
           tener, <quote>«dimisso ablegatoque consilio»</quote> siguió su dictamen:</p>
-        <quote>
+        <quote><authority/>
           <l>Neque quod dixi flocci aestimat
             ;</l>
         </quote>
         <p>antes el efecto que hicieron:</p>
-        <quote>
+        <quote><authority/>
           <l>non oculi tacuere tui
             .</l>
         </quote>
@@ -198,19 +199,19 @@
           libro de la <title>Didascalia</title> le vieron muchos padres de
           la Compañía y otras personas
           doctas y, conforme a su censura, reformé muchas cosas, y últimamente conforme a la del
-          padre <name type="author">Juan Luis de la Cerda</name>, cosa que constará por la carta que yo tengo suya y que
+          padre <authority>Juan Luis de la Cerda</authority>, cosa que constará por la carta que yo tengo suya y que
           él tiene mía, en que le concedí y quité por su parecer algunas, y di razón en defensa mía
           de otras; y no reparé en que dijese nadie que habían enmendado en mi libro algunas
           menudencias, pues al fin el todo era trabajos míos, y con este nombre los había de ver el
           mundo, y no con el de los reformadores; y que los haya en obras
-          grandes y pequeñas, y con razón, no es maravilla, <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f133r.png" n="f. 133r"/> pues <quote>«<hi rend="i">quandoque bonus dormitat Homerus</hi>»</quote>. Y la <hi rend="i">philautia</hi> o amor proprio ciega los hombres y hace parecer <quote>«suum
+          grandes y pequeñas, y con razón, no es maravilla, <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f133r.png" n="f. 133r"/> pues <quote><authority/>«quandoque bonus dormitat Homerus»</quote>. Y la <hi rend="i">philautia</hi> o amor proprio ciega los hombres y hace parecer <quote><authority/>«suum
             cuique pulchrum»</quote>; y más ven cuatro ojos que dos; y más que el que
-          juega el que mira. Y como refiere por proverbio griego <name type="author">Agelio</name>:</p>
+          juega el que mira. Y como refiere por proverbio griego <authority>Agelio</authority>:</p>
         <quote>
           <l>Saepe etiam est olitor valde opportuna locutus
             ;</l>
         </quote>
-        <p rend="noindent">que Apeles, pintor sumo (según de otros refiere <name type="author">Conrado Licóstenes</name>
+        <p rend="noindent">que Apeles, pintor sumo (según de otros refiere <authority>Conrado Licóstenes</authority>
           ), no se desdeñó de enmendar en un cuadro suyo lo que
           advirtió el zapatero conforme a las reglas de su arte. Y así de ordinario todo cuanto he
           escrito de poca o de mucha consideración lo he comunicado con personas inteligentes y,
@@ -221,7 +222,7 @@
           parte he procurado no serlo.</p>
         <p>Viniendo, pues, en particular a lo que juzgo de las <title>Soledades</title>, hálloles
           tanto bueno que no sé por dónde comience a loarlas, ni por dónde acabe, porque, habiendo
-          sujeto capaz de ponderación inmensa, me sucede lo que a <name type="author">Teócrito</name> cuando en el <title>Eydilio 17</title> a Ptolomeo Filadelfo dijo:</p>
+          sujeto capaz de ponderación inmensa, me sucede lo que a <authority>Teócrito</authority> cuando en el <title>Eydilio 17</title> a Ptolomeo Filadelfo dijo:</p>
         <quote>
           <l>Arboribus densam veniens signator in Idam,</l>
           <l>Anxius ingentis circumspicit omnia silvae,</l>
@@ -229,7 +230,7 @@
           <l>Causa sit: haud alia mentem ratione fatigat</l>
           <l>Nunc mihi materiae pondus grave fine carentis.</l>
         </quote>
-        <p rend="noindent">que después imitó <name type="author">Policiano</name> en la
+        <p rend="noindent">que después imitó <authority>Policiano</authority> en la
             <title>Manto</title>:</p>
         <quote>
           <l>Unde ego tantarum repetam primordia laudum?</l>
@@ -249,7 +250,7 @@
           <l>albergue, a cualquier hora,</l>
         </quote>
         <p rend="noindent">la de la navegación del océano, la de los juegos de carrera y lucha, y el
-          epitalamio (superior, a mi juicio, a los de <name type="author">Catulo</name>) y lo que en esta
+          epitalamio (superior, a mi juicio, a los de <authority>Catulo</authority>) y lo que en esta
           segunda parte con buen acuerdo mejoró vuestra merced, dándole habla al peregrino que, en
           la primera, no sé si justamente, calló siempre entre tantas ocasiones de romper el
             silencio, que no quiero descender a
@@ -259,10 +260,9 @@
           cuanto más afectada y puesta en práctica, tanto más viciosa, pero seguida <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f134r.png" n="f. 134r"/>de vuestra merced; a quien yo no quiero persuadir con autoridad mía (que no
           me atribuyo tanta), sino con la de los más graves autores del mundo, que procuran
           desterrarla de los escritos bien formados.</p>
-        <p><name type="author">Aristóteles</name>, maestro mayor de esta obra, en su
+        <p><authority>Aristóteles</authority>, maestro mayor de esta obra, en su
             <title>Poética</title>, hablando de la virtud de la dicción: <quote>«Dictionis autem
-            virtus, ut perspicua sit non tamen humilis»</quote> . <name type="author">Quintiliano</name>: <quote>«Quid si plerumque accidit, ut faciliora sint ad
-            intellegendum et lucidiora multo, quae a doctissimo quoque dicuntur? Nam et prima est
+            virtus, ut perspicua sit non tamen humilis»</quote> . <authority>Quintiliano</authority>: <quote>«Quid si plerumque accidit, ut faciliora sint ad intellegendum et lucidiora multo, quae a doctissimo quoque dicuntur? Nam et prima est
             eloquentiae virtus perspicuitas, et quo quisque ingenio minus valet, hoc se magis
             attollere et dilatare conatur, ut statura breves in digitos eriguntur et plura infirmi
             minantur. Nam tumidos et corruptos et tinnulos et quocumque alio cacozeliae genere
@@ -271,28 +271,27 @@
             obscurior [etiam] quo quisque deterior»</quote> . Y en el capítulo segundo del libro
           cuatro: <quote>«Nam et per totam actionem vitanda est obscuritas»</quote>, y más
           abajo: <quote>«Non minus autem cavenda erit, quae nimium corripientes omnia sequitur,
-            obscuritas; satiusque est aliquid narrationi superesse, quam deesse»</quote>. <name type="author">Diomedes</name>: <quote>«Vitia orationis
+            obscuritas; satiusque est aliquid narrationi superesse, quam deesse»</quote>. <authority>Diomedes</authority>: <quote>«Vitia orationis
             generalia sunt tria: obscurum, inornatum, barbarum»</quote>. Pero si de mi juicio,
           siguiendo a los antiguos, cual otro</p>
-        <quote>
+        <quote><authority/>
           <l>Raimondo imitator della severa,</l>
           <l>Rigida antichità […],</l>
         </quote>
-        <p><pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f134v.png" n="f. 134v"/> se apelare para los modernos, oigamos a <name type="author">Antonio
-            Minturno</name>, hombre judiciosísimo en los libros que hizo. <title>De poeta</title>: <quote>«Nec vero
+        <p><pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f134v.png" n="f. 134v"/> se apelare para los modernos, oigamos a <authority>Antonio Minturno</authority>, hombre judiciosísimo en los libros que hizo. <title>De poeta</title>: <quote>«Nec vero
             (ut quibus horum utendum sit ad plane ornateque dicendum, cognoscamus) ignorandum est
-            locutionis esse virtutem, ut perspicua illa sit, non humilis, non abjecta»</quote> . <name type="author">Julio César Escalígero</name>, regla para
+            locutionis esse virtutem, ut perspicua illa sit, non humilis, non abjecta»</quote> . <authority>Julio César Escalígero</authority>, regla para
           muchos, en la <title>Poética</title> en el libro cuarto de ella: <quote>«At perspicuum
             idem quod pellucidum vulgus transparens vocat, etc.Talis esse debet oratio,
             etenim in obscura»</quote>
           <quote xml:lang="lat">haeret animus, neque transmittit se ad rem quam significat; in
             perspicua nihil obstat menti nostrae, quin aciem suam ad rem usque ipsam
             appellat»</quote>
-          . <name type="author">Francisco
-            Luisio</name>, intérprete del <title>Arte poética</title> de <name type="author">Horacio</name>: <quote>«tres virtutes in omni narratione requiruntur: perspicuitas,
+          . <authority>Francisco
+              Luisio</authority>, intérprete del <title>Arte poética</title> de <authority>Horacio</authority>: <quote>«tres virtutes in omni narratione requiruntur: perspicuitas,
             brevitas, probabilitas, quae, si omnes adhibitae sunt, oratio omnes numeros
             habet»</quote>
-          . <name type="author">Torcuato Tasso</name>, cuya autoridad equivale a la de todos los modernos,
+          . <authority>Torcuato Tasso</authority>, cuya autoridad equivale a la de todos los modernos,
           en su
           <title>Discurso del poema heroico</title>: <quote>«Ma la virtù della elocuzione, se crediamo ad Aristotele, è che sia chiara,
             non umile»</quote>
@@ -301,7 +300,7 @@
           oscuridad; y si ésta naciera en las <title>Soledades</title> de brevedad fuera menos mal,
           pues por buscar una virtud se diera en un vicio <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f135r.png" n="f. 135r"/>cercano a ella; quien en vez de liberal da en pródigo, pase; y quien
           buscando la fortaleza da en temerario:</p>
-        <quote>
+        <quote><authority>Horacio</authority>
           <l>Decipimur specie recti, brevis esse laboro</l>
           <l>Obscurus fio […].</l>
         </quote>
@@ -321,18 +320,18 @@
           se desadornen, ahoguen y confundan; que igualmente sin duda está expuesto a injurias del
           tiempo y de los hombres el que en todos tiempos anduviese desnudo, como el que
           descomunalmente cargado de ropa:</p>
-        <quote>
+        <quote><authority/>
           <l>Singula quaeque locum teneant sortita decenter
             ;</l>
         </quote>
-        <p rend="noindent">porque según, tratando de lo mismo, afirma <name type="author">Jerónimo
-            Vida</name>:</p>
+        <p rend="noindent">porque según, tratando de lo mismo, afirma <authority>Jerónimo
+            Vida</authority>:</p>
         <quote>
           <l>Obscuros aliter crepitus et murmura vana</l>
           <l>Miscebis, ludesque sonis fallacibus aures
             .</l>
         </quote>
-        <p rend="noindent">Oigamos a <name type="author">Aristóteles</name>, en el tercero de la
+        <p rend="noindent">Oigamos a <authority>Aristóteles</authority>, en el tercero de la
             <title>Retórica</title>: <quote>«Praeterea, incongrua sit oratio, cum nos reddideris,
             nisi conjunxeris utrique congruentiam; ut, sonum aut colorem videre quidem commune non
             est, sentire vero. Obscurum autem etiam cum dicis non apponendo, sed multa interserendo,
@@ -344,19 +343,24 @@
             barbarismum; ænigma quidem, si translationes; barbarismum <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f136r.png" n="f. 136r"/>vero, si linguas»</quote>
           . Y más abajo: <quote>«Atque mensura eaque omnibus partibus
             regula est, nam si quis translationibus, linguis, cæterisque hujus generis, vel
-            indecenter, vel afectate usus fuerit, pari ratione ridicula struxerit»</quote>. <name type="author">Quintiliano</name> en el proemio del libro octavo y en el capítulo segundo del mismo
+            indecenter, vel afectate usus fuerit, pari ratione ridicula struxerit»</quote>. 
+          
+          <authority>Quintiliano</authority> 
+          en el proemio del libro octavo y en el capítulo segundo del mismo
           dice así: <quote>«Plus tamen est obscuritatis in contextu et continuatione sermonis, et
             plures modi. Quare nec sit tam longus, ut eum prosequi non possit intentio: nec
             trajectione tam tardus, ut in hyperbaton finis ejus differatur. Quibus adhuc pejor est
-            mixtura verborum, qualis in illo versu: “Saxa vocant Itali mediis quae in fluctibus, aras”»</quote>.</p>
-        <p>El <name type="author">Tasso</name>, perpetuo discípulo de <name type="author">Aristóteles</name>, en el libro cuarto de sus ya referidos <title>Discursos</title>:
-            <quote>«Ma quella saràgrave, laquale useràvocaboli affatto peregrini; peregrini chiama Aristotele la varietà
+            mixtura verborum, qualis in illo versu: 
+            <authority/> “Saxa vocant Itali mediis quae in fluctibus, aras”»</quote>
+          .</p>
+        <p>El <authority>Tasso</authority>, perpetuo discípulo de Aristóteles, en el libro cuarto de sus ya referidos <title>Discursos</title>:
+            <quote>«Ma quella saràgrave, laquale useràvocaboli affatto peregrini; peregrini chiama <authority>Aristotele</authority> la varietà
             delle lingue, l’accorciamento e l’allungamento, e ciascuno altro nome, che non sia
             proprio. Ma s’alcuno mescolasse insieme tutte queste
             cose farebbe enigma o barbarismo»</quote>. Cierto
           que, cuando faltaran autoridades de tan doctos hombres, me parece que la razón sola
           bastara a persuadimos el huir la oscuridad. ¿El fin de la poesía no es deleitar o
-          aprovechar o ambas cosas juntas, como dijo <name type="author">Horacio</name>?<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f136v.png" n="f. 136v"/></p>
+          aprovechar o ambas cosas juntas, como dijo <authority>Horacio</authority>?<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f136v.png" n="f. 136v"/></p>
         <quote>
           <l>Aut prodesse volunt aut delectare poetae</l>
           <l>Aut utrumque simul</l>
@@ -376,9 +380,9 @@
           requisito necesario en género de narración: luego no tiene la suma bondad que debiera por
           de tal dueño, y es lástima que no sea tal obra de vuestra merced y en quien se
           hallan tales y tantos pedazos de belleza, solo por querer su dueño que sea poco inteligible y dar con esto en
-          qué entender a tantos. No se la perdonó, pues, otro tanto <name type="author">Luciano</name> a Apolo: <quote>«Itaque et Apollinem in dandis oraculis rideri <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f137r.png" n="f. 137r"/> a nonnullis video, dum multa securo animo involvit et data opera
+          qué entender a tantos. No se la perdonó, pues, otro tanto <authority>Luciano</authority> a Apolo: <quote>«Itaque et Apollinem in dandis oraculis rideri <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f137r.png" n="f. 137r"/> a nonnullis video, dum multa securo animo involvit et data opera
             obscurat, ne omnino audientes otio indulgeant, sed expendant versiculos»</quote> . Pues no es este poema misterios de religión ni profecía, de
-          que no deben hacerse participantes muchos, conforme a la doctrina de <name type="author">san Jerónimo</name>
+          que no deben hacerse participantes muchos, conforme a la doctrina de <authority>san Jerónimo</authority>
           <title>in Ezechielem</title>: <quote>«Multa dicuntur <hi rend="n">(dice él)</hi> in
             parabolis et ænigmatibus, ut qui habet aures
             audiendi, audiat. Omnisque prophetia in obscuritate continet veritatem, ut discipuli
@@ -392,33 +396,33 @@
             sanctorum»</quote> .
           Pero esta razón no corre aquí; que todos querrían (y yo lo deseo no poco) y deberían (si
           pudiesen) de sus obras de vuestra merced, como solían, sacar gusto y provecho:</p>
-        <quote>
+        <quote><authority/>
           <l>Tu quid ego, et populus mecum desideret, audi
             .</l>
         </quote>
-        <p rend="noindent"><name type="author">Terencio</name>, en el prólogo de su
+        <p rend="noindent"><authority>Terencio</authority>, en el prólogo de su
             <title>Andria</title>, profesa solamente querer dar gusto al pueblo:</p>
         <quote>
           <l>Poeta cum primum animum ad scribendum appulit,</l>
           <l>Id sibi negoti credidit solum dari,</l>
           <l>Populo ut placerent quas fecisset fabulas.</l>
         </quote>
-        <p rend="noindent"><name type="author">Máximo Tirio</name> dijo del poeta: <quote>«Poeta
+        <p rend="noindent"><authority>Máximo Tirio</authority> dijo del poeta: <quote>«Poeta
               autem<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f137v.png" n="f. 137v"/> mollis habetur, et multitudinem oblectat, ut pote qui propter voluptatem
             a populo diligitur»</quote>  . Así que no debe vuestra merced procurar escribir para solos los doctos
           porque, de esta suerte, le entenderán y gustarán de sus obras muy pocos, parte por no
           serlo en esta facultad, parte porque no querrán gastar el tiempo y sus juicios en adivinar
-          qué quiso decir vuestra merced (que no profesó escribir enigmas, como en <name type="author">Simposio</name>), reduciendo a trabajo lo que había de ser
+          qué quiso decir vuestra merced (que no profesó escribir enigmas, como en <authority>Simposio</authority>), reduciendo a trabajo lo que había de ser
           meramente gusto, y matándose por entenderlo o no entenderlo:</p>
-        <quote>
+        <quote><authority/>
           <l>Ut quos, obscuris victos ambagibus oris,</l>
           <l>Legimus infandae Sphinga dedisse neci
             ;</l>
         </quote>
-        <p rend="noindent">y dirán lo que de <name type="author">Heráclito</name>, escritor
-          oscurísimo, dijo <name type="author">Cicerón</name>: <quote>«Qui quoniam quid diceret intelligi noluit,
+        <p rend="noindent">y dirán lo que de <authority>Heráclito</authority>, escritor
+          oscurísimo, dijo <authority>Cicerón</authority>: <quote>«Qui quoniam quid diceret intelligi noluit,
             omittamus»</quote>. Hase de decir de sus versos y pensamientos de
-          vuestra merced lo que el Pséudolo de <name type="author">Plauto</name> dijo de las letras
+          vuestra merced lo que el Pséudolo de <authority>Plauto</authority> dijo de las letras
           de una carta:</p>
         <quote>
           <l>Has quidem Pol credo, nisi Sybilla legerit,</l>
@@ -426,32 +430,32 @@
             .</l>
         </quote>
         <p rend="noindent">No, por amor de Dios, que a la verdad es terrible cosa que en mi lengua
-          materna haya yo de andar como en un <name type="author">Aristóteles</name> o en un <name type="author">Persio</name>, o en otro autor
+          materna haya yo de andar como en un <authority>Aristóteles</authority> o en un <authority>Persio</authority>, o en otro autor
           difícil griego o latino, juntando partes, construyendo y adivinando qué quiso decir en
-          aquello o en eso otro. Bien habló a este propósito <name type="author">Cicerón</name> en
+          aquello o en eso otro. Bien habló a este propósito <authority>Cicerón</authority> en
           lo <title>De finibus</title>: <quote>«Satisne igitur videor vim verborum tenere, an sum etiam nunc græce<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f138r.png" n="f. 138r"/> loqui vel latine docendus? Et tamen vide, ne, si ego non intelligam,
             quid Epicurus loquatur, cum græce, ut videor, luculenter sciam, sit aliqua culpa ejus,
             qui ita loquatur ut non intelligatur»</quote>. Culpa es y culpa antigua de algunos escritores
-          afectar oscuridad. <name type="author">Quintiliano</name>: <quote>«In hoc malo
+          afectar oscuridad. <authority>Quintiliano</authority>: <quote>«In hoc malo
             etiam a quibusdam laboratur, neque id novum vitium est, etc. Unde illa scilicet egregia
             laudatio, “tanto melior; ne ego quidem intellexi”»</quote> . El artificio del poeta en lo que debe emplearse es en
           hacer y trabajar los versos de suerte que, de fáciles, cualquiera piense que podrá hacer
-          otros tales, sin descubrir en ellos el arte y cuidado, cuales los hizo <name type="author">Tibulo</name>, que, con ser tan culto y limado, es tan suave y fácil en el decir que
-          parece se estaba dicho lo que él dijo. <name type="author">Horacio</name>:</p>
+          otros tales, sin descubrir en ellos el arte y cuidado, cuales los hizo <authority>Tibulo</authority>, que, con ser tan culto y limado, es tan suave y fácil en el decir que
+          parece se estaba dicho lo que él dijo. <authority>Horacio</authority>:</p>
         <quote>
           <l>Ex noto fictum carmen sequar; ut sibi quivis</l>
           <l>Speret idem: sudet multum frustraque laboret</l>
           <l>Ausus idem
             </l>
         </quote>
-        <p rend="noindent">y <name type="author">Jerónimo Vida</name> ; porque el demasiado cuidado descubierto hace parecer después las
+        <p rend="noindent">y <authority>Jerónimo Vida</authority> ; porque el demasiado cuidado descubierto hace parecer después las
           cosas con menos gracia y venustidad, como hechas a fuerza, según dijo Apeles a Protógenes
           viendo aquella excelente pintura de Yáliso, en que había gastado siete años; refiérelo
-            <name type="author">Eliano</name>, libro 12, capítulo <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f138v.png" n="f. 138v"/> 12
-          <title>De varia historia</title>. De que remito el ejemplo a las <title>Gerusalemmes</title> del <name type="author">Tasso</name>,
+          <authority>Eliano</authority>, libro 12, capítulo <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f138v.png" n="f. 138v"/> 12
+          <title>De varia historia</title>. De que remito el ejemplo a las <title>Gerusalemmes</title> del <authority>Tasso</authority>,
             <title>liberata</title> y
           <title>conquistata</title>, la primera mejor, con menor cuidado, la segunda con mayor y
-          menos buena. Refiriose arriba la misma doctrina de <name type="author">Quintiliano</name>. Y con bonísimo acuerdo dijo <name type="author">Cicerón</name> en
+          menos buena. Refiriose arriba la misma doctrina de <authority>Quintiliano</authority>. Y con bonísimo acuerdo dijo <authority>Cicerón</authority> en
           sus <title>Académicas</title>: <quote>«Itaque ea nolui scribere, quae nec indocti
             intelligere possent, nec docti legere curarent»</quote>.</p>
         <p>Dirame vuestra merced a esto dos cosas: la primera, que la oscuridad causada de
@@ -459,49 +463,49 @@
           el hablar grande y estilo sublime; la segunda, que hay otros muchos poetas de los de más
           nombre oscuros y, con dificultad, inteligibles. Respondo a lo primero que es así que el
           hablar figurado demasiadamente y con palabras peregrinas (como no dé en enigma, ni
-          barbarismo) engendra el estilo sublime; testigos: <name type="author">Aristóteles</name>,
-            <name type="author">Escalígero</name>, <name type="author">Torcuato</name> y otros que
+          barbarismo) engendra el estilo sublime; testigos: <authority>Aristóteles</authority>,
+          <authority>Escalígero</authority>, <authority>Torcuato</authority> y otros que
           en varios lugares varias veces lo afirman. Pero eso se entiende, según ellos, en poema grave,
           trágico, heroico u otro semejante; que, siendo de su naturaleza ilustres, piden estilo y
           modo de decir fuera del vulgar, como lo hiciera vuestra merced si aplicara su ingenio<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f139r.png" n="f. 139r"/> y genio a lo épico, de que diera mejor que otro ninguno. Pero un poema,
           cuando no lírico, de materia humilde, bucólico en lo que descubre hasta
           ahora, no ha de
           correr parejas con lo heroico, desdiciendo mucho del
-          decoro que se debe a las personas.<name type="author"> Virgilio</name> en el Sileno:</p>
+          decoro que se debe a las personas.<authority> Virgilio</authority> en el Sileno:</p>
         <quote>
           <l>                  […] Cynthius aurem</l>
           <l>Vellit et admonuit: «Pastorem, Tytire, pingues</l>
           <l>Pascere oportet oves deductum dicere carmen»,</l>
         </quote>
-        <p rend="noindent">enseñanza no poco repetida de <name type="author">Horacio</name> en su
-            <title>Arte</title>, ni olvidada de <name type="author">Jerónimo Vida</name> en la
+        <p rend="noindent">enseñanza no poco repetida de <authority>Horacio</authority> en su
+          <title>Arte</title>, ni olvidada de <authority>Jerónimo Vida</authority> en la
             suya
           . Divinamente
-          enseña esto <name type="author">Fracastoro</name> en el diálogo
+          enseña esto <authority>Fracastoro</authority> en el diálogo
             <title>Naugerio, sive de Poetica</title>: <quote>«Sicut enim vestis aurea, quamquam per
             se pulcherrima sit, apposita tamen rustico non modo decorem et ornatum non afferet, sed risum concitabit magis; ita et si rebus comicis majestatem
             heroicam addas, omnia facies indecora. Hac ergo concinnitate et convenientia siomnia scribas, et comedia, et lyrica, et alia [partes erunt
             poeticae]»</quote>. Mírense los que han escrito semejantes
-          materias, antiguos y modernos, griegos, latinos, toscanos, españoles: <name type="author">Teócrito</name>, <name type="author">Bión</name> , <name type="author">Virgilio</name>, <name type="author">Calpurnio</name>, <name type="author">Severo</name>, <name type="author">Petrarca</name>, <name type="author">Sannazaro</name>, <name type="author">Pontano</name>, <name type="author">Marco Rosiglia</name>, <name type="author">Gerónimo Benivieni</name>, <name type="author">Bernardo
-            Tasso</name>, <name type="author">Luis Alemanni</name>,
-          y el divino <name type="author">Garcilaso</name> y otros, y <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f139v.png" n="f. 139v"/> echarase de ver cuán claro estilo han seguido y cuán acomodado al sujeto
+          materias, antiguos y modernos, griegos, latinos, toscanos, españoles: <authority>Teócrito</authority>, <authority>Bión</authority> , <authority>Virgilio</authority>, <authority>Calpurnio</authority>, <authority>Severo</authority>, <authority>Petrarca</authority>, <authority>Sannazaro</authority>, <authority>Pontano</authority>, <authority>Marco Rosiglia</authority>, <authority>Gerónimo Benivieni</authority>, <authority>Bernardo
+            Tasso</authority>, <authority>Luis Alemanni</authority>,
+          y el divino <authority>Garcilaso</authority> y otros, y <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f139v.png" n="f. 139v"/> echarase de ver cuán claro estilo han seguido y cuán acomodado al sujeto
           de que trataron.</p>
         <p>A lo segundo respondo que, aunque haya habido poetas oscuros, no es bueno imitarlos en
           esa parte, siendo viciosa, sino seguir antes la majestad con la venustidad y perspicuidad
           virgiliana; demás de que (como he dicho) los más tomaron diferente asunto, y en quien es
           la oscuridad menos culpable, naciendo de afectar grandeza, como los heroicos
-            <name type="author">Valerio Flaco</name>, <name type="author">Estacio Papinio</name>, aunque también
-          en el primero es notado de duro el estilo. <name type="author">Escalígero</name> el padre:
+          <authority>Valerio Flaco</authority>, <authority>Estacio Papinio</authority>, aunque también
+          en el primero es notado de duro el estilo. <authority>Escalígero</authority> el padre:
             <quote>«Est autem omnino duriusculus: penitus vero nudus gratiarum
-            comitate»</quote> . Opondranme a <name type="author">Persio</name> satíro los que buscaren patrocinio a
-          la oscuridad, pero miren cuál le pone el mismo <name type="author">Escalígero</name>:
+            comitate»</quote> . Opondranme a <authority>Persio</authority> satíro los que buscaren patrocinio a
+          la oscuridad, pero miren cuál le pone el mismo <authority>Escalígero</authority>:
             <quote>«Persii vero stilus morosus, et ille ineptus, qui cum legi vellet quae
             scripsisset, intelligi noluit quae legerentur»</quote>
           .</p>
         <p>Bien sé, mi señor, que a vuestra merced le han advertido de esto antes de ahora y
           avisádole que sienten lo mismo en Córdoba, en Granada, en Sevilla, en Madrid; pues de allí
           un hombre de tanta erudición, cuanto cualquiera otro de este siglo, y de juicio igual a la
-          erudición, que es <persName>Pedro de Valencia,</persName> lo escribió y advirtió a vuestra
+          erudición, que es <persName type="polemist" key="Valencia, Pedro de">Pedro de Valencia</persName>, lo escribió y advirtió a vuestra
             merced. Vi la carta original en Granada el verano pasado en poder de Juan de
             Villegas,<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f140r.png" n="f. 140r"/> el gobernador de Luque, y, aunque no creo que tengo mayor facundia ni más viveza de
           razones que él para persuadir a vuestra merced, por lo que debo a nuestra amistad y desear
@@ -514,7 +518,7 @@
           el entender, parte por no atreverse, parte por mostrarse eruditos defendiendo la oscuridad
           y otras cosillas (si las hay) en que se pudiera reparar, anteponiendo con esto la
           adulación y estimación de sus ingenios a la verdadera amistad:</p>
-        <quote>
+        <quote><authority/>
           <l>Nobis non licet esse tam disertis</l>
           <l>Qui musas colimus severiores.</l>
         </quote>
@@ -522,17 +526,17 @@
           servidor y amigo se lo suplico.</p>
         <p>Lo mismo deseo haga en el uso de palabras peregrinas, digo derivadas de latín y <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f140v.png" n="f. 140v"/> toscano; y no tanto en la muchedumbre de ellas, pues todas son muy buenas,
           y a la verdad eso es enriquecer nuestra lengua y muy conforme a los preceptos del arte
-          (según <name type="author">Aristóteles</name>, <name type="author">Horacio</name>, <name type="author">Vida</name>, <name type="author">Tasso</name> y otros); pero en el frecuentarlas y repetirlas muy a menudo,
+          (según <authority>Aristóteles</authority>, <authority>Horacio</authority>, <authority>Vida</authority>, <authority>Tasso</authority> y otros); pero en el frecuentarlas y repetirlas muy a menudo,
           pues, como a forasteras, se ha de ir poco a poco y con recato, dándoles entrada y lugar
           señalado si queremos que sean bien recibidas y estimadas en algo, que así nos lo encarga
           el lírico latino:</p>
-        <quote>
+        <quote><authority/>
           <l>In verbis etiam tenuis cautusque serendis
             ;</l>
         </quote>
-        <p rend="noindent">pues, de otra suerte, viene a ser lenguaje pedantesco fidentiano, de que le culpa a <name type="author">Torcuato
-            Tasso</name>, como a usurpador y frecuentador de palabras peregrinas, la Academia de la
-          Crusca en la defensa del <title>Furioso</title>, diciendo que <name type="author">Aristóteles</name> concedió que cayese en los poemas agua de palabras forasteras, pero
+        <p rend="noindent">pues, de otra suerte, viene a ser lenguaje pedantesco fidentiano, de que le culpa a <authority>Torcuato
+            Tasso</authority>, como a usurpador y frecuentador de palabras peregrinas, la Academia de la
+          Crusca en la defensa del <title>Furioso</title>, diciendo que <authority>Aristóteles</authority> concedió que cayese en los poemas agua de palabras forasteras, pero
           no que tempestase. Una sola fuera de parecer que desterrara vuestra merced de todo punto y
           es «conculcado» y «conculcar», porque tiene mucha parte de «æschrología», figura viciosa, que es uso de verbo u
           oración de sucia significación en el sonido y, así, no siendo necesario el usarlo, yo no
@@ -550,43 +554,43 @@
           <l>media luna las armas de su frente.</l>
         </quote>
         <p rend="noindent">En la primera hace vuestra merced navíos y en ésta barcos de
-            <quote>«haya»</quote> muchas
+          <quote>«haya»</quote> muchas
           veces, demás de que, como advertí en el <title>Polifemo</title>, no la usa la navegación,
           si no es en remos; y, para certificarme más, busqué con Francisco de Gálvez lo que dicen
-          de ese árbol <name type="author">Teofrasto</name>, <title>De plantis</title>, <name type="author">Plinio</name> y otros; y, ni
+          de ese árbol <authority>Teofrasto</authority>, <title>De plantis</title>, <authority>Plinio</authority> y otros; y, ni
           en ellos, ni en poetas algunos hallamos que la aplicasen a la navegación. Aquí dice
           vuestra merced <quote>«bisagra de una y otra playa»</quote>; allá <quote>«bisagra de un océano y
             otro»</quote>; <quote>«leños»</quote> tantas
           veces por navíos; <quote>«cuernos»</quote> de esto y de lo otro. Si
-            <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f141v.png" n="f. 141v"/> reprehende <name type="author">César Escalígero</name> en los
-            <title>Endecasílabos</title> del <name type="author">Bembo</name> la repetición de
+            <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f141v.png" n="f. 141v"/> reprehende <authority>César Escalígero</authority> en los
+            <title>Endecasílabos</title> del <authority>Bembo</authority> la repetición de
             <quote xml:lang="lat">«elegancias, facetias, lepores»</quote>, y en los
             <title>Epitafios</title>
           <quote xml:lang="lat">«charites, veneres, cupidines, lirios»</quote>, y en los <title>Túmulos</title>
-          de <name type="author">Pontano</name> la de <quote>«rosas, violas, lilios, jacintos,
+          de <authority>Pontano</authority> la de <quote>«rosas, violas, lilios, jacintos,
             primavera, coronas, Marte, Palas, Venus, <hi rend="i">charites</hi>, laurel, mirto,
-            ungüento, lágrimas, mirra, musas, Clío, Aganipe»</quote> y otros; si en <name type="author">Tibulo</name> la de
+            ungüento, lágrimas, mirra, musas, Clío, Aganipe»</quote> y otros; si en <authority>Tibulo</authority> la de
             <quote>«casas, fuegos, campos, bosques, husillos, espigas, sacrificios»</quote>, no le perdonara a
           vuestra merced, sin duda, la de palabras, cuanto más de conceptos, que suele argüir escasez de
             ellos, como
-          dijo <name type="author">Horacio</name>:</p>
+          dijo <authority>Horacio</authority>:</p>
         <quote>
           <l>[…] Et fortasse cupressum</l>
           <l>Scis simulare,</l>
         </quote>
         <p rend="noindent">siendo vuestra merced tan rico y abundante de esta mercancía como todo el
           mundo sabe y, cual lo estuviéramos ambos, de hacienda.</p>
-        <p>El hipérbaton con todas sus especies (sea tropo o figura, que en duda lo pone <name type="author">Quintiliano</name> e importa poco ) sirve sin duda
+        <p>El hipérbaton con todas sus especies (sea tropo o figura, que en duda lo pone <authority>Quintiliano</authority> e importa poco ) sirve sin duda
           grandemente al ornato, turbando el orden de las palabras con anteposiciones,
           interposiciones y postposiciones que realzan el hablar y le hacen numeroso y nada vulgar,
           respecto de lo cual le alaba mucho el referido autor
           . Pero no ha de ser todo hipérbaton, que será menester traer en la manga un
           intérprete que a los oyentes o lectores declare el sentido de lo que queremos decir, <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f142r.png" n="f. 142r"/> que, de otra suerte, parecerán bernardinas y así, a mi juicio, debe vuestra merced moderarse en él.</p>
         <p>De la hipérbole juzgo lo mismo; porque si la hipérbole es <quote>«dictio aut sententia
-            fidem excedens augendi minuendive causa»</quote>, como dicen <name type="author">Diomedes</name> y <name type="author">Donato</name> , o, como <name type="author">Quintiliano</name>,
+          fidem excedens augendi minuendive causa»</quote>, como dicen <authority>Diomedes</authority> y <authority>Donato</authority> , o, como <authority>Quintiliano</authority>,
             <quote>«ementiens superjectio»</quote> , cierto es que se ha de usar
           raras veces y cum modis et formis, si queremos que no pierda lo verosímil el poema,
-          y se quede a buenas noches. Aconséjalo así el mismo <name type="author">Quintiliano</name>: <quote>«Sed hujus quoque rei servetur mensura quaedam.
+          y se quede a buenas noches. Aconséjalo así el mismo <authority>Quintiliano</authority>: <quote>«Sed hujus quoque rei servetur mensura quaedam.
             Quamvis enim est ommis
             hyperbole ultra fidem, non tamen esse debet ultra modum: nec alia via magis
             in cacozeliam itur. Piget referre plurima hinc orta vitia, cum praesertim minime sint
@@ -594,7 +598,7 @@
           . La
           «cacocelia» ya sabe vuestra merced que es vicio por afectación de ornato demasiado. ¿Todo
           ha de ser sumo, ir por esos cielos o por los abismos?</p>
-        <quote>
+        <quote><authority/>
           <l>Medio tutissimus ibis</l>
         </quote>
         <p rend="noindent">¿Cómo se ha de ver lo grande sin oposición de lo pequeño? Si todo es en
@@ -618,11 +622,11 @@
           solas las dedicadas al servicio y ejercicio de Diana andaban cargadas de semejante
           pesadumbre), digo que tampoco podían parecer bacantes, pues no traían tirsos en las manos
           (tirso era, como vuestra merced mejor sabe, una lanza cubierta de pámpanos o yedra, que
-          era lo más ordinario; y así lo afirma <name type="author">Eurípides</name>:
+          era lo más ordinario; y así lo afirma <authority>Eurípides</authority>:
             <quote>«hederaque thyrsum tradidi illo tempore»</quote>
           ); <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f143r.png" n="f. 143r"/> y que no lo trujese confiésalo vuestra merced, llamándolas cuatro versos
           después: <quote>«escuadrón de amazonas desarmado»</quote>. Que los y las bacantes, o bacos, trajesen tirsos en las manos
-          pruébase con muchos lugares de autores; referiré algunos: <name type="author">Ovidio</name> en sus <title>Metamorfosis</title> introduce a Penteo que, reprehendiendo
+          pruébase con muchos lugares de autores; referiré algunos: <authority>Ovidio</authority> en sus <title>Metamorfosis</title> introduce a Penteo que, reprehendiendo
           a los que seguían a Baco, dice:</p>
         <quote>
           <l>[…] Vosne acrior aetas</l>
@@ -635,13 +639,13 @@
           <l>Prima suum misso violavit Penthea thyrso</l>
           <l>Mater […];</l>
         </quote>
-        <p rend="noindent"><name type="author">Cornelio Tácito</name>, tratando de la buena
+        <p rend="noindent"><authority>Cornelio Tácito</authority>, tratando de la buena
           emperatriz Mesalina, cuando a vuelta de cabeza de su marido Claudio, que se había llegado a
           Ostia, casó con Silio su amigo: <quote>«At Messalina non alias solutior luxu, adulto
             autumno simulacrum vindemiae per domum celebrabat. Urgeri prela, fluere lacus; et
             feminae pellibus accinctae adsultabant ut sacrificantes vel insanientes Bacchae; ipsa
             crine fluxo thyrsum quatiens, juxtaque Silius haedera vinctus, gerere cothurnos, jacere
-            caput, strepente circum procaci choro»</quote> . Pero, mejor que todos, <name type="author">Diodoro Sículo</name>:
+            caput, strepente circum procaci choro»</quote> . Pero, mejor que todos, <authority>Diodoro Sículo</authority>:
             <quote>«Unde et in multis graecis urbibus triennio Bacchides mulieres conveniunt<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f143v.png" n="f. 143v"/> apud quas de more virgines thyrsum ferunt in honorem dei bacchantes.
             Eique per cœtus sacrificantes»</quote>
           . Dejo aparte que las bacantes
@@ -660,18 +664,19 @@
           la imaginativa; el pie, la mano y el hombro no son capaces de él en
           modo alguno, de carga sí; y vuestra merced lo junta todo. Si fuera ése poema latino,
           salváramos el tal atributo con nombre de hipálage, que así llaman los retóricos (según
-            <name type="author">Cicerón</name>, alegado por <name type="author">Quintiliano</name> ) al tropo que los gramáticos metonimia: <quote>«bella figura <hi rend="n">(dice <name type="author">Juan Andrea Gilio</name>)</hi> ma più usata da latini che
+          <authority>Cicerón</authority>, alegado por <authority>Quintiliano</authority> ) al tropo que los gramáticos metonimia: <quote>«bella figura <hi rend="n">(dice <authority>Juan Andrea Gilio</authority>)</hi> ma più usata da latini che
             da Toscani poeti»</quote>
           ; y se comete cuando la calidad <pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f144r.png" n="f. 144r"/> y propiedad de una cosa se atribuye a otra, como:</p>
-        <quote>
+        <quote><authority/>
           <l>[…] dare classibus austros</l>
           <l>[…] tepidaque recentem</l>
           <l>Caede locum […]</l>
           <l>[…] socii cesserunt aequore jusso,</l>
         </quote>
         <p rend="noindent">en vez de <hi rend="i">dare classes austris, locum tepidum recenti caede,
-            socii iussi cesserunt aequori</hi>. Del <name type="author">Petrarca</name> trae un ejemplo el mismo <name type="author">Juan Andrea
-          Gilio</name>:</p>
+            socii iussi cesserunt aequori</hi>. Del <authority>
+                &gt;Petrarca</authority> trae un ejemplo el mismo <authority>Juan Andrea
+          Gilio</authority>:</p>
         <quote>
           <l>L’altro è colui che’l re di Siria cinse</l>
           <l>D’un magnanimo cerchio,</l>
@@ -706,16 +711,16 @@
         </quote>
         <p rend="noindent">También en la primera parte dijo vuestra merced lo mismo de las serranas
           y vaqueras, y extraño esto, porque no sé que
-          se halle blancura en serranas y gente de playa curtidas al sol y al agua. <name type="author">Virgilio</name> al menos no da tal atributo a pastora alguna, sacando a
+          se halle blancura en serranas y gente de playa curtidas al sol y al agua. <authority>Virgilio</authority> al menos no da tal atributo a pastora alguna, sacando a
           Galatea, a quien todos le dan, porque su nombre significa eso mismo (pues quiere decir
             láctea o de leche) y a la esposa en los <title>Cantares</title> que excusa
-          halla a su color moreno: <quote>«Nolite me considerare quod fusca sim quia decoloravit me
+          halla a su color moreno: <quote><authority/>«Nolite me considerare quod fusca sim quia decoloravit me
             sol»</quote> . La experiencia lo muestra y la imitación poética debe seguir lo
           verosímil.</p>
         <p>Yo he dicho lo que he sentido sinceramente, a ley de cristiano y amigo, como lo he protestado<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f145r.png" n="f. 145r"/> y profesado en cuanto alcanza mi juicio. Vuestra merced con el suyo, pues
           es tan bueno, lo pondere y vea lo que se debe hacer; y consúltelo (si le pareciere) con
           hombres de letras, y echará de ver que le aconsejo como hombre de bien y servidor suyo,
-          según <name type="author">Horacio</name> en el <title>Arte</title>:</p>
+          según <authority>Horacio</authority> en el <title>Arte</title>:</p>
         <quote>
           <l>Vir bonus et prudens versus reprehendet inertes;</l>
           <l>Culpabit duros; incomptis allinet atrum</l>
@@ -728,15 +733,15 @@
           <l>In mala derisum semel exceptumque sinistre</l>
         </quote>
         <p rend="noindent">A mí me ha tocado esto, y a vuestra merced el hacer lo que aconseja en su
-            <title>Arte</title> monseñor <name type="author">Vida</name> en el libro 3, y no traigo
-          el lugar por ser largo, aunque excelente y loado por tal de <name type="author">Escalígero</name>. Yo he andado no corto, ni mi ánimo lo es, ni será
+          <title>Arte</title> monseñor <authority>Vida</authority> en el libro 3, y no traigo
+          el lugar por ser largo, aunque excelente y loado por tal de <authority>Escalígero</authority>. Yo he andado no corto, ni mi ánimo lo es, ni será
           en deseos de servir a vuestra merced. Si este papel no le pareciere tal como él, dele la pena que mereciere con manos o fuego, que el que le ha hecho
           quedará gustoso, servidor y amigo de vuestra merced como siempre, y tan su amigo y
           servidor que, resolviéndose vuestra merced a proseguir ese poema con el estilo hasta aquí,
           sin mudar de frasis ni modos, si hubiere (que no habrá) tan atrevido presuntuoso que le
             impugne,<pb facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f145v.png" n="f. 145v"/> estando tan bien defendido con solo el nombre de su autor, <quote>«tecum
             paratus sum, et in carcerem et in mortem [ire]»</quote>:</p>
-        <quote>
+        <quote><authority/>
           <l>[…] comitem casus amplector in omnes</l>
           <l>[…]</l>
           <l>Seu pacem, seu bella geram, tibi maxima rerum</l>

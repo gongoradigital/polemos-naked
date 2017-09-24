@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -81,6 +81,8 @@
       -->
     
     <body>
+      <index indexName="resp" n="Jáuregui, Juan de"/>
+      <index indexName="date" n="1624"/>
       <div>
         <head>Discurso poético de don Juan de Jáuregui</head>
         <div>
@@ -184,7 +186,7 @@
               <item rend="listparagraph">La oscuridad, y sus distinciones</item>
             </list>
             <p>Sean primer fundamento aquellas sentencias comunes del
-                <authority>gran Lírico</authority>:
+              <authority>gran Lírico</authority>:
                   «<quote><hi rend="i">Maxima pars vatum decipimur specie recti. In vitium ducit
                   culpae fuga, si caret arte</hi>».</quote> Dice que a las virtudes
               poéticas se acercan varios vicios parecidos a ellas y que muchos se engañan con la
@@ -213,9 +215,8 @@
                 engañan por abundantes y fértiles’. </quote>«<quote><hi rend="i">His
                 singularis</hi></quote><pb n="f. 3r"/><quote><hi rend="i"> virtutibus vitia agnata
                   sunt pari numero, qua earum modum et habitum simulachris falsis ementiuntur. Sic
-                  plerumque sufflati atque tumidi fallunt pro uberibus</hi></quote>». Casi lo mismo considera el <authority>Autor a Herenio.</authority>
-              Y antes que todo <authority>Demetrio Falereo
-              </authority> definiendo en particular esta demasía y sellando mi intento: ‘<quote>De la
+                  plerumque sufflati atque tumidi fallunt pro uberibus</hi></quote>». Casi lo mismo considera el <authority>Autor a Herenio</authority>.
+              Y antes que todo <authority>Demetrio Falereo</authority> definiendo en particular esta demasía y sellando mi intento: ‘<quote>De la
                 manera </quote>(dice) <quote>que algunos malos defectos se acercan a virtudes
                 loables, como la sobrada vergüenza a la modestia, y el arrojamiento al valor, de la
                 misma manera a los estilos de locución se hallan vecinos algunos vicios’. Diremos primero del que se acerca al estilo magnífico. A
@@ -288,23 +289,20 @@
               esgrimidor o <hi rend="i">pugil</hi> Entelo levantó la diestra con mayor ímpetu para
               aterrar al contrario, entonces (dice <authority>Virgilio</authority>) se vio el mismo ir a tierra con gran
                 fracaso:</p>
-            <p><quote><hi rend="i">Entelus vires in ventum effudit; et ultro</hi></quote>
-            </p>
-            <p><quote><hi rend="i">ipse gravis, graviterque ad terram pondere vasto</hi></quote>
-            </p>
-            <p><quote><hi rend="i">concidit</hi></quote>.</p>
-
+            <quote>
+              <l><hi rend="i">Entelus vires in ventum effudit; et ultro</hi></l>
+              <l><hi rend="i">ipse gravis, graviterque ad terram pondere vasto</hi></l>
+              <l><hi rend="i">concidit</hi>.</l>
+            </quote>
             <p>Y, en los juegos que describe <authority>Estacio</authority>, cuando
               Partenopeo se adelantaba a todos en la carrera, y ponía más esfuerzo en tocar la meta,
               entonces lloró su caída y su pérdida:</p>
-            <p><quote><hi rend="i">iam finem iuxta dum limina victor</hi></quote>
-            </p>
-            <p><quote><hi rend="i">init, etc.</hi></quote>
-            </p>
-            <p><quote><hi rend="i">Parthenopeus humo, vultumque oculosque madentes</hi></quote>
-            </p>
-            <p><quote><hi rend="i">obruit</hi></quote>.</p>
-
+            <quote>
+              <l><hi rend="i">iam finem iuxta dum limina victor</hi></l>
+              <l><hi rend="i">init, etc.</hi></l>
+              <l><hi rend="i">Parthenopeus humo, vultumque oculosque madentes</hi></l>
+              <l><hi rend="i">obruit</hi>.</l>
+            </quote>
             <p>Desmanes propiamente de la <hi rend="i">cacocelía</hi>, y efectos <pb n="f. 5v"/>
               suyos. Los modos de perderse en ella son varios, pero excediendo siempre a la demasía,
               como queda advertido.</p>
@@ -428,12 +426,11 @@
               <quote>dura fuerza con las palabras: despojan las cosas de su forma nativa a pesar de
                 ellas mismas, y oblíganlas violentamente a vestirse de ajenos aspectos’.
               </quote></p>
-            <p><quote><hi rend="i">Namque aliqui exercent vim duram, et rebus iniqui</hi></quote>
-            </p>
-            <p><quote><hi rend="i">nativam eripiunt formam indignantibus ipsis</hi>, </quote>
-            </p>
-            <p><quote><hi rend="i">invitasque iubent alienos sumere vultus</hi></quote>.<quote> </quote></p>
-
+            <quote>
+              <l><hi rend="i">Namque aliqui exercent vim duram, et rebus iniqui</hi></l>
+              <l><hi rend="i">nativam eripiunt formam indignantibus ipsis</hi>,</l>
+              <l><hi rend="i">invitasque iubent alienos sumere vultus</hi>.</l>
+            </quote>
             <p>Entendamos esto con ejemplos, aunque fingidos, pues no he de alegar los de otro.
               Supongo que, para describir el mar, traigo metáforas de un libro; a
               las ondas las llamo hojas, a los peces letras, etc. Parece que en tal caso
@@ -476,12 +473,12 @@
               notarla con distinción, especialmente en el modo que más ofende. Dividen el
               epíteto del nombre, interponiendo algunas palabras, de que procede este género de
               oraciones:</p>
-            <p><quote>En la moderna de escribir manera</quote>
-            </p>
-            <p><quote>extraños mil se notarán desaires.</quote>
-            </p>
+              <quote>
+            <l>En la moderna de escribir manera</l>
+            <l>extraños mil se notarán desaires.</l>
+              </quote>
             <p>División que en nuestro lenguaje casi siempre desagrada al oído. Contra ella vi
-              escrito mucho por <name type="polemista">algún autor enojado</name>. Y,
+              escrito mucho por <persName type="polemist" key="Vega, Lope de">algún autor enojado</persName>. Y,
               siendo lo principal que impugnaba, era sin duda lo que menos entendía. Acuérdome que
               trae por ejemplos de esta violencia versos que en ninguna manera la comprehenden. Y es que quien los alega reprueba
               confusamente la travesura, ignorando su distinción. No basta pues el trasponer <pb n="f. 10v"/> como quiera las palabras, y apartar los epítetos de los nombres, para
@@ -491,11 +488,10 @@
               contrario, diciendo primero el nombre, y después el epíteto, aunque se dejen en medio
               las mismas palabras, desaparece lo áspero, si no lo travieso. Véase la
               diferencia:</p>
-            <p><quote>Desaires mil se notarán extraños </quote>
-            </p>
-            <p><quote>en la manera de escribir moderna.</quote>
-            </p>
-
+            <quote>
+              <l>Desaires mil se notarán extraños</l>
+              <l>en la manera de escribir moderna.</l>
+            </quote>
             <p>No sólo es sufrible término, sino agradable. Infinitos le usan, a nadie ofende y así
               es despropósito traerle a cotejo con el primero. Es tanta verdad que no ofende, que
               aun en prosa humilde se admite, como: “Pocos tienen caudal de letras suficiente para
@@ -504,14 +500,12 @@
                 grandísima. Diré
               algunos versos de <authority>Garcilaso</authority>, donde usa la suave
               trasposición:</p>
-            <p><quote>Y con voz lamentándose quejosa.</quote>
-            </p>
-            <p><quote>Ya de rigor de espinas intratable.</quote>
-            </p>
-            <p><quote>Los accidentes de mi mal primeros.</quote>
-            </p>
-            <p><quote>Guarda del verde bosque verdadera  .</quote>
-            </p>
+            <quote>
+              <l>Y con voz lamentándose quejosa.</l>
+              <l>Ya de rigor de espinas intratable.</l>
+              <l>Los accidentes de mi mal primeros.</l>
+              <l>Guarda del verde bosque verdadera .</l>
+            </quote>
             <p><pb n="f. 11r"/> ¿Quién puede argüir dureza en estas divisiones? Antes conceder
               elegancia, porque se oye primero el nombre (aquí apoya la distinción) y después su
               epíteto. Si lo trocásemos, anteponiendo el epíteto, y después el nombre, entonces
@@ -540,13 +534,12 @@
               él) <quote>‘a los establos de los caballos, lares equinos; o a la grama del campo,
                 crines de la gran madre, me pareciera la misma imprudencia y ceguedad, que ataviar
                 un pigmeo con los vestidos grandísimos de un gigante’</quote>.</p>
-            <p><quote><hi rend="i">Haud magis imprudens mihi erit et luminis expers</hi></quote>
-            </p>
-            <p><quote><hi rend="i">qui puero ingentes habitus det ferre gigantis</hi></quote>
-            </p>
-            <p><quote><hi rend="i">quam si quis stabula alta lares appellet equinos</hi></quote>
-            </p>
-            <p><quote><hi rend="i">aut crines magnae genitrici gramina dicat</hi></quote> . </p>
+            <quote>
+              <l><hi rend="i">Haud magis imprudens mihi erit et luminis expers</hi></l>
+            <l><hi rend="i">qui puero ingentes habitus det ferre gigantis</hi></l>
+            <l><hi rend="i">quam si quis stabula alta lares appellet equinos</hi></l>
+            <l><hi rend="i">aut crines magnae genitrici gramina dicat</hi>.</l>
+            </quote>
             <p>De estos ejemplos se pueden inferir otros, que se hallan semejantes en las
               composiciones reprobadas.</p>
             <p>El efectuar un escrito es ajustar las voces de un <pb n="f. 12r"/> instrumento, donde
@@ -569,7 +562,7 @@
             <p>Y lo que más dificulta el remedio, o le imposibilita, en tan desordenados excesos es
               que quien los comete no sólo desconoce el error, mas le juzga <pb n="f. 12v"/> virtud
               y le ama. Yerra pensando que acierta, que es el vicio más pernicioso, como nota
-              agudamente <authority>Quintiliano.</authority> «<quote>Cacocelon</quote> (dice) <quote>se llama lo que excede
+              agudamente <authority>Quintiliano</authority>. «<quote>Cacocelon</quote> (dice) <quote>se llama lo que excede
                 allende la virtud. Siempre que el ingenio carece de elección y juicio, y se engaña
                 con una especie de bueno, es en la elocuencia el pésimo de todos los vicios. Porque
                 los demás se huyen y éste se busca. «<hi rend="i">Κακόζελον vocatur quidquid est
@@ -729,10 +722,11 @@
               yerros que en ocasión aciertan y perfeccionan, mas, fuera de ella, retienen
               desnudamente su desgraciada forma: ¿qué se hará donde se hallan acumulados? Fuerza es
               que allí redoblen imperfección. Los venerables <authority>Ennio</authority> y
-                <authority>Lucrecio</authority> usaron solecismos <pb n="f. 17r"/> notorios,
+                <authority>Lucrecio </authority>usaron solecismos <pb n="f. 17r"/> notorios,
               que no sólo se excusan en <authority>Aulo Gelio</authority>, sino se alaban, siguiendo el parecer de Probo Valerio. <hi rend="i">Cupressus</hi> es voz femenina, y Ennio le trueca el género diciendo, <hi rend="i">rectos cupressos. Aër</hi> es masculino y le usa femenino, <hi rend="i">aêre fulva. Funis</hi>, que es también masculino, Lucrecio le afemina, <hi rend="i">aurea funis. Fretum</hi> y <hi rend="i">peccatum</hi> hacen el ablativo <hi rend="i">freto, peccato</hi>, y <authority>Cicerón</authority> por elegancia
-              los termina en <hi rend="i">u: fretu perangusto, manifesto peccatu</hi>. La voz <hi rend="i">antistites</hi> suena así en primer caso de plural y el mismo Tulio le trueca la terminación y declinación, diciendo por las sacerdotisas <hi rend="i">sacerdotes antistitae</hi>. Éstas y otras singularidades contra las leyes latinas y
-              griegas observa Gelio, así en <authority>Lucrecio</authority> y <authority>Enio</authority>, como en <authority>Cicerón</authority>, <authority>Virgilio</authority> y <authority>Homero,</authority> y pondera
+              los termina en <hi rend="i">u: fretu perangusto, manifesto peccatu</hi>. La voz <hi rend="i">antistites</hi> suena así en primer caso de plural y el mismo Tulio le
+              trueca la terminación y declinación, diciendo por las sacerdotisas <hi rend="i">sacerdotes antistitae</hi>. Éstas y otras singularidades contra las leyes latinas y
+              griegas observa Gelio, así en <authority>Lucrecio</authority> y <authority>Enio</authority>, como en <authority>Cicerón</authority>, <authority>Virgilio</authority> y <authority>Homero</authority>, y pondera
               sus ingenios y arte que, consultando el buen gusto del oído, hallaron razones de
               hermosear las fealdades y virtualizar los vicios. Mas si estos excesos tan
               nuevos no hallasen decente lugar, o se frecuentasen,
@@ -787,8 +781,7 @@
               de este documento. Menos le diré se contente con la mansedumbre y lisura que piden
               algunos a los versos, deseándolos tan sencillos y fáciles como la prosa. Mucho deben
               diferenciarse y mucho más en el estilo noble. En esta parte descubren plebeyo gusto y
-              peor juicio <name type="polemista">algunos dicursos que he visto contra la demasía
-                  moderna</name>, porque sin más
+              peor juicio <persName type="polemist" key="Vega, Lope de">algunos dicursos que he visto contra la demasía moderna</persName>, porque sin más
               distinción que la queja ordinaria vulgar, les vedan a los escritores todas osadías.
               Quieren restringir al poeta en puntuales gramáticas, cerrarle en sus palabras solas
               castellanas, contenerle en el camino real trillado, sin dejar que se divierta un paso a otras florestas, ni suba
@@ -857,11 +850,11 @@
                 excitar, cuando parece que ya están para caer’</quote>. «<quote><hi rend="i">Vides
                   qui per funem in summa nituntur, quantos soleant excitare clamores, cum iam iam
                   caesuri videntur</hi></quote>»<quote>.
-              </quote>También <authority>Luciano
-              </authority>compara así la dificultad de la elocuencia: «<quote><hi rend="i">Si per illa incesseris, velut qui super
+                  </quote>También <authority>Luciano</authority>
+              compara así la dificultad de la elocuencia: «<quote><hi rend="i">Si per illa incesseris, velut qui super
                   funes gradiuntur</hi></quote>». Preguntemos ahora:
               ¿de qué estima sería en el más alentado la osadía de subirse a la maroma, si a veces
-              cayese? Aun basta caer una, en riesgos tan arduos, para no ser más hombre. Dice <authority>Plinio, </authority>notoria verdad, que mueven maravilloso aplauso los
+              cayese? Aun basta caer una, en riesgos tan arduos, para no ser más hombre. Dice <authority>Plinio</authority>, notoria verdad, que mueven maravilloso aplauso los
               que proceden enhiestos por lo alto del peligro; mas serán aplaudidos mientras
               constantemente lo consiguieren, no cuando dan en tierra precipitados.</p>
             <p>Lo mismo puede considerarse del caballo que tasca en el freno y se arroja, como dijo
@@ -927,15 +920,12 @@
                 una todas las palabras. Mayor trabajo es</quote> (afirma) <quote>emendar lo escrito
                 que escribirlo, ni puede padecer el ingenio más duro afán</quote>’. Así en las
               tristezas de su destierro no tenía fuerzas para enmendar:</p>
-            <p><quote><hi rend="i">Nec tamen emendo, labor hic quam scribere maior</hi>, </quote>
-            </p>
-            <p><quote><hi rend="i">mensque pati durum sustinet aegra nihil.</hi></quote>
-            </p>
-            <p><quote><hi rend="i">Scilicet incipiam lima mordacius uti</hi>, </quote>
-            </p>
-            <p><quote><hi rend="i">ut sub iudicium singula verba vocem</hi> . </quote>
-            </p>
-
+            <quote>
+            <l><hi rend="i">Nec tamen emendo, labor hic quam scribere maior</hi>,</l>
+            <l><hi rend="i">mensque pati durum sustinet aegra nihil.</hi></l>
+            <l><hi rend="i">Scilicet incipiam lima mordacius uti</hi>,</l>
+            <l><hi rend="i">ut sub iudicium singula verba vocem</hi> .</l>
+            </quote>
             <p>En la gravedad del Derecho se juzga también esta causa, donde dice el emperador
                 Justiniano: ‘<quote>El que
                 enmienda lo que no está sutilmente acabado merece mayor alabanza que su primer
@@ -984,18 +974,14 @@
               broncas (con que ahogan el grano), no flores tiernas y suaves. A este sentido les
               traigo aquellos versos de Garcilaso, profeta del
               presente desorden.</p>
-            <p><quote>La tierra, que de buena</quote>
-            </p>
-            <p><quote>gana nos producía</quote>
-            </p>
-            <p><quote>flores, con que solía</quote>
-            </p>
-            <p><quote>quitar en sólo verlas mil enojos,</quote>
-            </p>
-            <p><quote>produce agora en cambio estos abrojos 
-                .</quote>
-            </p>
-
+            <quote>
+              <l>La tierra, que de buena</l>
+              <l>gana nos producía</l>
+              <l>flores, con que solía</l>
+              <l>quitar en sólo verlas mil enojos,</l>
+              <l>produce agora en cambio estos abrojos 
+                .</l>
+            </quote>
             <p>En vez de sacar del idioma el licor que buenamente puede exprimirse, le hacen verter
               heces y amargura, como a la naranja. No ha de ser tanto el aprieto. Pudieran
               considerar que ha habido otros no menos deseosos de ilustrar la poesía castellana y
@@ -1148,8 +1134,8 @@
               o respeto, o ya por cobardía de ingenio, den a entender que se agradan, pero es
               imposible que lo sientan. Y si el más amigo y cortés o el más cobarde quiere no
               esconder la verdad, hallaremos que todos sin excepción sienten, en lugar de recreo,
-              aspereza y tormento; o sienten lo que Séneca dijo definiendo este mal estilo (<authority>Séneca</authority>,
-              digo, <authority>Rétor</authority>). ‘<quote>Aquel es propio género de
+              aspereza y tormento; o sienten lo que Séneca dijo definiendo este mal estilo (<authority>Séneca,
+              digo, Rétor</authority>). ‘<quote>Aquel es propio género de
                 cacocelía, que con amargura de palabras se agrava’. «<hi rend="i">Certe illud genus
                   cacozeliae est, quod amaritudine verborum quasi aggravatur</hi></quote>». No hay efecto más
               propio de estos poetas, que darnos amargura y pesadilla con las palabras. No hablo aún
@@ -1359,19 +1345,14 @@
                 Modesto</quote> (insignes intérpretes) <quote>de qué sirve?, pregunto. Alábense en
                 buen hora tus obras con esa oscuridad. Yo querría que las mías agradasen a cualquier
                 gramático, y sin trabajar su gramática</quote>’<quote>.</quote></p>
-            <p><quote><hi rend="i">Scribere te quae vix intelligat ipse Modestus</hi>, </quote>
-            </p>
-            <p><quote><hi rend="i">et vix Claranus, quid, rogo, Sexte, iuvat</hi>? </quote>
-            </p>
-            <p><quote><hi rend="i">Non lectore tuis opus est sed Apolline libris</hi></quote>
-            </p>
-            <p><quote><hi rend="i">iudice te maior Cinna Marone fuit.</hi></quote>
-            </p>
-            <p><quote><hi rend="i">Sic tua laudentur: sane mea carmina, Sexte</hi></quote>
-            </p>
-            <p><quote><hi rend="i">grammaticis placeant, et sine grammaticis</hi> . </quote>
-            </p>
-
+           <quote>
+            <l><hi rend="i">Scribere te quae vix intelligat ipse Modestus</hi>,</l>
+            <l><hi rend="i">et vix Claranus, quid, rogo, Sexte, iuvat</hi>?</l>
+            <l><hi rend="i">Non lectore tuis opus est sed Apolline libris</hi></l>
+            <l><hi rend="i">iudice te maior Cinna Marone fuit.</hi></l>
+            <l><hi rend="i">Sic tua laudentur: sane mea carmina, Sexte</hi></l>
+            <l><hi rend="i">grammaticis placeant, et sine grammaticis</hi>.</l>
+            </quote>
             <p>A Modesto, Clarano, Platón, Virgilio, Plocio y semejantes los queremos para que
               del todo conozcan lo escrito. Mas, para que lo entiendan y abonen, y sean como puedan
               partícipes, muy copioso auditorio queremos. Y el que presume en su obra ser superior a
@@ -1442,7 +1423,7 @@
                 toda razón se les perdona mucho a los poetas romanos. Mas ¿será bien
                 </quote>(pregunta)<quote> que, fiados desta ignorancia del pueblo, escribamos
                 licencioso y baldío? ¿O que supongamos por cierto que todos ven y conocen nuestras
-                culpas, cautelándonos en el recato, aunque esperemos el perdón?’ </quote>«<quote><hi rend="i">Non quivis videt, etc.</hi></quote>». Decía admirablemente <authority>Peregrino</authority> filósofo: ‘<quote>Que el varón sabio no había de pecar, aunque hubiesen de
+                culpas, cautelándonos en el recato, aunque esperemos el perdón?’ </quote>«<quote><hi rend="i">Non quivis videt, etc.</hi></quote>». Decía admirablemente <persName type="Aulo Gelio">Peregrino filósofo</persName>: ‘<quote>Que el varón sabio no había de pecar, aunque hubiesen de
                 ignorar su pecado los dioses y los hombres, pues no se ha de huir la culpa por miedo
                 de la infamia, o la pena, sino por oficio y estudio del bien obrar’</quote>. ¿Cuánto más detestables serán las culpas que 
                   sólo ha de ignorarlas la rudeza plebeya, y todos los demás advertirlas?</p>
@@ -1581,13 +1562,6 @@
               Bastaba no criar luz para que las hubiese: donde ella falta se hallan. Así, para que
               redunde oscuridad en los versos, no es conveniente poner cuidado: antes, descuidarse
               en ponerle. Dar luz es lo difícil; no conseguirla, facilísimo.</p>
-
-
-
-
-
-
-
             <!--/section=TextSection-->
           </div>
         </div>

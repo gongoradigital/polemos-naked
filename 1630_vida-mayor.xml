@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es" n="1630_vida-mayor">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,6 +22,10 @@
         </respStmt>
         <respStmt>
           <name>Aude Plagnard</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Hector Ruiz</name>
           <resp>stylage et édition TEI</resp>
         </respStmt>
       </editionStmt>
@@ -52,36 +56,38 @@
   </teiHeader>
   <text>
     <body>
+      <index indexName="resp" n="Pellicer y Tovar, José"/>
+      <index indexName="date" n="1630"/>
       <div>
         <head>Texto de la edición</head>
         <div>
-          <head>Vida de don <name type="polemista">Luis de Góngora</name>
-            por <name type="polemista">José Pellicer de Salas</name></head>
+          <head>Vida de don <persName type="polemist" key="Góngora, Luis de">Luis de Góngora</persName>
+            por <persName type="polemist" key="Pellicer, José">José Pellicer de Salas</persName></head>
           <p>Para decir de tan excelente varón y referir sus alabanzas, quisiera exceder en
             elocuencia a todos los oradores griegos y romanos y hallarme en altura tanta que pudiera
             mi pluma eternizar la memoria de un ingenio que vivió para decoro, reputación y honor de
             su patria. Porque si alguna vez eché menos la gravedad del estilo y
             la alteza de la locución es ahora, para cifrar en breves razones y en sucinta relación
-            cuanto he podido alcanzar de don <name type="polemista">Luis de Góngora</name>. Nació jueves once de
+            cuanto he podido alcanzar de don <persName type="polemist" key="Góngora, Luis de">Luis de Góngora</persName>. Nació jueves once de
             julio, año de mil quinientos y sesenta y uno, en Córdoba, ciudad populosa, antigua y
               príncipe de la Andalucía, cuyo clima felicísimo,
             con generoso tesón y porfía noble, en todos siglos está enseñado a llevar grandes espíritus y los mayores del orbe todo.
             Nacieron <authority>Séneca</authority>, <authority>Lucano</authority>
-            primero; <authority>Juan de Mena</authority> después; don <name type="polemista">Luis</name> ahora, en
+            primero; <authority>Juan de Mena</authority> después; don <persName type="polemist" key="Góngora, Luis de">Luis</persName> ahora, en
             quien apuró lo más generoso y acendrado de su constelación
             estudiosa, tanto que para ser famoso este pueblo dichoso, todos le sobran, solo este
             hijo le bastaba, que ni la amenidad de su sitio, la fertilidad de sus campos, la
             excelencia de sus edificios y la nobleza de sus ciudadanos la darán tanto renombre como
             él, pues de la grandeza de Esmirna, ciudad principal, delicia de la Asia y patria de
-              <authority>Homero</authority>, solo el nombre de Homero sabemos.</p>
+            <authority>Homero</authority>, solo el nombre de Homero sabemos.</p>
           <p>Fue su padre don Francisco de Argote (hijo segundo de la casa que hoy posee don Diego
             Leonardo de Argote, del hábito de Santiago), corregidor de muchas ciudades de España y
             de esta villa de Madrid, corte de reyes, madre de santos, de pontífices, de monarcas y
             de ingenios. Sus antecesores, según acuerdan las historias, fueron de aquellos
             nobilísimos conquistadores de Córdoba con el rey Fernando el Santo, de cuyo valor dura
             hoy la tradición en la torre que llaman de Los Argotes. Tuvo por madre a doña Leonor de Góngora,
-            igual en la sangre a su marido, y por su virtud y dotes naturales, dignísima de <pb n="f. 1v"/> tanto hijo. De modo que por ambos lados fue don <name type="polemista">Luis
-            </name>de familia ilustre y de lo más noble de su ciudad, en que se
+            igual en la sangre a su marido, y por su virtud y dotes naturales, dignísima de <pb n="f. 1v"/> tanto hijo. De modo que por ambos lados fue don <persName type="polemist" key="Góngora, Luis de">Luis
+            </persName>de familia ilustre y de lo más noble de su ciudad, en que se
             verifica que no hace estorbo para la eminencia la nobleza, antes la realza y la da
             lucimiento mayor.</p>
           <p>Pasó en casa de sus padres los años de la niñez, con la educación decorosa que puede
@@ -102,7 +108,7 @@
             en Salamanca, Atenas insigne de España
             
             . Llevose el aplauso y los ojos de la admiración y la envidia, haciendo
-            a don<name type="polemista"> Luis</name> más bien visto que a muchos, y más singular que
+            a don<persName type="polemist" key="Góngora, Luis de"> Luis</persName> más bien visto que a muchos, y más singular que
             a todos la nobleza, la gala, el lucimiento y el ingenio que, desahogándose, empezó con el donaire, por el despejo, pasándose de lo bizarro a mostrar, entre lo
               picante, lo agudo.
               Conque
@@ -163,7 +169,7 @@
             pesquisa de la verdad, sino del donaire que venga al propósito, o cuanto más de parte de
             la malicia o de la <pb n="f. 2v"/> risa saliere, es más bien vista y recibida mejor. Que
             no sé qué dulzura o atracción tiene el escuchar decir mal de otros, que nos suenan mejor
-            los vituperios que los elogios, las calumnias que las alabanzas. Dolióse don <name type="polemista">Luis</name> cuando vio, enseñado de la cordura, el daño que causó con
+            los vituperios que los elogios, las calumnias que las alabanzas. Dolióse don <persName type="polemist" key="Góngora, Luis de">Luis</persName> cuando vio, enseñado de la cordura, el daño que causó con
             sus burlas en la mocedad, y entre el desabrimiento que le hacía haber deslucido a muchos, topó fácilmente con el escarmiento, que redujo a
             enmienda, moderando en sus mayores años el natural que corrió precipitado en los
             menores. Templole el arrepentimiento en la vejez aquellos verdores de la juventud,
@@ -182,7 +188,7 @@
             osaran intentarlas. Pues es inmodestia grande y
             desatención irreligiosa durar en el odio y, a título del carácter divinamente impreso,
             desmandarse a la sátira el que debe cuidar de la edificación de los fieles. Por esto don
-              <name type="polemista">Luis</name>, llegándole con el nuevo oficio y con la
+              <persName type="polemist" key="Góngora, Luis de">Luis</persName>, llegándole con el nuevo oficio y con la
             consideración el desengaño de que los asuntos festivos o libres ni decían con el decoro de su profesión, ni el
             estilo vulgar se ajustaba al estilo a que le llamaba su espíritu, bien hallado con su
               vocación y juzgando que la opinión
@@ -192,7 +198,7 @@
             elevada buscando un rumbo nuevo para la inmortalidad. Hallole felicísimamente,
             porque según él confesaba <pb n="f. 3r"/> públicamente, estudió la cultura en aquel peregrino ingenio, padre de la elocuencia de
             España, maestro sin duda de los maestros de ella, orador perfecto de nuestra edad, <authority>fray Hortensio Félix Paravicino</authority> que, entonces como ahora, era
-            asombro y ornamento de su nación. Decía don <name type="polemista">Luis</name> que la
+            asombro y ornamento de su nación. Decía don <persName type="polemist" key="Góngora, Luis de">Luis</persName> que la
             atención con que oía sus oraciones evangélicas o sermones en el púlpito, la frecuencia
             con que asistía en su celda y la conformidad del ingenio, le despertaron a que
             aspirase a la alteza del lenguaje y grandeza de su estilo, y para esta verdad cotejaba los versos que escribió los
@@ -201,7 +207,7 @@
             capaces de ardor tanto, intentó el poema del <title>Polifemo</title>. Escribiole, diole
             a luz con tanta admiración de los eruditos como envidia de los ignorantes. Fue esta de las novedades que escandalizó a los que,
             contentos con la llaneza del estilo en que se hacían lugar, llevaron
-            mal que se introdujese lo que no habían de saber imitar, a quien escribió don <name type="polemista">Luis</name> así:</p>
+            mal que se introdujese lo que no habían de saber imitar, a quien escribió don <persName type="polemist" key="Góngora, Luis de">Luis</persName> así:</p>
           <quote>
             <lg>
               <l>Pisó las calles de Madrid el fiero</l>
@@ -257,7 +263,7 @@
             </lg>
           </quote>
           <p>Del modo mismo se portaron sus émulos con la <title>Soledad segunda</title>, reprehendiendo el
-            estilo, las metáforas, las alusiones y demás tropos de que usa con frecuencia don <name type="polemista">Luis</name>, que se desahogó de las calumnias en otro soneto no menor
+            estilo, las metáforas, las alusiones y demás tropos de que usa con frecuencia don <persName type="polemist" key="Góngora, Luis de">Luis</persName>, que se desahogó de las calumnias en otro soneto no menor
             y más grave:</p>
           <quote>
             <lg>
@@ -284,7 +290,7 @@
             </lg>
           </quote>
           <p>Dejemos ahora el discurrir sobre el estilo, pues luego diremos de él en su defensa, y pasemos a las medras que don
-              <name type="polemista">Luis</name> tuvo y a los aumentos que alcanzó, pues no obstante
+              <persName type="polemist" key="Góngora, Luis de">Luis</persName> tuvo y a los aumentos que alcanzó, pues no obstante
             que fue el mayor hombre de España en su tiempo, se halló tan atrasado en las
             comodidades, que parece que la Fortuna, en odio de la Naturaleza, quería tenerle
               ajado en la necesidad <pb n="f. 4r"/> y hacerle que gastase de la paciencia y
@@ -301,8 +307,8 @@
               afuera de todo cuanto era provecho suyo, y cierto que es la pensión más penosa que tiene un entendido haber de
             hacer servil el talento, el ingenio y la erudición a disposición de los príncipes, que
             los manejan no más de para crédito o entretenimiento, sin cuidar del acrecentamiento de
-            lo que estiman. Nadie más bien visto que don <name type="polemista">Luis de
-              Góngora</name>, más bien admitido, más buscado de los mayores en calidad y en letras.
+            lo que estiman. Nadie más bien visto que don <persName type="polemist" key="Góngora, Luis de">Luis de
+              Góngora</persName>, más bien admitido, más buscado de los mayores en calidad y en letras.
             Y con todo este valimiento todo cuanto pudo conseguir en la monarquía pasada, con la
             inclinación que don Rodrigo Calderón, en lo más
             encumbrado de su privanza, le tuvo, y con la gracia que halló en el duque de Lerma, fue la
@@ -349,7 +355,7 @@
             Enterráronle en la santa iglesia de Córdoba, en la capilla de los Góngoras, sin poner
             epitafio sobre su sepultura. Pero mucha inscripción es el silencio y, a quien sirve de
             sepulcro todo el orbe, su mismo nombre es el más capaz epitafio.</p>
-          <p>Fue don <name type="polemista">Luis</name> de proporcionada estatura, ni grande ni
+          <p>Fue don <persName type="polemist" key="Góngora, Luis de">Luis</persName> de proporcionada estatura, ni grande ni
             pequeña. El rostro aguileño, la frente espaciosa, que tiraba a calvo, los ojos grandes,
             la nariz corva y afilada, la color morena algo, la barba
               decente, y en todo con señales de hombre insigne. El semblante era afable, cortés y apacible; su
@@ -368,10 +374,10 @@
             en los fundamentos. La erudición que alcanzó no fue muy honda, pero fue la bastante para
             que sus obras no carezcan de los ritos, fórmulas, costumbres y ceremonias de los
             antiguos en lo místico, alegórico, ritual y mitológico. Hállanse en las locuciones de
-            don <name type="polemista">Luis</name> muchas imitaciones de <authority>Eurípides</authority>, <authority>Calímaco</authority>, <authority>Apolonio Rodio</authority>, <authority>Nonio Panopolitano</authority>, <authority>Quinto Calabro</authority>, <authority>Homero</authority>, <authority>Museo</authority> y demás poetas griegos. En
+            don <persName type="polemist" key="Góngora, Luis de">Luis</persName> muchas imitaciones de <authority>Eurípides</authority>, <authority>Calímaco</authority>, <authority>Apolonio Rodio</authority>, <authority>Nonio Panopolitano</authority>, <authority>Quinto Calabro</authority>, <authority>Homero</authority>, <authority>Museo</authority> y demás poetas griegos. En
             muchas partes se roza con las oraciones de <authority>Aristéneto</authority> y <authority>Dión Crisóstomo</authority>, con lo venusto de <authority>Anacreonte</authority>, <authority>Heliodoro</authority> y
-              <authority>Aquiles Tacio</authority>, no porque a mi juicio los
-            viese, sino porque fue tan grande el natural de don <name type="polemista">Luis</name>,
+            <authority>Aquiles Tacio</authority>, no porque a mi juicio los
+            viese, sino porque fue tan grande el natural de don <persName type="polemist" key="Góngora, Luis de">Luis</persName>,
             que con él solo pudo igualar los griegos y latinos, pues, si los vio para
             imitarlos, fue mucho, y si no los vio, fue <pb n="f. 5v"/> mucho más. Quedaron los
             escritos de este insigne varón con su muerte desamparados y sin quien cuidase de ellos,
@@ -381,8 +387,8 @@
               nombre. Tan otras salieron de las que
             eran antes, que llevaron bien sus afectos que se recogiesen de orden justificada y
               soberana. No faltó, pues, quien, con la afición de amigo y la
-            piedad de noble, tratase de conservarlas, acudiendo al reparo de la opinión de don <name type="polemista">Luis</name>, que iba desmoronada. Y así, <authority>don Antonio Chacón, señor de
-              Polvoranca,</authority> caballero de grandes partes, que, con la familiaridad que tuvo con
+            piedad de noble, tratase de conservarlas, acudiendo al reparo de la opinión de don <persName type="polemist" key="Góngora, Luis de">Luis</persName>, que iba desmoronada. Y así, <persName type="polemist" key="Chacón, Antonio" precision="3">don Antonio Chacón, señor de
+              Polvoranca,</persName> caballero de grandes partes, que, con la familiaridad que tuvo con
             él alcanzó también mano para recogerlas todas habiéndole comunicado lo más retirado de
             ellas, las copió todas en sutiles vitelas, en bizarros caracteres y en costosas encuadernaciones, en cuatro
               tomos, las consagró todas al
@@ -394,15 +400,15 @@
             pluma, con título de prefación, donde cumplió con la profesión de amigo legalmente, dictando también
             para su retrato aquella estancia que va en el que yo estampo en este libro, sin querer declarar su nombre. Ambas cosas deseé
             yo imprimir, pero no pude conseguir de su modestia si no es la una, y esa con dificultad
-            no poca. Ofrecí yo, en vida, a don <name type="polemista">Luis</name>, el comentarle sus obras, y aunque él lo rehusó, entre la
+            no poca. Ofrecí yo, en vida, a don <persName type="polemist" key="Góngora, Luis de">Luis</persName>, el comentarle sus obras, y aunque él lo rehusó, entre la
             modestia y el agradecimiento, yo he
             querido cumplir mi obligación y estudiar de camino sus escritos para que, arrimado a su
             fama, consiga por él algún género de opinión. Salen ahora las obras más principales en este primer tomo, para que en
-            el segundo les quede lugar a las menores, si bien varón tan grande como don <name type="polemista">Luis</name> merecía espíritu más elevado que el mío. Y no entiendan sus enemigos que ha muerto, pues en sus obras vive
+            el segundo les quede lugar a las menores, si bien varón tan grande como don <persName type="polemist" key="Góngora, Luis de">Luis</persName> merecía espíritu más elevado que el mío. Y no entiendan sus enemigos que ha muerto, pues en sus obras vive
             inmortal contra el tiempo, y a pesar de las envidias ha de durar su memoria eterna
             contra el tesón de los años y la porfía de los siglos, que en cuanto el mundo
-            permaneciere, ha de estar constante el nombre heroico de don <name type="polemista">Luis de Góngora</name>.</p>
-          <p>Y a cuya memoria eterna, y a cuyas cenizas doctas, triste y piadosamente, don <name type="polemista"><hi rend="i">Joseph Pellicer de Salas y Tovar</hi></name> escribió
+            permaneciere, ha de estar constante el nombre heroico de don <persName type="polemist" key="Góngora, Luis de">Luis de Góngora</persName>.</p>
+          <p>Y a cuya memoria eterna, y a cuyas cenizas doctas, triste y piadosamente, don <hi rend="i"><persName type="polemist" key="Pellicer, José">Joseph Pellicer de Salas y Tovar</persName></hi> escribió
             este epitafio para que sirva en su monumento.</p>
         </div>
       </div>

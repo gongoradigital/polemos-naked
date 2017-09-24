@@ -1,0 +1,582 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prólogo a las obras de Fray Luis de León</title>
+        <author key="Quevedo, Francisco de">Francisco de Quevedo</author>
+        <editor>Lía Schwartz, Samuel Fasquel</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pedro Conde Parrado</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Felipe Joannon</name>
+          <resp>stylage et édition word</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2017"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
+        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1631"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <!--
+      <div>
+        <head>Datos bibliográficos</head>
+        <table>
+          <row>
+            <cell>Editor científico</cell>
+            <cell>Lía SCHWARTZ y Samuel FASQUEL</cell>
+          </row>
+          <row>
+            <cell>Autor</cell>
+            <cell>Francisco de QUEVEDO</cell>
+          </row>
+          <row>
+            <cell>Destinatario / dedicatario</cell>
+            <cell>Conde Duque de OLIVARES</cell>
+          </row>
+          <row>
+            <cell>Título</cell>
+            <cell>«Al excelentísimo señor Conde-Duque, gran canciller, mi señor», en fray Luis de León, <hi rend="i">Obras propias y traduciones latinas, griegas y italianas con la paráfrasi de algunos psalmos y capítulos de Job</hi> […] (Madrid: en la imprenta del reino, 1631).</cell>
+          </row>
+          <row>
+            <cell>Fecha</cell>
+            <cell>1629-07-21 para el texto que editamos. Pero la publicación es de 1631</cell>
+          </row>
+          <row>
+            <cell>Fuentes</cell>
+            <cell>
+              <p rend="noindent">BNM U/4479</p>
+              <p rend="noindent">HSA, New York</p>
+            </cell>
+          </row>
+          <row>
+            <cell>Ediciones modernas</cell>
+            <cell>Rivers (1998) y Azaustre (2003b)</cell>
+          </row>
+          <row>
+            <cell>Responde a otro texto</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Referencias a la polémica</cell>
+            <cell/>
+          </row>
+        </table>
+      </div>
+      -->
+    
+    <body>
+      <div>
+        <index indexName="resp" n="Quevedo, Francisco de"/>
+        <index indexName="date" n="1631"/>
+        <head>Texto de la edición</head>
+        <p rend="center"><pb n="7"/> A don Manuel Sarmiento de Mendoza, canónigo magistral de la
+          Santa Iglesia de Sevilla.</p>
+        <p/>
+        <p rend="center">Don Francisco de Quevedo Villegas</p>
+        <p/>
+        <p>Si de la manera que vuestra merced ha sido pródigo en alentar los varones
+          que en su tiempo han sido insignes en la virtud y las letras, cuidando con caridad
+          desvelada de preservar sus memorias y alargar la vida a sus escritos, hubiera desembarazado su modestia de escrúpulos encogidos, en que
+          detiene grandes tesoros de sus vigilias en entrambos testamentos y en toda lección, con
+          mejor fruto se hubiera gastado el papel estos años. Dejome vuestra merced <pb n="8"/>
+          estas obras grandes en estas palabras doctas y estudiadas, para que sirviesen de antídoto
+          en público a tanta inmensidad de escándalos que se imprimen, donde la ociosidad estudia
+          desenvolturas, cuanto más sabrosas, de más peligro. Yo obedecí a su orden de
+          vuestra merced y a mi deseo, dedicándolas al Conde-Duque, en cuya grandeza deben tener
+          amparo, y en cuyo talento con eminencia pueden hallar cabal la estimación de su precio.
+          Así me desempeño con el autor y con vuestra merced, a quien dé Dios larga vida con buena
+          salud.</p>
+        <p/>
+        <p rend="center"><pb n="15"/> Al Excelentísimo Señor Conde-Duque,</p>
+        <p rend="center">Gran Canciller, mi señor</p>
+        <p/>
+        <p>Por sí hablan, excelentísimo señor, las obras del reverendísimo fray Luis de León con
+          mejor pluma y lengua que lo podrá hacer algún apasionado suyo. Son en nuestro idioma el
+          singular ornamento y el mejor blasón de la habla castellana, con inclinación tan severa a los estudios varoniles que, aun en el desenfado de las
+          vigilias positivas y escolásticas –de
+          esto le sirvieron los consonantes–, nos dio <pb n="16"/>fácil y docta la filosofía de las virtudes, y
+          dispuso tan apacibles a la memoria los tesoros de la verdad, que con logro del
+          entendimiento ocupa su recordación que, faltos de este decoro, embarazan escritos o vanos o
+            escandalosos.</p>
+        <p>En la parte primera, que es toda de intentos que eligió la madurez de su seso, la
+          dicción es grande, propia y hermosa, con facilidad de tal casta que ni se desautoriza con
+          lo vulgar ni se hace peregrina con lo impropio. Todo su estilo con
+          majestad estudiada es decente a lo magnífico de la sentencia, que ni ambiciosa se descubre
+          fuera del cuerpo de la oración, ni tenebrosa se esconde
+          –mejor diré que se pierde– en la confusión afectada de figuras y en la inundación de
+          palabras forasteras. La locución esclarecida hace
+          tratables los retiramientos de las ideas y
+          da luz a lo escondido y ciego de los conceptos. Esto mandaron con imperio los que escribieron artes<pb n="17"/> de
+          poesía, y escribieron de esta suerte los que tienen el imperio de los poemas. Y en todas lenguas aquellos solos merecieron
+          aclamación universal que dieron luz a lo oscuro y facilidad a lo dificultoso; que
+          oscurecer lo claro es borrar, y no escribir; y quien habla lo que otros no entienden,
+          primero confiesa que no entiende lo que habla. <authority>Plinio</authority><title>, Naturalis Historia</title>,
+          cap. 22, lib. 11: <quote><hi rend="i">Irridenda facundia quae rem non explicat, sed
+              inuoluit</hi></quote> (Hase de menospreciar la facundia que antes envuelve la
+          sentencia que la declara).</p>
+        <p>Y si los que afectan esta noche en sus obras quieren alabanza por decir tiene dificultad
+          el escribir nudos ciegos y no ser inteligibles,
+            <authority>san Jerónimo</authority>
+          <title>ad Nepotianum</title> los desnuda de esta presunción cuando dice: <quote><hi rend="i">Nihil tam facile quam vilem plebeculam et indoctam contionem linguae
+              volubilitate decipere, quae quidquid non intelligit plus miratur.</hi></quote> (No hay
+          cosa tan fácil <pb n="18"/> como engañar la indocta plática y la vil plebe con la
+          tarabilla de la lengua; porque la gente baja y ignorante más admira lo que menos
+            entiende).</p>
+        <p>Dispuesto este discurso con tal autoridad, propondré el texto del escándalo, que en la
+            <title>Poética</title> de <authority>Aristóteles</authority> dice así: <quote><hi rend="i">λέξεως δὲ ἀρετή</hi>;</quote> basta, porque haga más fe, empezar el texto de
+          que es tal la versión: <quote><hi rend="i">Dictionis autem virtus et perspicua sit,
+              non tamen humilis; quae igitur ex propriis nominibus constabit maxime perspicua erit;
+              humilis tamen, exemplum sit Cleophontis Stheneli</hi><hi rend="i">; quae poesis illa veneranda, et omne plebeium excludens,
+              quae peregrinis utetur vocabulis: peregrinum voco varietatem linguarum, translationem,
+              extensionem, tum quodcunque a proprio alienum est.</hi></quote> (La virtud de la
+          dicción ha de ser perspicua, no humilde: la que constare de nombres propios será
+          perspicua; sea ejemplo de la humilde la poesía de Cleofonte y de Esténelo. Aquella es venerable y
+          excluye todo lo que es <pb n="19"/> plebeyo, que usa de vocablos peregrinos; peregrino
+          llamo la variedad de lenguas, translación, extensión, y todo lo que es ajeno de lo
+            propio).</p>
+        <p>Este lugar del Filósofo, a los que descansaron en este punto la lección
+          –temiendo por larga jornada la de su desengaño, estando en otro renglón inmediato– ha dado
+          ocasión de errar, no modo de escribir. Son hombres que despiden el estudio en llegando a
+          la cláusula que desean.
+          Aclaman estos renglones por texto expreso, en disculpa de los barbarismos y solecismos que
+          escriben, de que resulta la enigma. Pocos
+          pasos que dieran los ojos en el libro, leyeran el desengaño en estas palabras
+          consecutivas: <quote><hi rend="i">Verum si quis haec omnia simul congerat, vel aenigma
+              efficiet, vel barbarismum. Aenigma quidem si translationes, barbarismum quidem si
+              linguas</hi></quote> (Empero si alguno rebuja todas estas
+          cosas juntas, o hará enigma o barbarismo: enigma, si amontona translaciones; barbarismo<pb n="20"/>, si lenguas).</p>
+        <p>Aquel <hi rend="i">vel</hi> que la versión puso, <authority>Aristóteles</authority> en el texto lo usurpa por <hi rend="i">et</hi>, <quote><hi rend="i">ἠ αἴυιγμα</hi><hi rend="i"> ἠ
+              βαρβαρισμός</hi></quote>, y débese entender así. Poco duró el alborozo a los
+          mezcladores de lenguas y translaciones; y porque no se dude qué es enigma en estos
+          estilos, el propio <authority>Aristóteles</authority> prosiguiendo lo dice:
+              <quote><hi rend="i">Aenigmatis forma ea erit oratio scilicet quae ex minime
+              congruentibus ex se constet</hi></quote> (Aquella será la forma del enigma que
+          constare de cosas menos congruentes entre
+          sí). <quote><hi rend="i">Hoc itaque per nominum compositionem minime effici potest; per
+              translationem vero potest, ut «vidi igne, atque aere virum viro inhaerentem
+            unum»</hi></quote> (Y esto por la composición de los nombres no se puede hacer; puede
+          hacerse por la translación de esta manera: «Vi, con fuego y metal, varón a varón encima
+            uno»). Quiso decir
+          el escritor enigmático: <hi rend="i">Vidi virum super viro cucurbitulam aeneam
+            interuentu</hi><hi rend="i"> ignis
+            applicantem</hi>: fue translación <hi rend="i">fuego</hi> por <hi rend="i">llama</hi>, y
+          segunda translación <hi rend="i">metal</hi> por <hi rend="i">cucurbita</hi><pb n="21"/>, y
+          tercera <hi rend="i">aglutinare</hi>, que es metáfora según la proporción. No
+          me malquistaré con aplicar esto, ni decir de qué estilo sea apodo: desde el texto del
+            Filósofo es fiscal la cláusula de muchos escritos.</p>
+        <p>Hablar con vuestra excelencia en verificar este descamino de la pluma es la autoridad
+          mayor, ya se ve; más docta, ya se sabe, pues siempre ha escrito tan fácil nuestra lengua y
+          tan sin reprensión como se ha leído en la instrucción que
+          vuestra excelencia dio al duque de Medina de las Torres, su hijo: tratado que juntamente
+          le mostró buen padre y buen maestro; discurso que atesorarán las edades por venir, y
+          que obedecerán en ellas los que en grandes lugares quisieren asegurar el acierto y hacer
+          bienquista la virtud eminente en la buena fortuna. Escribió vuestra excelencia otra carta,
+          que imprimió el duque de Carpiñano, donde con las dudas enseña y con las preguntas
+          reprende los halagos que desecha, y pidiendo vuestra excelencia <pb n="22"/>
+          advertimientos para la tolerancia de lo molesto en las audiencias, enseñó al autor lo que
+          debió escribir y lo que pudo excusar, sin afectación ni dificultades, enseñando juntamente
+          a escribir y a obrar. Ni ha mostrado vuestra excelencia afición a otro estilo. Admitió con benignidad las obras de <authority>Fernando de Herrera</authority>, tesoro de la cultura española, siempre admirado de los
+          buenos juicios. Prendas son todas que alentaron este discurso para enriquecerse con su
+          nombre y asegurarse, pues sale cobrando enemigos de balde.</p>
+        <p>Pues lo que <authority>Aristóteles</authority> dice no es malicia mía, y menos
+          cuando <authority>Demetrio Falereo</authority>, en el libro <title>De
+            elocutione</title>, parece que le traslada y le repite: <quote><hi rend="i">Dictionem
+              autem in hac figura orationis exquisitam et immutatam nec nimis vulgarem oportet esse;
+              sic enim amplitudinem et dignitatem habebit. Propria autem et usitata dictio dilucida
+              quidem semper est; verum hoc</hi></quote><pb n="23"/><quote><hi xml:lang="fr" rend="i"> ipso facile contemnitur. Primum igitur translationibus est utendum (hae enim vel
+              maxime et voluptatem et amplitudinem conferunt orationibus), non tamen crebris et
+              frequentibus; alioquin dithirambos loco orationis scribemus, neque longe petitis, sed
+              ex ipsa re et ex simile sumptis</hi></quote>. (Conviene
+          que sea la dicción en esta figura de oración, exquisita, inmutable y no demasiadamente
+          vulgar; así tendrá amplitud y dignidad. Pero la dicción propia y usada siempre es
+          dilúcida, pero por eso se desprecia fácilmente. Lo primero se ha de usar de translaciones,
+          porque éstas dan autoridad y ser a la oración; mas no han de ser frecuentes. De otra
+          suerte, en lugar de oración haremos ditirambos. Y no se han de buscar de cosas remotas,
+          sino de las propincuas y semejantes). No deja <authority>Demetrio</authority> disculpa a los que
+          interpretan mal al <authority>Filósofo</authority>; y es cierto que todos aborrecieron la afectada
+          oscuridad y los enigmas.</p>
+        <p>Grande ejemplo es el que <pb n="24"/> trae <authority>Erasmo</authority> en las
+          <title>Apophtegmas de los filósofos</title>, tratando de <authority>Augusto</authority>: <quote><hi rend="i">Maecenas, vir alias
+              laudatus, in stilo lasciuiebat verbis affectatis et compositione insolenti frequenter
+              indulgens. Augustus contra, verbum insolens quasi scopulum fugiendum esse
+            dicebat</hi></quote> (Mecenas, por otras virtudes varón muy celebrado, escribió con
+          estilo lascivo y afectado, y se dejaba llevar de la composición insolente. Al contrario
+          Augusto, la palabra insolente, decía, se debía huir como escollo). Y refiere que sólo
+          cuando escribía a Mecenas, por burlar de él le escribía en aquel lenguaje ridículo; y
+          refiere estas locuciones: <quote><hi rend="i">Vale, mel gentium, metuelle, ebur ex
+              Hetruria, laser Aretinum, adamas Supernas, Tiberinum margaritum, Cilneorum smaragde,
+              iaspis figulorum</hi></quote>. Esto más fue dar vaya a Mecenas que fin a su carta. Y prosigue la nota: <quote><hi rend="i">Nec
+              Tiberio pepercit interdum reconditas et obsoletas voces aucupanti. Marcum Antonium
+              increpabat velut ea scribentem quae homines mirentur</hi></quote><pb n="25"/><quote><hi rend="i"> potius quam intelligant</hi></quote> (Ni perdonó a Tiberio, que
+          a veces usaba de voces recónditas y por la antigüedad desechadas de la conversación.
+          Reprendía a Marco Antonio, como a hombre que escribía lo que admirasen los oyentes, y no
+          lo que entendiesen). Este lugar es sentencia contra los que escriben y los que los admiran
+          porque no los entienden, juntándole el lugar que cité de <authority>san
+            Jerónimo</authority>; habla de la plebe y dice: <quote><hi rend="i">Quae quidquid non
+              intelligit plus miratur</hi></quote> (Que admira más lo que no entiende). Y Augusto reprueba en Marco Antonio que escribe antes
+          lo que admiran
+          que lo que entienden. Crédito y respeto se debe al parecer de Augusto, y veneración cuando le apadrina
+          en esta parte tan gran Padre de la Iglesia.</p>
+        <p>Reprendió estos escritores, como si hoy los leyera, <authority>Francisco
+            Andreini de Pistoia</authority>, cómico geloso, en su libro cuyo título es <title>Le Bravure <pb n="26"/> del Capitan
+            Spavento</title>, fol. 65, pág. 1: <quote><hi rend="i">Io v’intendo: voi alle volte usate certe parole che non sono intese così da
+              ogn’uno; e fate come fanno certi componitori moderni, i quali gonfiano gli scriti loro
+              d’alcune parole forestiere e composite, che la materia ch’essi tratano</hi><hi rend="i"> diventa non volendo la predica del Piovano Arlotto, la quale non era intesa ne da
+              lui, ne da chi l’ascoltava</hi></quote>. (Hacéis como hacen ciertos poetas modernos,
+          que hinchan sus escritos de algunas palabras forasteras y compuestas, que lo que escriben,
+          sin querer se vuelve plática de Piovano Arlotto, que ni él la entendía ni los que le
+            oían).</p>
+        <p>Este modo de sentir, con suma elegancia se oye en el donaire de nuestro <authority>Marcial</authority>, lib. X, epig. XXI:</p>
+        <quote>
+          <l>Scribere te quae vix intelligat ipse Modestus</l>
+          <l>et vix Claranus, quid, rogo, Sexte, iuvat?</l><pb n="27"/>
+          <l>Non lectore tuis opus est, sed Apolline libris:</l>
+          <l>iudice te, maior Cinna Marone fuit.</l>
+          <l>Sic tua laudentur sane: mea carmina, Sexte,</l>
+          <l>grammaticis placeant, et sine grammaticis.</l>
+        </quote>
+        <quote>
+          <l>¿Qué aprovecha escribir lo que Modesto</l>
+          <l>y Clarano
+            entender podrán apenas,</l>
+          <l>supersticioso Sexto?</l>
+          <l>No han menester lector tus libros, sólo</l>
+          <l>han menester por adivino a Apolo.</l>
+          <l>Si lo juzga tu musa peregrina,</l>
+          <l>mejor poeta que Marón es Cina.</l>
+          <l>Tal alabanza tus escritos gocen;</l>
+          <l>pero mis versos, Sexto, yo deseo</l>
+          <l>que sin gramaticales prevenciones</l>
+          <l>agraden a los más gramaticones.</l>
+        </quote>
+        <p>Y <authority>Estacio</authority>, en el libro V de las <title>Silvas</title> (<hi rend="i">Epicedion in patrem</hi>), hablando de los poetas, cuando trata de Licofrón,
+          que <pb n="28"/> fue quien en griego enseñó esta secta, dice: <quote><hi rend="i">Carmina
+              Battiade latebrasque Licofronis atri</hi></quote>: (escondrijos del ennegrecido
+            Licofrón). No se pudieron estudiar palabras de
+          mayor oprobio: <hi rend="i">latebras atri</hi> (escondrijos del denegrido Licofrón); y
+          Licofrón aún tuvo disculpa, pues escribió un vaticinio que llama <title>Alexandra</title>. Que la palabra <hi rend="i">ater</hi> es
+          condenada en el estilo de los poetas, consta de <authority>Horacio</authority> en
+          la <title>Arte poética</title>:</p>
+        <quote>
+          <l>Vir bonus et prudens versus reprehendit inertes,</l>
+          <l>culpabit duros, incomptis allinet atrum</l>
+          <l>transuerso calamo signum, ambitiosa recidet</l>
+          <l>ornamenta, parum claris lucem dare coget</l>
+        </quote>
+        <p>Tradúcelos <anchor xml:id="_GoBack"/>con elegancia el docto y ingenioso <authority>Vicente Espinel </authority>en sus <title>Rimas</title>:</p>
+        <quote>
+          <l>El varón bueno y de prudente pecho</l>
+          <l>los versos duros libremente culpa, </l><pb n="29"/>
+          <l>los que carecen de arte reprehende,</l>
+          <l>a los mal adornados, con la pluma</l>
+          <l>una negra señal los pone encima.</l>
+          <l>La demasía de ornamento corta,</l>
+          <l>los poco claros manda que se aclaren.</l>
+        </quote>
+        <p>De suerte que no sólo es reprensible escribir oscuro, sino poco claro. No le perdonó esta
+          reprensión al poeta oscuro en la <title>Alexandra</title>
+          <authority>Falereo</authority> cuando dijo: <quote><hi rend="i">Dictione iniqua.
+              Aristoteles ait frigidum quatuor modis fieri, scilicet: quando utimur peregrino et
+              obscuro vocabulo, ut Licofron, Xerxem, Pelorium hominem</hi></quote><seg rend="edcitacorta">.</seg> (Condición reprobada.
+          Aristóteles dice que la frialdad de cuatro maneras se escribe, conviene a saber: cuando
+          usamos de vocablo peregrino y oscuro, como Licofrón hablando de Jerjes, hombre pelorio).
+          Súplese esto en <authority>Falereo</authority> del tercer libro de la
+          <title>Retórica</title> de <authority>Aristóteles</authority>.</p>
+        <p>¿Adónde irán por defensa los que, escribiendo
+          hoy de galantería a una afición amorosa, escriben estos <pb n="30"/> escondrijos
+          denegridos, cuando <authority>Propercio</authority> los reprende (lib. I, elegía
+            9) con tan ingeniosos gritos?:</p>
+        <quote>
+          <l>Quid tibi nunc misero prodest graue dicere carmen</l>
+          <l>aut Amphioneae moenia flere lira?</l>
+          <l>Plus in Amore valet Mimnermi versus Homero:</l>
+          <l>carmina mansuetus lenia quaerit amor.</l>
+          <l>I quaeso et tristes istos depone libellos</l>
+          <l>et scribe quod quaeuis nosse puella vellit.</l>
+        </quote>
+        <p>Yo con alguna licencia lo imité en estos versos, que pueden pasar por traducción:</p>
+        <quote>
+          <l>¿De qué te sirven, di, los versos graves,</l>
+          <l>ni de Tebas llorar los fuertes muros,</l>
+          <l>de Troya el fuego, ni los hechos duros</l>
+          <l>que los griegos hicieron en las naves?</l>
+          <l>Más en amor Mimnermo blando agrada</l>
+          <l>que docto y grande el sin igual Homero:</l>
+          <l>condena blando amor el verso fiero,</l>
+          <l>y dios desnudo pluma ensangrentada. </l><pb n="31"/>
+          <l>Deja pues de llorar la muerte fiera,</l>
+          <l>que a Turno quiso dar el hado adverso;</l>
+          <l>y escribe en blando y dulce y fácil verso</l>
+          <l>cosas que cualquier niña entender pueda.</l>
+        </quote>
+        <p>El arte es acomodar la locución al sujeto. Todo lo dijo <authority>Petronio
+            Árbitro</authority> mejor que todos. Oiga vuestra excelencia sin
+          prolijidad la arte poética en dos renglones: <quote><hi rend="i">Effugiendum est ab omni
+              verborum (ut ita dicam) vilitate et sumendae voces a plebe semotae, ut fiat “Odi
+              profanum vulgus, et arceo”</hi></quote>
+          (Hase de huir de toda la vileza de los vocablos, y hanse de escoger las voces apartadas de
+          la plebe, porque se pueda decir: aborrecí el vulgo profano). Mas débese juntar esto con lo
+          que dijo al principio de su libro (que más parece, según viene a propósito, fingido que
+            citado); él dice con quienes habla: <quote><hi rend="i">Pace vestra liceat dixisse primi omnem eloquentiam perdidistis: leuibus enim
+              atque inanibus sonis ludibria quaedam excitando</hi>, <pb n="32"/><hi rend="i">
+              fecistis ut corpus orationis eneruaretur et caderet. Nondum umbraticus doctor ingenia
+              deleuerat […]. Grandis et, ut ita dicam, pudica oratio non est maculosa, nec turgida,
+              sed naturali pulcritudine exurgit. Nuper ventosa istaec et enormis loquacitas Athenas
+              ex Asia commigrauit animosque iuuenum ad magna surgentes veluti pestilenti quodam
+              sidere adflauit, ac ne carmen quidem sani coloris enituit</hi></quote>. (Séame
+          lícito decir con vuestra licencia que sois los primeros que echaron a perder toda la
+          elocuencia, y componiendo cosas ridículas, con vanos y leves sones, hicisteis que el
+          cuerpo de la oración desmayado cayese. Aún no había el doctor oscuro y sombrío borrado los
+            ingenios. La grande y decorosa oración no es monstruosa y hinchada, antes se
+          endereza con natural hermosura. Poco ha que esta enorme y fanfarrona parlería de Asia vino
+          a Atenas, y los ánimos de los mancebos que se alentaban a grandes impresas los hirió de
+          contagio a manera de pestilencial constelación, y de verdad ni un verso se vio de <pb n="33"/> buen color). Siempre las razones de <authority>Petronio</authority>
+          en otra pluma echarán menos sus palabras; mas si yo bien las desaliño con mi versión, no
+          las he borrado las señas que da del doctor umbrático, de la parlería fanfarrona y del
+          verso de mal color. Ni sé qué codicia o qué gloria mueve a los charlatanes de mezclas y a
+          los que escriben taracea de razonar prosa espuria y voces advenedizas y desconocidas, de
+          tal suerte que una cláusula no se entiende con la otra. No tiene mucha edad este delirio, que pocos años ha que algunos
+          hipócritas de nominativos empezaron a salpicar de latines nuestra habla, que, gastando de su caudal, enriqueció a Europa con tan
+          esclarecidos escritores en prosa y en versos. Y hoy duran de aquel tiempo muchos que
+          sirven de antídoto con sus obras a la edad, preservándola de la inundación de jerigonzas;
+          y otros que hoy florecen con admiración de las naciones. <pb n="34"/> Sabrosamente y con sazón bien elegante lo dijo
+            <authority>Antífanes</authority>, hablando de Filógeno en sus fragmentos: <quote><hi rend="i">Longe sane est supra poetas omnes Philogenus: primum enim nominibus propriis
+              et communibus utitur ubique, deinde modorum et cantuum variationibus et chromatis, ut
+              probe Deus in hominibus temperabit; erat peritus ille et vere musicam tenebat. Qui
+              vero nunc sunt poetae, hederaceos, fontanos et floridos cantus ac numeros vanis
+              nominibus implicantes, edunt alienos modos: […] utrum cum dicturus sis ollam, dicam
+              “torni purgamentum fabrefactum, in alieno matris assatum tecto”? An nouelli vero
+              “gregis in se coagula lactinutria subiungi corpora irretientem”? Dii boni, scilicet et
+              necabis me. Si mihi notis verbis et plane dicas “carnium ollam”, bene dices</hi></quote>. (Con muchas ventajas
+          es mejor poeta que todos los demás Filógeno. Lo primero, usa de nombres propios y comunes
+          en cualquiera parte; demás de esto, usa de diferentes modos y variedades<pb n="35"/> de
+          cantos y tonos, como Dios elegantemente ordenó en los hombres; era doctísimo, y sabía con
+          eminencia la música. Mas los poetas que se usan, enyedrados, fontanos y floridos, que
+          revuelven los cantos y los números con nombres vanos, estos sacan composiciones
+          desconocidas: […] ¿por ventura, queriendo
+          decir «olla», será bien decir «del torno purgamento labrado hecho de la tierra, cocido en
+          ajeno techo de la madre», o «los cuerpos del
+          tierno ganado que juntan en sí los coágulos que apremian mezclados los lactinutrios»? ¿Por
+          ventura acabarías conmigo si dijeses con palabras conocidas y claramente: «carne en la
+          olla», que era hablar bien?).
+          Lugar es ajustado y que dice lo uno y lo otro.</p>
+        <p>Cansose de este lenguaje broma el sumamente elegante <authority>Aristófanes</authority> en la comedia intitulada <title>Ranas</title>, que hasta el título
+          de la comedia se apropia al estilo, que hace ruido desapacible y no se entiende, y es, por
+          lo oscuro y turbio, música del cieno. Acto 4, <pb n="36"/> escen. 2: <quote><hi rend="i">Omnino igitur decet utiliter nos loqui. Euri.: An ergo Licabetos et Parnasos cum tu
+              memoras, hoc sit bona et aequa dicere quem humane loqui conuenit</hi>?</quote> (De todas maneras,
+          conviene hablar bien con utilidad. <hi rend="i">Eurípides</hi>: ¿Por ventura, cuando tú
+          dices «Licabetos» y «Parnasos», es hablar bien y ajustadamente, cuando conviene hablar
+          como humano?).</p>
+        <p>Excelentísimo señor, hablar como humano llamaban la habla decente y propia a lo que se
+          escribía; así <authority>Petronio</authority> se burló del poeta: <quote><hi rend="i">Saepius poetice quam humane locutus es</hi></quote> (Más veces has hablado
+          como poeta que como humano).
+            Gravemente
+          afrenta estos fanfarrones de voces <authority>Epicteto</authority> (<title>apud
+            Arrianum lib. Disertationum</title>) con tales palabras: <quote><hi rend="i">Scholasticum esse animal quod ab omnibus irridetur</hi></quote> (El culto es animal
+          de quien todos se ríen). No es achaque de mi malicia traducir la palabra
+          escolástico ‘culto’: véase lo que dice <authority>Ritershusio</authority> sobre
+          Salviano en esta propia palabra y sentencia.</p>
+        <p>De todo esto se asegura quien ama la propiedad y la luz, y la escribe y las razona. Severo<pb n="37"/> censor es <authority>Quintiliano</authority>, y en el lib. 8 de sus <title>Instituciones</title>, cap. 3, alaba
+          en <authority>Virgilio</authority> lo que un mal culto usurpador de este buen
+          renombre arrojara por bajo y asqueroso. <authority>Virgilio</authority> en la
+            <title>Geórgica</title>, libro 4: <quote><hi rend="i">Saepe exiguus mus</hi></quote>
+          (Muchas veces el pequeño ratón). Pondera el severo
+          <authority>Fabio</authority>: <quote><hi rend="i">Nam epitheton exiguus aptum proprium efficit, ne plus expectaremus; et casus
+              singularis magis decuit, et clausula ipsa unius syllabae</hi><hi rend="i"> non usitata addit
+              gratiam; imitatus est utrunque Horatius: “Nascetur ridiculus mus”</hi></quote> (Porque el epíteto pequeño, acomodado y propio, previene para
+          que no esperemos más, y el caso singular fue más conveniente, y la cláusula de una sílaba
+          añadió gracia. Las dos cosas imitó Horacio: Nacerá el ridículo ratón).</p>
+        <p>Diferentes cosas estima <authority>Quintiliano</authority> que los supersticiosos
+          y legos. En estas cosas se debe imitar a los poetas, no en los achaques que no pudieron
+          excusar por la ley del ritmo: como las transposiciones latinas que introdujo la posición
+          de vocales mudas y líquidas, no el estudio, sino las breves o largas, como se ve:<pb n="38"/>
+          <quote><hi rend="i">Inde toro pater Aeneas sic orsus ab alto</hi></quote>. (Desde el asiento padre Eneas así habló alto). Más ridícula cosa
+          es que el ratón de <authority>Horacio</authority> imitar esto, donde no hay la
+          propia condición de ritmo. Y aun de esta mala
+          invención no han sido autores los que presumen de serlo, que ya había escrítose esta demasía en España, como se
+          lee en muchas partes del <title>Cancionero General</title> más antiguo, en <authority>Boscán</authority> y <authority>Garcilaso</authority>. Alguna vez <authority>Francisco de Figueroa</authority>
+          dijo: <quote>Estos y bien serán pasos contados</quote>. El
+          capitán <authority>Francisco de Aldana</authority>, doctísimo español,
+            elegantísimo poeta, valiente y famoso soldado en muerte y en vida, dijo: <quote>Tantas le viste flores, que parece</quote>. Léese en <authority>Soto Barahona</authority> y en don <authority>Alonso de Ercilla</authority>
+          . En los griegos, por ser las voces de muchas
+          vocales, hubo otra necesidad más frecuente que las transposiciones latinas para medir los
+          versos, y fue el partir las voces en el principio de uno y en el <pb n="39"/> fin del
+          otro. <authority>Pindarus</authority>,
+          <title>Olimpia</title> I:</p>
+        <quote>
+          <l>[…] ἀνήρ τις ἔλπεταί τι λαθέ-</l>
+          <l>μεν ἔρδων ἁ μαρτάνει</l>
+          <l>Vir aliquis desiderat quippiam late-</l>
+          <l>re faciens fallitur.</l>
+        </quote>
+        <p>En español se escribiría así:</p>
+        <quote>
+          <l>Si algún varón desea</l>
+          <l>que alguna cosa que hizo no se se-</l>
+          <l>pa, engáñase sin duda.</l>
+        </quote>
+        <p>Y en la primera de los <title>Pitios</title>:</p>
+        <quote>
+          <l>Χρυσέα φόρμιγξ, ᾽Απόλλω-</l>
+          <l>νος […]</l>
+          <l>Aurea cithara Apolli-</l>
+          <l>nis.</l>
+        </quote>
+        <p>Y así muchas veces en cada plana, cosa que disuena, y bien áspera al oído y a la vista. Y
+          con todo eso <authority>Horacio</authority> lo imitó una vez, como se ve en sus
+          obras (<title>Carminum</title>, lib. 4, Od. 2):</p>
+        <quote>
+          <l>Pindarum quisquis studet aemulari, I-</l>
+          <l>ule, ceratis ope Dedalea.</l>
+        </quote>
+        <p>Y pocos renglones más abajo lo hizo otra <pb n="40"/> vez: aquí trataba de que <authority>Píndaro</authority> era inimitable, y parece ingenio mostrarlo con la imitación que
+          hace de él en esta parte, que él frecuentó tanto, de partir las voces. Sin esta necesidad
+          lo hizo <authority>Horacio</authority> en el lib. 2 <title>Carminum</title>, Od.
+          2:</p>
+        <quote>
+          <l>Labiturripa
+            Ioue non probante u-</l>
+          <l>xorius amnis.</l>
+        </quote>
+        <p>Y no faltó quien imitase esto. El capitán <authority>Francisco de
+            Aldana</authority> en unas estancias, reprendiendo la codicia, dice:</p>
+        <quote>
+          <l>Aguija, corre, ve, camina, perma-</l>
+          <l>neciendo triste. Etc.</l>
+        </quote>
+        <p>Y nuestro autor el doctísimo <authority>fray Luis de León</authority>, en la
+          traducción que hizo de la nave de <authority>Horacio</authority>, cuando juzgó las
+          traducciones de Francisco de Espinosa, de Francisco Sánchez de las Brozas y de Juan de
+            Almeida. Es
+          tal la tercera estancia:</p>
+        <quote>
+          <l>No tienes vela sana,</l>
+          <l>no dioses a quien llames en tu amparo,</l>
+          <l>aunque te precies vana-</l>
+          <pb n="41"/>
+          <l>mente de tu linaje noble y claro,</l>
+          <l>y seas, noble pino,</l>
+          <l>hijo de pino noble en el Euxino.</l>
+        </quote>
+        <p>Es de advertir que esto no lo hicieron por elegante ni agradable; hiciéronlo por la
+          fuerza del consonante, que era <hi rend="i">vana</hi>, y no <hi rend="i">mente</hi>.</p>
+        <p>De buena gana lloro la satisfacción con que se llaman hoy algunos <hi rend="i">cultos</hi>, siendo temerarios y monstruosos, osando decir que hoy se sabe hablar la
+          lengua castellana, cuando no se sabe dónde se habla, y en las conversaciones
+          –aun de los legos– tal algarabía se usa que parece junta de diferentes naciones; y dicen que la
+          enriquecen los que la confunden.</p>
+        <p>Excelentísimo señor, en mi poder tengo un libro grande del infante don <authority>Enrique de Villena</authority>: manuscrito digno de grande estimación;
+          infante a quien la ignorancia popular ha vuelto el túmulo de piedra que tiene su cuerpo en
+          San Francisco de esta corte en redoma. <pb n="42"/> Entre
+          otras obras suyas de grande utilidad y elegancia, hay una de la <title>Gaya
+            ciencia</title>, que es la arte de escribir versos; doctrina y trabajo digno de admiración, por ver con cuánto cuidado
+          en aquel tiempo se estudiaba la lengua castellana, y el rigor y diligencia con que se
+          pulían las palabras y se facilitaba la pronunciación cuando, por mal acompañadas, vocales
+          sonaban ásperas o eran equívocas o dejativas a la lengua o al número,
+          añadiendo y quitando letras; estudio de que no hay en otro libro noticia, y que sin ella
+          mal se puede dar razón de las voces tan afectuosas de las partidas.</p>
+        <p>Hoy, señor, por no decir lo que sin asco ni escrúpulo es lícito, hay algunos que dicen lo
+          que es torpe y abominable; <authority>Quintiliano</authority> lo enseña: <quote><hi rend="i">Obscena vitabimus et sordida et humilia</hi></quote>. Y en el propio libro 8, cap. 2, acusa a estos que ni saben dejar
+          ni escoger: <quote><hi rend="i">Nec video quare clarus orator</hi></quote><pb n="43"/>
+          <quote><hi rend="i">“duratos muria pisces” nitidius esse crediderit quam ipsum id quod
+              vitabat</hi></quote> (Ni veo por qué el claro orador creyó era mejor decir “los peces
+          con la muria” que lo mismo que quería decir). Sea ejemplo si en España alguno, por excusar la voz <hi rend="i">cabrito</hi> –que es decente, y no es sucia ni vil ni deshonesta– dijese <hi rend="i">cuerno</hi>, que es todo esto junto con ignominia, y de mala composición de
+            letras.</p>
+        <p>No tienen en nuestra España, en los grandes y famosos escritores de aquel tiempo,
+          comparación las obras de fray Luis de León, ni en lo serio y útil de los intentos, ni en
+          la dialéctica de los discursos, ni en la pureza de la lengua, ni en la majestad de la
+          dicción, ni en la facilidad de los números, ni en la claridad, virtud de quien hago tres
+          diferencias; ésta es su nomenclatura: <hi rend="i">καθαρότης, εὐκρίνεια, ένάργια</hi>
+          . Encarécela con tales palabras <authority>Antonio Lulio</authority>, lib. 6<title> De oratione</title>, cap. 2: <quote><hi rend="i">Ac
+              de claritate quidem</hi></quote><pb n="44"/><quote><hi rend="i"> principio dicendum
+              videtur, quae prima semper et maxima virtus existimata est orationis. Hanc alii
+              puritate et castimonia quadam dictionis assequuntur, alii explanatione seu
+              distinctione et elegantia, alii demum</hi><hi xml:lang="fr" rend="i"> euidentia et
+              subiectione eorum ob oculos quae dicuntur</hi></quote><seg rend="edcitacorta">.</seg> (Lo primero diremos de la
+          claridad, que siempre es la primera y la mayor virtud de la oración. Esta, unos la
+          alcanzan con cierta pureza y castidad de las dicciones; otros con la explicación,
+          distinción y elegancia; otros, finalmente, con la evidencia, y poniendo delante de los
+          ojos lo que dicen). Por eso, siendo vulgar sentimiento, dijo <authority>Virgilio</authority> en el 4 de la <title>Eneida</title>:</p>
+        <quote>
+          <l>I, sequere Italiam ventis</l>
+          <l>(Ve, y sigue a Italia).</l>
+        </quote>
+        <p rend="noindent">Y en otra parte:</p>
+        <quote>
+          <l>Quos ego… Sed motos praestat</l>
+          <l>(A quien yo… Mas conviene por ahora).</l>
+        </quote>
+        <p rend="noindent">Y al fin:</p>
+        <quote>
+          <l>Hactenus, Acca soror,
+              potui.</l>
+        </quote>
+        <p>Y por representar delante de los ojos lo que decía, no excusó la menudencia en Palinuro:
+            <pb n="45"/></p>
+        <quote>
+          <l>Madida cum veste grauatum.</l>
+          <l>(Cargado con mojada vestidura).</l>
+        </quote>
+        <p rend="noindent">Y en Dido:</p>
+        <quote>
+          <l>Ter sese attollens cubitoque innixa leuauit,</l>
+          <l>ter reuoluta toro est.</l>
+          <l>(Tres veces afirmándose en el codo, procuró levantarse).</l>
+        </quote>
+        <p>Y el repetir <hi rend="i">sese (a sí, a sí)</hi> es poner delante de los ojos las acciones.</p>
+        <p>Largo ha sido mi discurso y, con todo, no llega a medirse con la raíz que ha echado esta
+          cizaña de nuestra habla. No hago cargo a la grandeza de
+          vuestra excelencia de que por elección mía le dedico escritos de tanto precio: señor,
+          antes ha sido necesidad forzada, porque no conozco otro que con tal afecto y estimación
+          haya admitido autores de esta nota, ni quien deje de molestar la atención ajena, hablando
+          o escribiendo, con estas demasías mendigadas, si no es vuestra excelencia.</p>
+        <p>Estas obras se dividen en propias, y éstas en morales o espirituales. Las ajenas en
+          traducciones de <authority>Horacio</authority>, <authority>Píndaro</authority><pb n="46"/>, <authority>Virgilio</authority>, <authority>Petrarca</authority>, <authority>Monseñor de la Casa</authority>, que es la parte segunda. La tercera, en perífrasis de
+          psalmos y cánticos, y capítulos de Job y de los Proverbios. Tan decente volumen obligación
+          fue darle a vuestra excelencia, que con sólo recibirle aniquilará la licencia en escribir,
+          pues, moderando esta desorden sabrosa y acogiendo obras como éstas (todas de virtud y todas
+          verdaderamente doctas), la esclarecida memoria de vuestra excelencia tendrá pública
+          aclamación, y el estilo descaminado y extraño, castigo autorizado y eficaz que en los que
+          hallare vergüenza dejará enmienda.</p>
+        <p>Dé Dios a vuestra excelencia su gracia y larga vida con buena salud, y le defienda de
+          todo mal. En Madrid, 21 de julio de 1629.</p>
+        <p>Excelentísimo señor</p>
+        <p>Besa a vuestra excelencia la mano</p>
+        <p>Don Francisco de Quevedo Villegas</p>
+      </div>
+    </body>
+  </text>
+</TEI>
